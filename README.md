@@ -4,7 +4,7 @@
 This project is an **AI-powered course-registration assistant** developed as part of an **independent study at Fairfield University**. Built with **Python** and **Streamlit**, the tool demonstrates how artificial intelligence can streamline academic advising and registration through natural-language interaction.
 
 Students can type plain-language requests such as:  
-> “I need 15 credits, avoid Friday classes, and finish my ethics requirement.”
+> “I need 15 credits, avoid Friday classes, and finish my language requirement.”
 
 The assistant interprets these requests, converts them into structured academic constraints, and generates **conflict-free, degree-aligned schedules** that follow program rules and prerequisites. It also explains how each schedule supports a student’s degree progress, making the registration process transparent, efficient, and personalized.
 
