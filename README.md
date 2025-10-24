@@ -51,6 +51,7 @@ Ultimately, this project illustrates the potential for **AI-driven advising syst
 ## Author  
 **Molly Lowell**  
 Master of Business Administration (MBA), Business Analytics
+
 Dolan School of Business, Fairfield University  
 [mollylowell1@gmail.com] [molly.lowell@student.fairfield.edu]
 
