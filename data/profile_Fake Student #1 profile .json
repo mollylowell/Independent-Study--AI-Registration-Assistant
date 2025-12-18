@@ -1,0 +1,28 @@
+{
+  "user_text": "15 credits, prefer Tu/Th, avoid Friday, no classes after 3 pm\n\n",
+  "completed_codes": [
+    "ENGL1001",
+    "MATH1121",
+    "MGMT2101",
+    "ECON1011",
+    "ACCT1011",
+    "MARK1101",
+    "MGMT3201",
+    "DATA1101",
+    "PHIL1101",
+    "RLST1101",
+    "HIST1100",
+    "BIOL1072",
+    "STAT2117",
+    "FINN2101",
+    "COMM1130"
+  ],
+  "min_credits": 12,
+  "max_credits": 15,
+  "include_capstone": false,
+  "must_include": [],
+  "avoid_days": [],
+  "earliest": "10:00",
+  "latest": "17:00",
+  "prioritize_codes": []
+}

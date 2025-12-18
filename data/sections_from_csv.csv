@@ -1,0 +1,2312 @@
+section_id,course_id,instructor,modality,campus,days,start_time,end_time,capacity,seats_taken
+ACCT 1011-01 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,15:30,16:45,100,0
+ACCT 1011-02 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,14:00,15:15,100,0
+ACCT 1011-03 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,09:30,10:45,100,0
+ACCT 1011-04 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,12:30,13:45,100,0
+ACCT 1011-05 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,12:30,13:45,100,0
+ACCT 1011-06 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoWe,17:00,18:15,100,0
+ACCT 1011-07 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuTh,17:00,18:15,100,0
+ACCT 1011-08 - Intro to Financial Accounting,ACCT 1011,,in-person,,,,,100,0
+ACCT 1011-09 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,09:30,10:45,100,0
+ACCT 1011-10 - Intro to Financial Accounting,ACCT 1011,,in-person,,,,,100,0
+ACCT 1011-11 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,11:00,12:15,100,0
+ACCT 1011-12 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,08:00,09:15,100,0
+ACCT 1011-13 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,11:00,12:15,100,0
+ACCT 1011-14 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,14:00,15:15,100,0
+ACCT 1011-15 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,09:30,10:45,100,0
+ACCT 1011-16 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,08:00,09:15,100,0
+ACCT 1011-17 - Intro to Financial Accounting,ACCT 1011,,in-person,,,,,100,0
+ACCT 1011-18 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,15:30,16:45,100,0
+ACCT 1011-19 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,14:00,15:15,100,0
+ACCT 1011-20 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,12:30,13:45,100,0
+ACCT 1011-21 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,15:30,16:45,100,0
+ACCT 1011-22 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,08:00,09:15,100,0
+ACCT 1011-23 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,09:30,10:45,100,0
+ACCT 1011-24 - Intro to Financial Accounting,ACCT 1011,,in-person,,TuFr,15:30,16:45,100,0
+ACCT 1011-26 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,15:30,16:45,100,0
+ACCT 1011-28 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,11:00,12:15,100,0
+ACCT 1011-B25 - Intro to Financial Accounting,ACCT 1011,,in-person,,,,,100,0
+ACCT 1012-01 - Intro to Management Accounting,ACCT 1012,,in-person,,,,,100,0
+ACCT 1012-02 - Intro to Management Accounting,ACCT 1012,,in-person,,MoTh,15:30,16:45,100,0
+ACCT 2203-01 - Intermediate Accounting I,ACCT 2203,,in-person,,MoTh,11:00,12:15,100,0
+ACCT 2203-02 - Intermediate Accounting I,ACCT 2203,,in-person,,TuFr,14:00,15:15,100,0
+ACCT 2203-03 - Intermediate Accounting I,ACCT 2203,,in-person,,TuFr,15:30,16:45,100,0
+ACCT 2203-04 - Intermediate Accounting I,ACCT 2203,,in-person,,MoTh,08:00,09:15,100,0
+ACCT 2203-05 - Intermediate Accounting I,ACCT 2203,,in-person,,MoTh,09:30,10:45,100,0
+ACCT 2203-06 - Intermediate Accounting I,ACCT 2203,,in-person,,,,,100,0
+ACCT 2203-07 - Intermediate Accounting I,ACCT 2203,,in-person,,MoTh,12:30,13:45,100,0
+ACCT 2204-01 - Intermediate Accounting II,ACCT 2204,,in-person,,We,11:00,13:30,100,0
+ACCT 2204-02 - Intermediate Accounting II,ACCT 2204,,in-person,,We,14:00,16:30,100,0
+ACCT 2265-01 - Standalone Acct Sys. Dev & Use,ACCT 2265,,in-person,,TuFr,11:00,12:15,100,0
+ACCT 2980-01 - Internship,ACCT 2980,,in-person,,,,,100,0
+ACCT 3320-01 - Cost Management,ACCT 3320,,in-person,,Mo,17:00,19:30,100,0
+ACCT 3330-01 - Auditing,ACCT 3330,,in-person,,MoTh,11:00,12:15,100,0
+ACCT 3330-02 - Auditing,ACCT 3330,,in-person,,,,,100,0
+ACCT 3330-03 - Auditing,ACCT 3330,,in-person,,MoTh,08:00,09:15,100,0
+ACCT 3330-04 - Auditing,ACCT 3330,,in-person,,MoTh,12:30,13:45,100,0
+ACCT 3343-01 - Federal Income Taxation I,ACCT 3343,,in-person,,TuFr,11:00,12:15,100,0
+ACCT 3343-02 - Federal Income Taxation I,ACCT 3343,,in-person,,TuFr,09:30,10:45,100,0
+ACCT 3343-03 - Federal Income Taxation I,ACCT 3343,,in-person,,Tu,17:00,19:30,100,0
+ACCT 3343-04 - Federal Income Taxation I,ACCT 3343,,in-person,,TuFr,08:00,09:15,100,0
+ACCT 3980-01 - Internship,ACCT 3980,,in-person,,,,,100,0
+ACCT 4310-01 - Advanced Accounting,ACCT 4310,,in-person,,Tu,17:00,19:30,100,0
+ACCT 4310-02 - Advanced Accounting,ACCT 4310,,in-person,,We,11:00,13:30,100,0
+ACCT 4310-03 - Advanced Accounting,ACCT 4310,,in-person,,We,14:00,16:30,100,0
+ACCT 6500-01 - Acctg Info for Decision-Making,ACCT 6500,,in-person,,,,,100,0
+ACCT 6500-02 - Acctg Info for Decision-Making,ACCT 6500,,in-person,,,,,100,0
+ACCT 6515-01 - Property Transactns: Reg & Tax,ACCT 6515,,in-person,,Tu,18:30,21:30,100,0
+ACCT 6515-02 - Property Transactns: Reg & Tax,ACCT 6515,,in-person,,Tu,18:30,21:30,100,0
+ACCT 6570-01 - Issues in Accounting Ethics,ACCT 6570,,in-person,,,,,100,0
+ACCT 6570-02 - Issues in Accounting Ethics,ACCT 6570,,in-person,,,,,100,0
+ACCT 6570-03 - Issues in Accounting Ethics,ACCT 6570,,in-person,,,,,100,0
+ACCT 6585-01 - Effective Comm for Acctg Pros,ACCT 6585,,in-person,,,,,100,0
+ACCT 6970-01 - Research on Contemp Issues (RESEARCH ON CONTEMP ISSUES),ACCT 6970,,in-person,,,,,100,0
+ACCT 6970-02 - Research on Contemp Issues (RESEARCH ON CONTEMP ISSUES),ACCT 6970,,in-person,,,,,100,0
+AETH 2262-01 - Ethics and the Community,AETH 2262,,in-person,,We,14:00,16:30,100,0
+AETH 2265-01 - Ethics in Education,AETH 2265,,in-person,,TuTh,17:00,18:15,100,0
+AETH 2281-01 - Ethics of Communications,AETH 2281,,in-person,,,,,100,0
+AETH 2284-01 - Environmental Ethics,AETH 2284,,in-person,,We,11:00,13:30,100,0
+AETH 2285-03 - Ethics of Health Care,AETH 2285,,in-person,,We,17:00,19:30,100,0
+AETH 2291-01 - Business Ethics,AETH 2291,,in-person,,MoTh,09:30,10:45,100,0
+AETH 2291-02 - Business Ethics,AETH 2291,,in-person,,MoTh,11:00,12:15,100,0
+AETH 2291-03 - Business Ethics,AETH 2291,,in-person,,,,,100,0
+AETH 2291-04 - Business Ethics,AETH 2291,,in-person,,MoTh,15:30,16:45,100,0
+AETH 2291-05 - Business Ethics,AETH 2291,,in-person,,TuFr,09:30,10:45,100,0
+AETH 2291-06 - Business Ethics,AETH 2291,,in-person,,TuFr,11:00,12:15,100,0
+AETH 2291-07 - Business Ethics,AETH 2291,,in-person,,TuFr,14:00,15:15,100,0
+AETH 2291-08 - Business Ethics,AETH 2291,,in-person,,TuFr,15:30,16:45,100,0
+AETH 2291-11 - Business Ethics,AETH 2291,,in-person,,,,,100,0
+AETH 2291-13 - Business Ethics,AETH 2291,,in-person,,MoTh,12:30,13:45,100,0
+AETH 2291-14 - Business Ethics,AETH 2291,,in-person,,We,08:00,10:30,100,0
+AETH 2295-01 - Ethics in Law and Society,AETH 2295,,in-person,,,,,100,0
+"AHST 1003-01 - Exploring Art: Life, Death",AHST 1003,,in-person,,TuFr,12:30,13:45,100,0
+"AHST 1004-01 - Art, Politics, and Propaganda",AHST 1004,,in-person,,We,11:00,13:30,100,0
+"AHST 1006-01 - Exploring Art: Destruct,Plundr",AHST 1006,,in-person,,MoTh,12:30,13:45,100,0
+"AHST 1006-02 - Exploring Art: Destruct,Plundr",AHST 1006,,in-person,,,,,100,0
+AHST 1110-01 - Myth in Classical Art,AHST 1110,,in-person,,MoTh,09:30,10:45,100,0
+AHST 1112-01 - Roman Art and Archaeology,AHST 1112,,in-person,,TuFr,09:30,10:45,100,0
+AHST 1131-01 - High Renaissance in Italy,AHST 1131,,in-person,,TuFr,11:00,12:15,100,0
+AHST 2250-2 - Hist Fashionable Dress /Global,AHST 2250,,in-person,,TuFr,12:30,13:45,100,0
+AHST 2296-01 - Museum Exhibition Seminar,AHST 2296,,in-person,,TuFr,15:30,16:45,100,0
+AHST 3980-01 - Internship,AHST 3980,,in-person,,,,,100,0
+AHST 3990-01 - Independent Study,AHST 3990,,in-person,,,,,100,0
+AMED 1060-01 - Ancient Greek Literature,AMED 1060,,in-person,,TuFr,15:30,16:45,100,0
+AMED 1070-01 - Ancient Roman Literature,AMED 1070,,in-person,,MoTh,11:00,12:15,100,0
+AMED 1115-01 - Greek Civilization,AMED 1115,,in-person,,,,,100,0
+AMED 1115-02 - Greek Civilization,AMED 1115,,in-person,,MoTh,15:30,16:45,100,0
+AMST 2201-01 - Roots of American Culture,AMST 2201,,in-person,,MoTh,09:30,10:45,100,0
+AMST 3990-01 - Independent Research Project (INDEPENDENT RESEARCH PROJECT),AMST 3990,,in-person,,,,,100,0
+AMST 5999-01 - American Studies Graduate Proj,AMST 5999,,in-person,,,,,100,0
+ANTH 1100-01 - Intro Four-Field Anthropology,ANTH 1100,,in-person,,,,,100,0
+ANTH 1100-02 - Intro Four-Field Anthropology,ANTH 1100,,in-person,,,,,100,0
+ANTH 1100-03 - Intro Four-Field Anthropology,ANTH 1100,,in-person,,TuFr,11:00,12:15,100,0
+ANTH 1100-04 - Intro Four-Field Anthropology,ANTH 1100,,in-person,,TuFr,12:30,13:45,100,0
+ANTH 1110-01 - Cultural Anthropology,ANTH 1110,,in-person,,TuFr,09:30,10:45,100,0
+ANTH 1110-02 - Cultural Anthropology,ANTH 1110,,in-person,,,,,100,0
+ANTH 1116-01 - Intro. Latinx-U.S. Immigration,ANTH 1116,,in-person,,We,11:00,13:30,100,0
+"ANTH 1125-01 - Sex, Gender, Sexual Orientatn",ANTH 1125,,in-person,,We,18:30,21:00,100,0
+ANTH 1200-03 - Biological Anthropology,ANTH 1200,,in-person,,,,,100,0
+ANTH 1200-04 - Biological Anthropology,ANTH 1200,,in-person,,,,,100,0
+ANTH 1210-01 - Biomedical Anthropology,ANTH 1210,,in-person,,Mo,17:00,19:30,100,0
+ANTH 1210-02 - Biomedical Anthropology,ANTH 1210,,in-person,,Tu,17:00,19:30,100,0
+ANTH 1510-01 - Anthropology of Food,ANTH 1510,,in-person,,TuFr,14:00,15:15,100,0
+ARBC 1110-01 - Elem Modern Standard Arabic I,ARBC 1110,,in-person,,MoWeTh,17:00,17:50,100,0
+ARSC 2980-01 - Liberal Arts Internship Elect.,ARSC 2980,,in-person,,,,,100,0
+ASST 4999-01 - Asian Studies Seminar,ASST 4999,,in-person,,,,,100,0
+BIEG 3201-01 - Biomechanics,BIEG 3201,,in-person,,TuFr,12:30,13:45,100,0
+BIEG 3331-01 - Biomedical Signal Processing,BIEG 3331,,in-person,,MoTh,12:30,13:45,100,0
+BIEG 3335-01 - Clinical Engineering,BIEG 3335,,in-person,,,,,100,0
+BIEG 4350-01 - Medical Device Design,BIEG 4350,,in-person,,,,,100,0
+BIEG 4387-01 - Instr. Analysis in Biomed. Eng,BIEG 4387,,in-person,,Fr,14:00,16:30,100,0
+BIEG 5335-01 - Clinical Engineering,BIEG 5335,,in-person,,,,,100,0
+BIEG 5350-01 - Medical Device Design,BIEG 5350,,in-person,,,,,100,0
+BIEG 5387-01 - Instr. Analysis in Biomed.Eng.,BIEG 5387,,in-person,,Fr,14:00,16:30,100,0
+BIEG 5415-01 - Eng. Applic. Numerical Methods,BIEG 5415,,in-person,,We,18:30,21:00,100,0
+BIEG 6971-01 - Thesis I,BIEG 6971,,in-person,,,,,100,0
+BIEG 6971-02 - Thesis I,BIEG 6971,,in-person,,,,,100,0
+BIOL 1015-01 - Fundamentals of Biology I,BIOL 1015,,in-person,,MoTh,08:00,09:15,100,0
+BIOL 1015-02 - Fundamentals of Biology I,BIOL 1015,,in-person,,MoTh,09:30,10:45,100,0
+BIOL 1018-01 - Human Biology: Form & Function,BIOL 1018,,in-person,,,,,100,0
+BIOL 1018-02 - Human Biology: Form & Function,BIOL 1018,,in-person,,MoTh,15:30,16:45,100,0
+BIOL 1018-03 - Human Biology: Form & Function,BIOL 1018,,in-person,,TuFr,11:00,12:15,100,0
+BIOL 1018-04 - Human Biology: Form & Function,BIOL 1018,,in-person,,TuFr,12:30,13:45,100,0
+BIOL 1030-01 - Animal Diversity,BIOL 1030,,in-person,,Th,17:00,19:30,100,0
+BIOL 1076-01 - Environmental Science,BIOL 1076,,in-person,,We,17:00,19:30,100,0
+BIOL 1076-B02 - Environmental Science,BIOL 1076,,in-person,,,,,100,0
+BIOL 1078-01 - Introduction to Marine Science,BIOL 1078,,in-person,,,,,100,0
+BIOL 1078-02 - Introduction to Marine Science,BIOL 1078,,in-person,,,,,100,0
+BIOL 1088-B02 - Biomedical Science and Society,BIOL 1088,,in-person,,,,,100,0
+BIOL 1088-B03 - Biomedical Science and Society,BIOL 1088,,in-person,,,,,100,0
+BIOL 1107L-01 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-02 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-03 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-04 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-05 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-06 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-07 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-08 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-09 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-10 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-11 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-12 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-13 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-14 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-B15 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107L-B16 - Human Anat & Phys Lab I,BIOL 1107L,,in-person,,,,,100,0
+BIOL 1107-01 - Human Anatomy and Physiology I,BIOL 1107,,in-person,,MoTh,11:00,12:15,100,0
+BIOL 1107-02 - Human Anatomy and Physiology I,BIOL 1107,,in-person,,MoTh,12:30,13:45,100,0
+BIOL 1107-03 - Human Anatomy and Physiology I,BIOL 1107,,in-person,,,,,100,0
+BIOL 1107-04 - Human Anatomy and Physiology I,BIOL 1107,,in-person,,MoTh,15:30,16:45,100,0
+BIOL 1107-B05 - Human Anatomy and Physiology I,BIOL 1107,,in-person,,,,,100,0
+BIOL 1151L-01 - Elements of Microbiology Lab,BIOL 1151L,,in-person,,,,,100,0
+BIOL 1151L-02 - Elements of Microbiology Lab,BIOL 1151L,,in-person,,,,,100,0
+BIOL 1151L-03 - Elements of Microbiology Lab,BIOL 1151L,,in-person,,,,,100,0
+BIOL 1151L-04 - Elements of Microbiology Lab,BIOL 1151L,,in-person,,,,,100,0
+BIOL 1151L-05 - Elements of Microbiology Lab,BIOL 1151L,,in-person,,,,,100,0
+BIOL 1151L-06 - Elements of Microbiology Lab,BIOL 1151L,,in-person,,,,,100,0
+BIOL 1151-01 - Elements of Microbiology,BIOL 1151,,in-person,,MoTh,09:30,10:45,100,0
+BIOL 1151-02 - Elements of Microbiology,BIOL 1151,,in-person,,MoTh,12:30,13:45,100,0
+BIOL 1171L-01 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+BIOL 1171L-02 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+BIOL 1171L-03 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+BIOL 1171L-04 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+BIOL 1171L-05 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+BIOL 1171L-06 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+BIOL 1171L-07 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+BIOL 1171L-08 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+BIOL 1171L-09 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+BIOL 1171P-01 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-02 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-03 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-04 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-05 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-06 - General Biology I PLG,BIOL 1171P,,in-person,,We,15:00,15:50,100,0
+BIOL 1171P-07 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-08 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-09 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-10 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-11 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-12 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-13 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-14 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171P-15 - General Biology I PLG,BIOL 1171P,,in-person,,,,,100,0
+BIOL 1171-01 - General Biology I,BIOL 1171,,in-person,,TuFr,09:30,10:45,100,0
+BIOL 1171-02 - General Biology I,BIOL 1171,,in-person,,TuFr,12:30,13:45,100,0
+BIOL 1173L-01 - General Biology III Lab,BIOL 1173L,,in-person,,,,,100,0
+BIOL 1173L-02 - General Biology III Lab,BIOL 1173L,,in-person,,,,,100,0
+BIOL 1173L-03 - General Biology III Lab,BIOL 1173L,,in-person,,,,,100,0
+BIOL 1173L-04 - General Biology III Lab,BIOL 1173L,,in-person,,,,,100,0
+BIOL 1173L-05 - General Biology III Lab,BIOL 1173L,,in-person,,,,,100,0
+BIOL 1173-01 - General Biology III,BIOL 1173,,in-person,,TuFr,11:00,12:15,100,0
+BIOL 2261L-01 - Genetics Lab,BIOL 2261L,,in-person,,,,,100,0
+BIOL 2261-01 - Genetics,BIOL 2261,,in-person,,TuFr,09:30,10:45,100,0
+BIOL 2262L-01 - Human Physiology Lab,BIOL 2262L,,in-person,,,,,100,0
+BIOL 2262-01 - Human Physiology,BIOL 2262,,in-person,,MoTh,09:30,10:45,100,0
+BIOL 2951-01 - Biology Teaching Practicum I (BIOLOGY TEACHING PRACTICUM I),BIOL 2951,,in-person,,,,,100,0
+BIOL 2952-01 - Biology Teaching Practicum II (BIOLOGY TEACHING PRACTICUM II),BIOL 2952,,in-person,,,,,100,0
+BIOL 2953-01 - Biology Teaching Practicum III (BIOLOGY TEACHING PRACTICUM III),BIOL 2953,,in-person,,,,,100,0
+BIOL 2954-01 - Biology Teaching Practicum IV (BIOLOGY TEACHING PRACTICUM IV),BIOL 2954,,in-person,,,,,100,0
+BIOL 2955-01 - Biology Teaching Practicum V (BIOLOGY TEACHING PRACTICUM V),BIOL 2955,,in-person,,,,,100,0
+BIOL 2956-01 - Biology Teaching Practicum VI (BIOLOGY TEACHING PRACTICUM VI),BIOL 2956,,in-person,,,,,100,0
+BIOL 3323L-01 - Biochemistry Lab,BIOL 3323L,,in-person,,,,,100,0
+BIOL 3324-01 - Biochemistry I,BIOL 3324,,in-person,,MoTh,12:30,13:45,100,0
+BIOL 3352L-01 - Fund of Microbiology Lab,BIOL 3352L,,in-person,,,,,100,0
+BIOL 3352-01 - Fundamentals of Microbiology,BIOL 3352,,in-person,,TuFr,11:00,12:15,100,0
+BIOL 3354-01 - Molecular Biology,BIOL 3354,,in-person,,TuFr,12:30,13:45,100,0
+BIOL 3362L-01 - Marine Invertebrate Zoology Lb,BIOL 3362L,,in-person,,,,,100,0
+BIOL 3362-01 - Marine Invertebrate Zoology,BIOL 3362,,in-person,,MoTh,12:30,13:45,100,0
+BIOL 4971-01 - Biology Research I (BIOLOGY RESEARCH I),BIOL 4971,,in-person,,,,,100,0
+BIOL 4972-01 - Biology Research II (BIOLOGY RESEARCH II),BIOL 4972,,in-person,,,,,100,0
+BIOL 4973-01 - Biology Research III (BIOLOGY RESEARCH III),BIOL 4973,,in-person,,,,,100,0
+BIOL 4974-01 - Biology Research IV (BIOLOGY RESEARCH IV),BIOL 4974,,in-person,,,,,100,0
+BIOL 4975-01 - Biology Research V (BIOLOGY RESEARCH V),BIOL 4975,,in-person,,,,,100,0
+BIOL 4976-01 - Biology Research VI (BIOLOGY RESEARCH VI),BIOL 4976,,in-person,,,,,100,0
+BIOL 4981-01 - Internship,BIOL 4981,,in-person,,,,,100,0
+BIOL 4999I-01 - Capstone: Topics/Evol Biology (CAPSTONE: TOPICS/EVOL BIOLOGY),BIOL 4999I,,in-person,,TuFr,09:30,10:45,100,0
+BIOL 4999K-01 - Capstone: Ichthyology (CAPSTONE: ICHTHYOLOGY),BIOL 4999K,,in-person,,MoTh,11:00,12:15,100,0
+BIOL 4999M-01 - Capstone: Conservation Biology (CAPSTONE: CONSERVATION BIOLOGY),BIOL 4999M,,in-person,,We,11:00,13:30,100,0
+BUSN 1101-01 - Messaging and Persuasion,BUSN 1101,,in-person,,MoTh,09:30,10:45,100,0
+BUSN 1101-02 - Messaging and Persuasion,BUSN 1101,,in-person,,MoTh,11:00,12:15,100,0
+BUSN 1101-03 - Messaging and Persuasion,BUSN 1101,,in-person,,,,,100,0
+BUSN 1101-04 - Messaging and Persuasion,BUSN 1101,,in-person,,MoTh,15:30,16:45,100,0
+BUSN 1101-05 - Messaging and Persuasion,BUSN 1101,,in-person,,TuFr,08:00,09:15,100,0
+BUSN 1101-06 - Messaging and Persuasion,BUSN 1101,,in-person,,TuFr,11:00,12:15,100,0
+BUSN 1101-07 - Messaging and Persuasion,BUSN 1101,,in-person,,TuFr,14:00,15:15,100,0
+BUSN 1101-08 - Messaging and Persuasion,BUSN 1101,,in-person,,We,14:00,16:30,100,0
+BUSN 1101-09 - Messaging and Persuasion,BUSN 1101,,in-person,,We,17:00,19:30,100,0
+BUSN 1101-10 - Messaging and Persuasion,BUSN 1101,,in-person,,TuFr,08:00,09:15,100,0
+BUSN 1101-11 - Messaging and Persuasion,BUSN 1101,,in-person,,TuFr,09:30,10:45,100,0
+BUSN 1101-12 - Messaging and Persuasion,BUSN 1101,,in-person,,TuFr,12:30,13:45,100,0
+BUSN 1101-13 - Messaging and Persuasion,BUSN 1101,,in-person,,TuFr,14:00,15:15,100,0
+BUSN 1101-14 - Messaging and Persuasion,BUSN 1101,,in-person,,TuFr,15:30,16:45,100,0
+BUSN 1101-15 - Messaging and Persuasion,BUSN 1101,,in-person,,We,08:00,10:30,100,0
+BUSN 1101-16 - Messaging and Persuasion,BUSN 1101,,in-person,,We,11:00,13:30,100,0
+BUSN 2980-01 - Internship,BUSN 2980,,in-person,,,,,100,0
+BUSN 3211-11 - Legal Environment of Business,BUSN 3211,,in-person,,MoTh,11:00,12:15,100,0
+BUSN 3211-12 - Legal Environment of Business,BUSN 3211,,in-person,,MoTh,12:30,13:45,100,0
+BUSN 3211-13 - Legal Environment of Business,BUSN 3211,,in-person,,MoTh,08:00,09:15,100,0
+BUSN 3211-14 - Legal Environment of Business,BUSN 3211,,in-person,,TuFr,08:00,09:15,100,0
+BUSN 3211-16 - Legal Environment of Business,BUSN 3211,,in-person,,TuFr,15:30,16:45,100,0
+BUSN 3211-17 - Legal Environment of Business,BUSN 3211,,in-person,,TuTh,17:00,18:15,100,0
+BUSN 3211-19 - Legal Environment of Business,BUSN 3211,,in-person,,,,,100,0
+BUSN 3211-20 - Legal Environment of Business,BUSN 3211,,in-person,,We,08:00,10:30,100,0
+BUSN 3215-01 - Sports Law and Ethics,BUSN 3215,,in-person,,,,,100,0
+BUSN 3980-01 - Internship,BUSN 3980,,in-person,,,,,100,0
+BUSN 3980-02 - Internship,BUSN 3980,,in-person,,,,,100,0
+BUSN 3980-03 - Internship,BUSN 3980,,in-person,,,,,100,0
+BUSN 4320-02 - Employ Law & Discrim/Workplace,BUSN 4320,,in-person,,MoWe,17:00,18:15,100,0
+BUSN 6980-01 - Business Immersion Practicum,BUSN 6980,,in-person,,,,,100,0
+BUSN 7100-01 - Understand. Firm: Theor & Prac,BUSN 7100,,in-person,,,,,100,0
+BUSN 7500-01 - Quantitative Res. Methods (I),BUSN 7500,,in-person,,,,,100,0
+BUSN 7550-01 - Quantitative Res. Methods (II),BUSN 7550,,in-person,,,,,100,0
+BUSN 7710-01 - Res. Seminar II: Lit. Summary,BUSN 7710,,in-person,,,,,100,0
+CHEM 1033-01 - Chemistry of Nutrition,CHEM 1033,,in-person,,TuFr,12:30,13:45,100,0
+CHEM 1076-01 - Environmental Science,CHEM 1076,,in-person,,We,17:00,19:30,100,0
+CHEM 1077-01 - Intro to Forensic Science,CHEM 1077,,in-person,,,,,100,0
+"CHEM 1085-01 - Chemistry, Energy, Environment",CHEM 1085,,in-person,,,,,100,0
+CHEM 1086-01 - Chemistry and Art,CHEM 1086,,in-person,,TuTh,17:00,18:15,100,0
+CHEM 1087-01 - Molecules of Life,CHEM 1087,,in-person,,TuFr,14:00,15:15,100,0
+CHEM 1171L-01 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-02 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-03 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-04 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-05 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-06 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-07 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-08 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-09 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-10 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-11 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171L-14 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171-01 - General Chemistry I,CHEM 1171,,in-person,,,,,100,0
+CHEM 1171-02 - General Chemistry I,CHEM 1171,,in-person,,,,,100,0
+CHEM 1171-03 - General Chemistry I,CHEM 1171,,in-person,,,,,100,0
+CHEM 1171-04 - General Chemistry I,CHEM 1171,,in-person,,,,,100,0
+CHEM 1171-06 - General Chemistry I,CHEM 1171,,in-person,,,,,100,0
+CHEM 1171-07 - General Chemistry I,CHEM 1171,,in-person,,,,,100,0
+CHEM 1184L-01 - Gen Chem for Health Sci Lab,CHEM 1184L,,in-person,,,,,100,0
+CHEM 1184L-02 - Gen Chem for Health Sci Lab,CHEM 1184L,,in-person,,,,,100,0
+CHEM 1184L-03 - Gen Chem for Health Sci Lab,CHEM 1184L,,in-person,,,,,100,0
+CHEM 1184L-05 - Gen Chem for Health Sci Lab,CHEM 1184L,,in-person,,,,,100,0
+CHEM 1184L-07 - Gen Chem for Health Sci Lab,CHEM 1184L,,in-person,,,,,100,0
+CHEM 1184L-08 - Gen Chem for Health Sci Lab,CHEM 1184L,,in-person,,,,,100,0
+CHEM 1184L-09 - Gen Chem for Health Sci Lab,CHEM 1184L,,in-person,,,,,100,0
+CHEM 1184-01 - Gen Chem for Health Science,CHEM 1184,,in-person,,TuFr,09:30,10:45,100,0
+CHEM 1184-02 - Gen Chem for Health Science,CHEM 1184,,in-person,,TuFr,11:00,12:15,100,0
+CHEM 1184-03 - Gen Chem for Health Science,CHEM 1184,,in-person,,TuFr,15:30,16:45,100,0
+CHEM 2271L-01 - Organic Chemistry I Lab,CHEM 2271L,,in-person,,,,,100,0
+CHEM 2271L-02 - Organic Chemistry I Lab,CHEM 2271L,,in-person,,,,,100,0
+CHEM 2271L-04 - Organic Chemistry I Lab,CHEM 2271L,,in-person,,,,,100,0
+CHEM 2271L-05 - Organic Chemistry I Lab,CHEM 2271L,,in-person,,,,,100,0
+CHEM 2271L-06 - Organic Chemistry I Lab,CHEM 2271L,,in-person,,,,,100,0
+CHEM 2271L-07 - Organic Chemistry I Lab,CHEM 2271L,,in-person,,,,,100,0
+CHEM 2271L-08 - Organic Chemistry I Lab,CHEM 2271L,,in-person,,,,,100,0
+CHEM 2271-01 - Organic Chemistry I,CHEM 2271,,in-person,,,,,100,0
+CHEM 2271-02 - Organic Chemistry I,CHEM 2271,,in-person,,,,,100,0
+CHEM 2271-03 - Organic Chemistry I,CHEM 2271,,in-person,,,,,100,0
+CHEM 2271-04 - Organic Chemistry I,CHEM 2271,,in-person,,,,,100,0
+CHEM 3311-01 - Forensic Science in Healthcare,CHEM 3311,,in-person,,MoTh,11:00,12:15,100,0
+CHEM 3323L-01 - Biochemistry Lab,CHEM 3323L,,in-person,,,,,100,0
+CHEM 3324-01 - Biochemistry I,CHEM 3324,,in-person,,MoTh,12:30,13:45,100,0
+CHEM 3326-02 - Chemical Instrumentation,CHEM 3326,,in-person,,TuFr,09:30,10:45,100,0
+CHEM 3341L-01 - Advanced Inorganic Chem Lab,CHEM 3341L,,in-person,,,,,100,0
+CHEM 3341-01 - Advanced Inorganic Chemistry,CHEM 3341,,in-person,,MoTh,11:00,12:15,100,0
+CHEM 3361L-01 - Physical Chemistry I Lab,CHEM 3361L,,in-person,,,,,100,0
+CHEM 3361-01 - Physical Chemistry I,CHEM 3361,,in-person,,TuFr,11:00,12:15,100,0
+CHEM 4971-01 - Research and Seminar I (RESEARCH AND SEMINAR I),CHEM 4971,,in-person,,,,,100,0
+CHEM 4971-02 - Research and Seminar I (RESEARCH AND SEMINAR I),CHEM 4971,,in-person,,,,,100,0
+CHEM 4971-03 - Research and Seminar I (RESEARCH AND SEMINAR I),CHEM 4971,,in-person,,,,,100,0
+CHEM 4971-04 - Research and Seminar I (RESEARCH AND SEMINAR I),CHEM 4971,,in-person,,,,,100,0
+CHEM 4971-05 - Research and Seminar I (RESEARCH AND SEMINAR I),CHEM 4971,,in-person,,,,,100,0
+CHEM 4971-06 - Research and Seminar I (RESEARCH AND SEMINAR I),CHEM 4971,,in-person,,,,,100,0
+CHEM 4971-07 - Research and Seminar I (RESEARCH AND SEMINAR I),CHEM 4971,,in-person,,,,,100,0
+CHEM 4972-01 - Research and Seminar II (RESEARCH AND SEMINAR II),CHEM 4972,,in-person,,,,,100,0
+CHEM 4972-02 - Research and Seminar II (RESEARCH AND SEMINAR II),CHEM 4972,,in-person,,,,,100,0
+CHEM 4972-03 - Research and Seminar II (RESEARCH AND SEMINAR II),CHEM 4972,,in-person,,,,,100,0
+CHEM 4972-04 - Research and Seminar II (RESEARCH AND SEMINAR II),CHEM 4972,,in-person,,,,,100,0
+CHEM 4972-05 - Research and Seminar II (RESEARCH AND SEMINAR II),CHEM 4972,,in-person,,,,,100,0
+CHEM 4973-01 - Research and Seminar III (RESEARCH AND SEMINAR III),CHEM 4973,,in-person,,,,,100,0
+CHEM 4973-02 - Research and Seminar III (RESEARCH AND SEMINAR III),CHEM 4973,,in-person,,,,,100,0
+CHEM 4973-03 - Research and Seminar III (RESEARCH AND SEMINAR III),CHEM 4973,,in-person,,,,,100,0
+CHEM 4973-04 - Research and Seminar III (RESEARCH AND SEMINAR III),CHEM 4973,,in-person,,,,,100,0
+CHEM 4973-05 - Research and Seminar III (RESEARCH AND SEMINAR III),CHEM 4973,,in-person,,,,,100,0
+CHEM 4974-01 - Research and Seminar IV (RESEARCH AND SEMINAR IV),CHEM 4974,,in-person,,,,,100,0
+CHEM 4974-02 - Research and Seminar IV (RESEARCH AND SEMINAR IV),CHEM 4974,,in-person,,,,,100,0
+CHEM 4974-03 - Research and Seminar IV (RESEARCH AND SEMINAR IV),CHEM 4974,,in-person,,,,,100,0
+CHEM 4974-04 - Research and Seminar IV (RESEARCH AND SEMINAR IV),CHEM 4974,,in-person,,,,,100,0
+CHEM 4974-05 - Research and Seminar IV (RESEARCH AND SEMINAR IV),CHEM 4974,,in-person,,,,,100,0
+CHEM 4975-01 - Research and Seminar V (RESEARCH AND SEMINAR V),CHEM 4975,,in-person,,,,,100,0
+CHEM 4975-02 - Research and Seminar V (RESEARCH AND SEMINAR V),CHEM 4975,,in-person,,,,,100,0
+CHEM 4975-03 - Research and Seminar V (RESEARCH AND SEMINAR V),CHEM 4975,,in-person,,,,,100,0
+CHEM 4975-04 - Research and Seminar V (RESEARCH AND SEMINAR V),CHEM 4975,,in-person,,,,,100,0
+CHEM 4975-05 - Research and Seminar V (RESEARCH AND SEMINAR V),CHEM 4975,,in-person,,,,,100,0
+CHEM 4976-01 - Research and Seminar VI (RESEARCH AND SEMINAR VI),CHEM 4976,,in-person,,,,,100,0
+CHEM 4976-02 - Research and Seminar VI (RESEARCH AND SEMINAR VI),CHEM 4976,,in-person,,,,,100,0
+CHEM 4976-03 - Research and Seminar VI (RESEARCH AND SEMINAR VI),CHEM 4976,,in-person,,,,,100,0
+CHEM 4976-04 - Research and Seminar VI (RESEARCH AND SEMINAR VI),CHEM 4976,,in-person,,,,,100,0
+CHEM 4976-05 - Research and Seminar VI (RESEARCH AND SEMINAR VI),CHEM 4976,,in-person,,,,,100,0
+CHIN 1110-01 - Elementary Chinese I,CHIN 1110,,in-person,,MoWeTh,14:00,14:50,100,0
+CHIN 2210-01 - Intermediate Chinese I,CHIN 2210,,in-person,,,,,100,0
+COMM 1100-01 - Human Communication Theories,COMM 1100,,in-person,,TuFr,09:30,10:45,100,0
+COMM 1100-02 - Human Communication Theories,COMM 1100,,in-person,,TuFr,14:00,15:15,100,0
+COMM 1100-03 - Human Communication Theories,COMM 1100,,in-person,,MoTh,09:30,10:45,100,0
+COMM 1100-04 - Human Communication Theories,COMM 1100,,in-person,,MoTh,11:00,12:15,100,0
+COMM 1100-05 - Human Communication Theories,COMM 1100,,in-person,,,,,100,0
+COMM 1100-06 - Human Communication Theories,COMM 1100,,in-person,,,,,100,0
+COMM 1101-01 - Argument and Advocacy,COMM 1101,,in-person,,TuFr,09:30,10:45,100,0
+COMM 1101-02 - Argument and Advocacy,COMM 1101,,in-person,,TuFr,14:00,15:15,100,0
+COMM 1101-03 - Argument and Advocacy,COMM 1101,,in-person,,MoTh,08:00,09:15,100,0
+COMM 1101-04 - Argument and Advocacy,COMM 1101,,in-person,,TuFr,11:00,12:15,100,0
+COMM 1101-05 - Argument and Advocacy,COMM 1101,,in-person,,TuFr,15:30,16:45,100,0
+COMM 1101-06 - Argument and Advocacy,COMM 1101,,in-person,,,,,100,0
+COMM 1101-B07 - Argument and Advocacy,COMM 1101,,in-person,,,,,100,0
+COMM 1102-01 - Intro to Public Relations,COMM 1102,,in-person,,MoTh,08:00,09:15,100,0
+COMM 1102-02 - Intro to Public Relations,COMM 1102,,in-person,,,,,100,0
+COMM 1108-01 - Intro to Sports Broadcasting,COMM 1108,,in-person,,,,,100,0
+COMM 1108-02 - Intro to Sports Broadcasting,COMM 1108,,in-person,,,,,100,0
+COMM 1130-01 - Mass Media and Society,COMM 1130,,in-person,,MoTh,12:30,13:45,100,0
+COMM 1130-02 - Mass Media and Society,COMM 1130,,in-person,,TuFr,12:30,13:45,100,0
+COMM 1130-04 - Mass Media and Society,COMM 1130,,in-person,,TuFr,09:30,10:45,100,0
+COMM 1130-05 - Mass Media and Society,COMM 1130,,in-person,,TuFr,11:00,12:15,100,0
+COMM 1130-06 - Mass Media and Society,COMM 1130,,in-person,,TuFr,09:30,10:45,100,0
+COMM 1232-01 - TV Studio Production,COMM 1232,,in-person,,We,14:00,16:30,100,0
+COMM 1232-03 - TV Studio Production,COMM 1232,,in-person,,Mo,17:00,19:30,100,0
+COMM 2200-01 - Interpersonal Comm Theories,COMM 2200,,in-person,,TuFr,09:30,10:45,100,0
+COMM 2200-02 - Interpersonal Comm Theories,COMM 2200,,in-person,,TuWeFr,11:00,11:50,100,0
+COMM 2201-01 - Persuasion,COMM 2201,,in-person,,TuFr,14:00,15:15,100,0
+COMM 2202-01 - Small Group Communication,COMM 2202,,in-person,,MoTh,15:30,16:45,100,0
+COMM 2205-01 - Nonverbal Communication,COMM 2205,,in-person,,MoTh,09:30,10:45,100,0
+COMM 2220-01 - Intro Organizational Comm,COMM 2220,,in-person,,,,,100,0
+COMM 2231-01 - Media Institutions,COMM 2231,,in-person,,,,,100,0
+"COMM 2236-01 - Gender, Sexuality, and Media",COMM 2236,,in-person,,MoTh,09:30,10:45,100,0
+"COMM 2237-01 - Sports, Media, and Culture",COMM 2237,,in-person,,We,11:00,13:30,100,0
+"COMM 2237-02 - Sports, Media, and Culture",COMM 2237,,in-person,,TuFr,09:30,10:45,100,0
+COMM 2238-01 - Communication and Pop Culture,COMM 2238,,in-person,,TuFr,11:00,12:15,100,0
+COMM 2246-01 - Family Communication,COMM 2246,,in-person,,MoTh,11:00,12:15,100,0
+COMM 2299-01 - Communication Research Mthd,COMM 2299,,in-person,,TuFr,08:00,09:15,100,0
+COMM 2299-02 - Communication Research Mthd,COMM 2299,,in-person,,TuFr,09:30,10:45,100,0
+COMM 3324-01 - Crisis Communication,COMM 3324,,in-person,,We,14:00,16:30,100,0
+COMM 3333-01 - Public Rels Mgmt and Campaigns,COMM 3333,,in-person,,TuFr,12:30,13:45,100,0
+COMM 3347-01 - Comm in Hlthcare Organizations,COMM 3347,,in-person,,MoTh,11:00,12:15,100,0
+COMM 3351-01 - Dark Side of Communication,COMM 3351,,in-person,,MoTh,11:00,12:15,100,0
+COMM 4330-01 - Misinformation in Digi Media,COMM 4330,,in-person,,TuFr,12:30,13:45,100,0
+COMM 4900-01 - Health Advertising & Marketing (Health Advertising & Marketing),COMM 4900,,in-person,,MoTh,15:30,16:45,100,0
+COMM 4980-01 - Internship,COMM 4980,,in-person,,,,,100,0
+COMM 4999-01 - Capstone:Research Proj in Comm (CAPSTONE:RESEARCH PROJ IN COMM),COMM 4999,,in-person,,We,14:00,16:30,100,0
+COMM 4999-02 - Capstone:Research Proj in Comm (CAPSTONE:RESEARCH PROJ IN COMM),COMM 4999,,in-person,,TuFr,14:00,15:15,100,0
+COMM 4999-03 - Capstone:Research Proj in Comm (CAPSTONE:RESEARCH PROJ IN COMM),COMM 4999,,in-person,,We,11:00,13:30,100,0
+COMM 5547-01 - Healthcare Organizational Comm,COMM 5547,,in-person,,MoTh,11:00,12:15,100,0
+COUN 5433-01 - Multicultural Issues in Cnslng,COUN 5433,,in-person,,,,,100,0
+COUN 5447-01 - Lifespan Human Development,COUN 5447,,in-person,,,,,100,0
+COUN 5447-02 - Lifespan Human Development,COUN 5447,,in-person,,,,,100,0
+COUN 5457-01 - Career Dev: Theory & Practice,COUN 5457,,in-person,,,,,100,0
+COUN 5468-01 - Legal & Ethical Issues Cnsling,COUN 5468,,in-person,,,,,100,0
+COUN 5468-02 - Legal & Ethical Issues Cnsling,COUN 5468,,in-person,,,,,100,0
+COUN 5501-01 - Theory/ Counsl & Psychotherapy,COUN 5501,,in-person,,,,,100,0
+COUN 5531-01 - Intro to School Counseling,COUN 5531,,in-person,,,,,100,0
+COUN 5553-01 - Couns Relationships and Skills,COUN 5553,,in-person,,,,,100,0
+COUN 5553-02 - Couns Relationships and Skills,COUN 5553,,in-person,,,,,100,0
+COUN 5553-03 - Couns Relationships and Skills,COUN 5553,,in-person,,,,,100,0
+COUN 5900-01 - ST: Trauma Informed Counseling (ST: Trauma Informed Counseling),COUN 5900,,in-person,,,,,100,0
+COUN 6250-01 - Diag/Treatment Across Lifespan,COUN 6250,,in-person,,,,,100,0
+COUN 6250-02 - Diag/Treatment Across Lifespan,COUN 6250,,in-person,,,,,100,0
+COUN 6455-01 - Group Work: Theory & Practice,COUN 6455,,in-person,,,,,100,0
+COUN 6455-02 - Group Work: Theory & Practice,COUN 6455,,in-person,,,,,100,0
+COUN 6467-01 - Assessment in Counseling,COUN 6467,,in-person,,,,,100,0
+COUN 6553-01 - Adv. Skills and Techniques in,COUN 6553,,in-person,,,,,100,0
+COUN 6553-02 - Adv. Skills and Techniques in,COUN 6553,,in-person,,,,,100,0
+COUN 6568-01 - Research Methodology,COUN 6568,,in-person,,,,,100,0
+COUN 6950-01 - Counseling Practicum (COUNSELING PRACTICUM),COUN 6950,,in-person,,We,17:00,19:30,100,0
+COUN 6981-01 - Clin Mental Health Intern I,COUN 6981,,in-person,,,,,100,0
+COUN 6982-01 - Clin Mental Health Intern II,COUN 6982,,in-person,,,,,100,0
+COUN 6982-02 - Clin Mental Health Intern II,COUN 6982,,in-person,,,,,100,0
+COUN 6982-03 - Clin Mental Health Intern II,COUN 6982,,in-person,,,,,100,0
+COUN 6983-01 - School Coun. Internship I,COUN 6983,,in-person,,,,,100,0
+COUN 6984-01 - School Coun. Internship II,COUN 6984,,in-person,,,,,100,0
+COUN 6999C-01 - Comp Exam: Clin/Mental Health (COMP EXAM: CLIN/MENTAL HEALTH),COUN 6999C,,in-person,,,,,100,0
+COUN 6999S-01 - Comp Exam: School Counseling (COMP EXAM: SCHOOL COUNSELING),COUN 6999S,,in-person,,,,,100,0
+CPEG 2245L-B01 - Digital Design I Lab,CPEG 2245L,,in-person,,,,,100,0
+CPEG 2245-B01 - Digital Design I,CPEG 2245,,in-person,,,,,100,0
+CPEG 3246-01 - Digital Electronics Design II,CPEG 3246,,in-person,,,,,100,0
+CPEG 3331-01 - Biomedical Signal Processing,CPEG 3331,,in-person,,MoTh,12:30,13:45,100,0
+CPEG 3346-01 - Computer Systems Architecture,CPEG 3346,,in-person,,MoTh,08:00,09:15,100,0
+CPSC 1101-01 - Introduction to Computing,CPSC 1101,,in-person,,TuFr,09:30,10:45,100,0
+CPSC 1101-02 - Introduction to Computing,CPSC 1101,,in-person,,TuFr,11:00,12:15,100,0
+CPSC 1101-03 - Introduction to Computing,CPSC 1101,,in-person,,TuFr,08:00,09:15,100,0
+CPSC 1131-01 - Fundamentals of Programming,CPSC 1131,,in-person,,TuFr,11:00,12:15,100,0
+CPSC 2231L-01 - Programming Workshop Lab,CPSC 2231L,,in-person,,,,,100,0
+CPSC 2231L-02 - Programming Workshop Lab,CPSC 2231L,,in-person,,,,,100,0
+CPSC 2231L-B03 - Programming Workshop Lab,CPSC 2231L,,in-person,,,,,100,0
+CPSC 2231-01 - Programming Workshop,CPSC 2231,,in-person,,MoTh,09:30,10:45,100,0
+CPSC 2231-02 - Programming Workshop,CPSC 2231,,in-person,,MoTh,11:00,12:15,100,0
+CPSC 2231-B03 - Programming Workshop,CPSC 2231,,in-person,,,,,100,0
+CPSC 2250L-02 - Computer Science Soph Clinic,CPSC 2250L,,in-person,,,,,100,0
+CPSC 2250L-03 - Computer Science Soph Clinic,CPSC 2250L,,in-person,,,,,100,0
+CPSC 2304-01 - Web Development,CPSC 2304,,in-person,,MoTh,09:30,10:45,100,0
+CPSC 2304-02 - Web Development,CPSC 2304,,in-person,,,,,100,0
+CPSC 3343-01 - Design/Analysis of Algorithms,CPSC 3343,,in-person,,TuFr,12:30,13:45,100,0
+CPSC 3351L-01 - Computer Science Jr Clinic I,CPSC 3351L,,in-person,,,,,100,0
+CPSC 3351L-02 - Computer Science Jr Clinic I,CPSC 3351L,,in-person,,,,,100,0
+CPSC 4314-B01 - Network Security,CPSC 4314,,in-person,,,,,100,0
+CPSC 4331-01 - Operating Systems,CPSC 4331,,in-person,,TuFr,14:00,15:15,100,0
+CPSC 4350-01 - Introduction to Data Science,CPSC 4350,,in-person,,,,,100,0
+CPSC 4355-01 - Artificial Intelligence,CPSC 4355,,in-person,,MoTh,15:30,16:45,100,0
+CPSC 4357-01 - Database Management Systems,CPSC 4357,,in-person,,We,18:30,21:00,100,0
+CPSC 4360-01 - Machine Learning,CPSC 4360,,in-person,,Mo,18:30,21:00,100,0
+DATA 1101L-01 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-02 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-03 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-04 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-05 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-06 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-07 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-08 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-09 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-10 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-11 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-12 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-13 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-14 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101L-15 - Excel Certification Lab,DATA 1101L,,in-person,,,,,100,0
+DATA 1101-01 - Business Analytics,DATA 1101,,in-person,,MoTh,08:00,09:15,100,0
+DATA 1101-02 - Business Analytics,DATA 1101,,in-person,,MoTh,09:30,10:45,100,0
+DATA 1101-04 - Business Analytics,DATA 1101,,in-person,,MoTh,09:30,10:45,100,0
+DATA 1101-05 - Business Analytics,DATA 1101,,in-person,,MoTh,11:00,12:15,100,0
+DATA 1101-06 - Business Analytics,DATA 1101,,in-person,,MoTh,12:30,13:45,100,0
+DATA 1101-07 - Business Analytics,DATA 1101,,in-person,,,,,100,0
+DATA 1101-08 - Business Analytics,DATA 1101,,in-person,,MoTh,15:30,16:45,100,0
+DATA 1101-09 - Business Analytics,DATA 1101,,in-person,,TuFr,08:00,09:15,100,0
+DATA 1101-10 - Business Analytics,DATA 1101,,in-person,,TuFr,09:30,10:45,100,0
+DATA 1101-11 - Business Analytics,DATA 1101,,in-person,,TuFr,11:00,12:15,100,0
+DATA 1101-12 - Business Analytics,DATA 1101,,in-person,,TuFr,12:30,13:45,100,0
+DATA 1101-13 - Business Analytics,DATA 1101,,in-person,,TuFr,14:00,15:15,100,0
+DATA 1101-14 - Business Analytics,DATA 1101,,in-person,,TuFr,15:30,16:45,100,0
+DATA 1101-15 - Business Analytics,DATA 1101,,in-person,,,,,100,0
+DATA 2000-01 - AI,DATA 2000,,in-person,,Mo,17:00,19:30,100,0
+DATA 2000-02 - AI,DATA 2000,,in-person,,Mo,17:00,19:30,100,0
+DATA 2980-01 - Internship,DATA 2980,,in-person,,,,,100,0
+DATA 3210-02 - Business Analytics Methods,DATA 3210,,in-person,,TuFr,09:30,10:45,100,0
+DATA 3210-03 - Business Analytics Methods,DATA 3210,,in-person,,TuFr,11:00,12:15,100,0
+DATA 3210-04 - Business Analytics Methods,DATA 3210,,in-person,,TuFr,12:30,13:45,100,0
+DATA 3260-01 - Database Systems,DATA 3260,,in-person,,MoTh,09:30,10:45,100,0
+DATA 3260-02 - Database Systems,DATA 3260,,in-person,,MoTh,11:00,12:15,100,0
+DATA 3260-03 - Database Systems,DATA 3260,,in-person,,TuFr,09:30,10:45,100,0
+DATA 3335-01 - Sports Analytics,DATA 3335,,in-person,,We,14:00,16:30,100,0
+DATA 3335-02 - Sports Analytics,DATA 3335,,in-person,,We,14:00,16:30,100,0
+DATA 3980-01 - Internship,DATA 3980,,in-person,,,,,100,0
+DATA 4310-01 - Business Intelligence,DATA 4310,,in-person,,TuFr,09:30,10:45,100,0
+DATA 4310-02 - Business Intelligence,DATA 4310,,in-person,,TuFr,11:00,12:15,100,0
+DATA 4310-03 - Business Intelligence,DATA 4310,,in-person,,TuFr,14:00,15:15,100,0
+DATA 4315-01 - Data Mining and Applications,DATA 4315,,in-person,,MoTh,11:00,12:15,100,0
+DATA 4315-02 - Data Mining and Applications,DATA 4315,,in-person,,MoTh,12:30,13:45,100,0
+DATA 4315-03 - Data Mining and Applications,DATA 4315,,in-person,,,,,100,0
+DATA 5400-01 - Applied Business Statistics,DATA 5400,,in-person,,,,,100,0
+DATA 5405-01 - Python Fundamentals,DATA 5405,,in-person,,,,,100,0
+DATA 6100-01 - Fundamentals of Analytics,DATA 6100,,in-person,,,,,100,0
+DATA 6500-01 - Leading with Analytics,DATA 6500,,in-person,,Tu,18:30,21:30,100,0
+DATA 6500-02 - Leading with Analytics,DATA 6500,,in-person,,Tu,18:30,21:30,100,0
+DATA 6500-03 - Leading with Analytics,DATA 6500,,in-person,,,,,100,0
+DATA 6505-01 - Data Munging in Python,DATA 6505,,in-person,,Mo,18:30,21:30,100,0
+DATA 6505-02 - Data Munging in Python,DATA 6505,,in-person,,Mo,18:30,21:30,100,0
+DATA 6510-01 - Data Warehousing & Visual.,DATA 6510,,in-person,,We,18:30,21:30,100,0
+DATA 6510-02 - Data Warehousing & Visual.,DATA 6510,,in-person,,We,18:30,21:30,100,0
+DATA 6520-01 - Analytics Consulting and Strat,DATA 6520,,in-person,,Th,18:30,21:30,100,0
+DATA 6520-02 - Analytics Consulting and Strat,DATA 6520,,in-person,,Th,18:30,21:30,100,0
+DATA 6530-01 - Statistics and Forecasting,DATA 6530,,in-person,,Mo,18:30,21:30,100,0
+DATA 6540-01 - Bus.Int. and Data Storytelling,DATA 6540,,in-person,,,,,100,0
+DATA 6560-01 - Sports Analytics,DATA 6560,,in-person,,,,,100,0
+DATA 6560-02 - Sports Analytics,DATA 6560,,in-person,,Mo,18:30,21:30,100,0
+DATA 6570-01 - AI Applications,DATA 6570,,in-person,,Mo,18:30,21:30,100,0
+DATA 6570-02 - AI Applications,DATA 6570,,in-person,,,,,100,0
+DATA 6999-01 - Capstone: Busn Analytics Apps (CAPSTONE: BUSN ANALYTICS APPS),DATA 6999,,in-person,,,,,100,0
+DJOU 1860-01 - News Media and Society,DJOU 1860,,in-person,,TuFr,12:30,13:45,100,0
+DJOU 1870-01 - News Writing I,DJOU 1870,,in-person,,,,,100,0
+DJOU 1872-01 - Introduction to Sports Writing,DJOU 1872,,in-person,,MoTh,09:30,10:45,100,0
+DJOU 1872-02 - Introduction to Sports Writing,DJOU 1872,,in-person,,MoTh,11:00,12:15,100,0
+DJOU 2370-01 - News Writing II: Digital Des.,DJOU 2370,,in-person,,TuFr,14:00,15:15,100,0
+DJOU 3340-01 - Photojournalism,DJOU 3340,,in-person,,TuFr,11:00,12:15,100,0
+ECEG 5331-01 - Biomedical Signal Processing,ECEG 5331,,in-person,,MoTh,12:30,13:45,100,0
+ECEG 5346-01 - Computer Systems Architecture,ECEG 5346,,in-person,,MoTh,08:00,09:15,100,0
+ECEG 5348L-01 - Embedded Microcontrollers Lab,ECEG 5348L,,in-person,,,,,100,0
+ECEG 5348-01 - Embedded Microcontrollers,ECEG 5348,,in-person,,Mo,18:30,21:00,100,0
+ECEG 5406-01 - Advanced Digital Design,ECEG 5406,,in-person,,,,,100,0
+ECEG 5415-01 - Eng Applications of Num Methds,ECEG 5415,,in-person,,We,18:30,21:00,100,0
+ECEG 5505-01 - Advanced Power Electronics,ECEG 5505,,in-person,,,,,100,0
+ECEG 5990-01 - Independent Study (INDEPENDENT STUDY),ECEG 5990,,in-person,,,,,100,0
+ECEG 6971-01 - Thesis I,ECEG 6971,,in-person,,,,,100,0
+ECEG 6972-01 - Thesis II,ECEG 6972,,in-person,,,,,100,0
+ECON 1011-01 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,11:00,12:15,100,0
+ECON 1011-02 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,11:00,12:15,100,0
+ECON 1011-03 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,12:30,13:45,100,0
+ECON 1011-04 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,14:00,15:15,100,0
+ECON 1011-05 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,08:00,09:15,100,0
+ECON 1011-06 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,11:00,12:15,100,0
+ECON 1011-07 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,09:30,10:45,100,0
+ECON 1011-08 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,11:00,12:15,100,0
+ECON 1011-09 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,12:30,13:45,100,0
+ECON 1011-10 - Introduction to Microeconomics,ECON 1011,,in-person,,,,,100,0
+ECON 1011-11 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,08:00,09:15,100,0
+ECON 1011-12 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,09:30,10:45,100,0
+ECON 1011-13 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,12:30,13:45,100,0
+ECON 1011-14 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,15:30,16:45,100,0
+ECON 1011-15 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,15:30,16:45,100,0
+ECON 1011-16 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,15:30,16:45,100,0
+ECON 1011-17 - Introduction to Microeconomics,ECON 1011,,in-person,,TuTh,17:00,18:15,100,0
+ECON 1011-18 - Introduction to Microeconomics,ECON 1011,,in-person,,,,,100,0
+ECON 1011-19 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,08:00,09:15,100,0
+ECON 1011-20 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,09:30,10:45,100,0
+ECON 1011-21 - Introduction to Microeconomics,ECON 1011,,in-person,,MoWe,17:00,18:15,100,0
+ECON 1011-22 - Introduction to Microeconomics,ECON 1011,,in-person,,,,,100,0
+ECON 1011-23 - Introduction to Microeconomics,ECON 1011,,in-person,,MoWe,17:00,18:15,100,0
+ECON 1011-24 - Introduction to Microeconomics,ECON 1011,,in-person,,,,,100,0
+ECON 1011-25 - Introduction to Microeconomics,ECON 1011,,in-person,,We,11:00,13:30,100,0
+ECON 1011-26 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,12:30,13:45,100,0
+ECON 1011-27 - Introduction to Microeconomics,ECON 1011,,in-person,,We,11:00,13:30,100,0
+ECON 1011-28 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,08:00,09:15,100,0
+ECON 1011-29 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,11:00,12:15,100,0
+ECON 1011-33 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,12:30,13:45,100,0
+ECON 1011-34 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,15:30,16:45,100,0
+ECON 1011-35 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,14:00,15:15,100,0
+ECON 1011-36 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,15:30,16:45,100,0
+ECON 1011-37 - Introduction to Microeconomics,ECON 1011,,in-person,,MoTh,08:00,09:15,100,0
+ECON 1011-38 - Introduction to Microeconomics,ECON 1011,,in-person,,TuFr,08:00,09:15,100,0
+ECON 1011-39 - Introduction to Microeconomics,ECON 1011,,in-person,,TuTh,17:00,18:15,100,0
+ECON 1011-40 - Introduction to Microeconomics,ECON 1011,,in-person,,,,,100,0
+ECON 1011-B42 - Introduction to Microeconomics,ECON 1011,,in-person,,,,,100,0
+ECON 1012-01 - Introduction to Macroeconomics,ECON 1012,,in-person,,MoTh,15:30,16:45,100,0
+ECON 2980-01 - Internship,ECON 2980,,in-person,,,,,100,0
+ECON 2980-02 - Internship,ECON 2980,,in-person,,,,,100,0
+ECON 3204-01 - Interm Microeconomic Theory,ECON 3204,,in-person,,TuFr,09:30,10:45,100,0
+ECON 3204-02 - Interm Microeconomic Theory,ECON 3204,,in-person,,TuFr,14:00,15:15,100,0
+ECON 3210-01 - Money and Banking,ECON 3210,,in-person,,TuFr,09:30,10:45,100,0
+ECON 3224-01 - Labor Econ and Labor Relations,ECON 3224,,in-person,,We,11:00,13:30,100,0
+ECON 3233-01 - Intl Economic Policy & Finance,ECON 3233,,in-person,,MoTh,09:30,10:45,100,0
+ECON 3236-01 - Income Inequality,ECON 3236,,in-person,,TuFr,11:00,12:15,100,0
+ECON 3237-01 - Fair Trade and Microfinance,ECON 3237,,in-person,,We,14:00,16:30,100,0
+ECON 3980-01 - Internship,ECON 3980,,in-person,,,,,100,0
+ECON 3980-02 - Internship,ECON 3980,,in-person,,,,,100,0
+ECON 4310-01 - Fed Challenge,ECON 4310,,in-person,,TuTh,17:00,18:15,100,0
+ECON 6560-01 - Global Financial Markts & Inst,ECON 6560,,in-person,,,,,100,0
+EDDL 7005-01T - Sys Approach Innovat & Improve,EDDL 7005,,in-person,,,,,100,0
+EDDL 7005-02H - Sys Approach Innovt & Imprv,EDDL 7005,,in-person,,,,,100,0
+EDDL 7015-01T - Action Res. Edu Change I,EDDL 7015,,in-person,,,,,100,0
+EDDL 7015-02H - Action Res. Edu Change I,EDDL 7015,,in-person,,,,,100,0
+"EDDL 7040-01T - Power, Privilege, Ident in Ed",EDDL 7040,,in-person,,,,,100,0
+"EDDL 7040-02H - Power, Privilege, Ident in Edu",EDDL 7040,,in-person,,,,,100,0
+EDDL 7050-01T - Leader as Collab & Relat Build,EDDL 7050,,in-person,,,,,100,0
+EDDL 7050-02H - Leader as Collab & Relat Blder,EDDL 7050,,in-person,,,,,100,0
+EDDL 7055-01T - Leadrship Social Just in Educ,EDDL 7055,,in-person,,,,,100,0
+EDDL 7055-02H - Ldrship Social Justice in Educ,EDDL 7055,,in-person,,,,,100,0
+EDDL 7090-01 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-02 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-03 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-04 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-05 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-06 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-07 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-08 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-09 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-10 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-11 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-12 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-13 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7090-14 - Inquiry: Dissertation Pract I,EDDL 7090,,in-person,,,,,100,0
+EDDL 7105-01 - Dissertation Advising,EDDL 7105,,in-person,,,,,100,0
+EDLV 9999-X - Educational Leave,EDLV 9999,,in-person,,,,,100,0
+EDTC 4301-01 - Intro Educational Technology,EDTC 4301,,in-person,,,,,100,0
+"EDTC 4305-01 - Copyrght, Censorship, Info Cnt",EDTC 4305,,in-person,,,,,100,0
+EDTC 4317-01 - AI in Teaching & Learning,EDTC 4317,,in-person,,,,,100,0
+"EDTC 5305-01 - Copyrght, Censorship, Info Cnt",EDTC 5305,,in-person,,,,,100,0
+EDTC 5317-01 - AI in Teaching & Learning,EDTC 5317,,in-person,,,,,100,0
+EDTC 5401-01 - Intro Educational Technology,EDTC 5401,,in-person,,,,,100,0
+EDTC 6501-01 - Tech &Transformational Culture,EDTC 6501,,in-person,,,,,100,0
+"EDTC 6503-01 - Rsrch&Eval/K-12 Consult,Ldrshp",EDTC 6503,,in-person,,,,,100,0
+EDUC 2201-01 - Explorations in Education,EDUC 2201,,in-person,,,,,100,0
+EDUC 2201-02 - Explorations in Education,EDUC 2201,,in-person,,,,,100,0
+EDUC 2201-03 - Explorations in Education,EDUC 2201,,in-person,,,,,100,0
+EDUC 2329-01 - Philosophy of Education: Intro,EDUC 2329,,in-person,,We,11:00,13:30,100,0
+EDUC 2329-02 - Philosophy of Education: Intro,EDUC 2329,,in-person,,We,14:00,16:30,100,0
+EDUC 2341-01 - Culturally Responsive Teacher,EDUC 2341,,in-person,,,,,100,0
+EDUC 3241-01 - Educational Psychology,EDUC 3241,,in-person,,We,14:00,16:30,100,0
+EDUC 3350-01 - Special Learners in Mainstream,EDUC 3350,,in-person,,,,,100,0
+EDUC 4437-01 - Develop Literacy:Primary Grade,EDUC 4437,,in-person,,,,,100,0
+EDUC 4447-01 - Learning Math/Elem Classroom,EDUC 4447,,in-person,,,,,100,0
+EDUC 5410-01 - Literature for Young Adults,EDUC 5410,,in-person,,Tu,17:00,19:30,100,0
+EDUC 5411-01 - Teaching Writing 3-12 Classrm,EDUC 5411,,in-person,,,,,100,0
+EDUC 5429-01 - Phil Foundations of Education,EDUC 5429,,in-person,,,,,100,0
+EDUC 5437-01 - Develop Literacy:PrimaryGrade,EDUC 5437,,in-person,,,,,100,0
+EDUC 5441-01 - Tch/Lrn Multicultural Contexts,EDUC 5441,,in-person,,,,,100,0
+EDUC 5442-01 - Educational Psychology,EDUC 5442,,in-person,,,,,100,0
+EDUC 5447-01 - Learning Math/Elem Classroom,EDUC 5447,,in-person,,,,,100,0
+EDUC 5462-01 - Science Methods,EDUC 5462,,in-person,,,,,100,0
+EDUC 5463-01 - World Language Methods,EDUC 5463,,in-person,,,,,100,0
+EDUC 5464-01 - Mathematics Methods,EDUC 5464,,in-person,,,,,100,0
+EDUC 5466-01 - English Methods,EDUC 5466,,in-person,,,,,100,0
+EDUC 5468-01 - Social Studies/History Methods,EDUC 5468,,in-person,,,,,100,0
+EDUC 5497-01 - Teaching Sci/Elem Classroom,EDUC 5497,,in-person,,,,,100,0
+EDUC 5981-01 - K-12 Tchg Intern Sem/IniCert,EDUC 5981,,in-person,,,,,100,0
+EDUC 5981-02 - K-12 Tchg Intern Sem/IniCert,EDUC 5981,,in-person,,,,,100,0
+EDUC 6545-01 - Dev Integr Curriculum for Elem,EDUC 6545,,in-person,,,,,100,0
+EDUC 6573-01 - Instruct Issues in Tch Science,EDUC 6573,,in-person,,,,,100,0
+EDUC 6580-01 - Directed Obs for Sec DSAP II,EDUC 6580,,in-person,,,,,100,0
+EDUC 6583-01 - Elem Stu Teaching: Immersion,EDUC 6583,,in-person,,,,,100,0
+EDUC 6584-01 - Reflective Practice Sem: Elem,EDUC 6584,,in-person,,,,,100,0
+EDUC 6598-01 - edTPA Portfolio,EDUC 6598,,in-person,,,,,100,0
+ELEG 2213L-01 - Electric Circuits Lab,ELEG 2213L,,in-person,,,,,100,0
+ELEG 2213L-03 - Electric Circuits Lab,ELEG 2213L,,in-person,,,,,100,0
+ELEG 2213L-04 - Electric Circuits Lab,ELEG 2213L,,in-person,,,,,100,0
+ELEG 2213-01 - Intro to Electric Circuits,ELEG 2213,,in-person,,MoWe,17:00,18:15,100,0
+ELEG 2213-02 - Intro to Electric Circuits,ELEG 2213,,in-person,,Tu,17:00,19:30,100,0
+ELEG 3231L-01 - Electronics Circuits Lab,ELEG 3231L,,in-person,,,,,100,0
+ELEG 3231-01 - Intro Elec Circuits & Devices,ELEG 3231,,in-person,,MoTh,11:00,12:15,100,0
+ELEG 3301-01 - Signal and Systems I,ELEG 3301,,in-person,,TuFr,11:00,12:15,100,0
+ELEG 3348L-01 - Embedded Microcontrollers Lab,ELEG 3348L,,in-person,,,,,100,0
+ELEG 3348-01 - Embedded Microcontrollers,ELEG 3348,,in-person,,Mo,18:30,21:00,100,0
+ELEG 4360-01 - Power Electronics,ELEG 4360,,in-person,,,,,100,0
+ENGL 1001-01 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,11:00,12:15,100,0
+ENGL 1001-02 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,08:00,09:15,100,0
+ENGL 1001-03 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,15:30,16:45,100,0
+ENGL 1001-04 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoWe,17:00,18:15,100,0
+ENGL 1001-06 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,11:00,12:15,100,0
+ENGL 1001-07 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,09:30,10:45,100,0
+ENGL 1001-08 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,15:30,16:45,100,0
+ENGL 1001-09 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,14:00,15:15,100,0
+ENGL 1001-10 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,08:00,09:15,100,0
+ENGL 1001-11 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,09:30,10:45,100,0
+ENGL 1001-12H - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,08:00,09:15,100,0
+ENGL 1001-13 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,08:00,09:15,100,0
+ENGL 1001-14 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-16 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,09:30,10:45,100,0
+ENGL 1001-17 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-18 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,08:00,09:15,100,0
+ENGL 1001-19H - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,09:30,10:45,100,0
+ENGL 1001-20 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,08:00,09:15,100,0
+ENGL 1001-21 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,08:00,09:15,100,0
+ENGL 1001-22 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-24 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,15:30,16:45,100,0
+ENGL 1001-25 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuTh,17:00,18:15,100,0
+ENGL 1001-26 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-27 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,12:30,13:45,100,0
+ENGL 1001-29 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-30 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,09:30,10:45,100,0
+ENGL 1001-31H - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,14:00,15:15,100,0
+ENGL 1001-32 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,11:00,12:15,100,0
+ENGL 1001-33 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,12:30,13:45,100,0
+ENGL 1001-34 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,15:30,16:45,100,0
+ENGL 1001-36 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,12:30,13:45,100,0
+ENGL 1001-38H - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,12:30,13:45,100,0
+ENGL 1001-41 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,09:30,10:45,100,0
+ENGL 1001-42 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,11:00,12:15,100,0
+ENGL 1001-43 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-44 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,09:30,10:45,100,0
+ENGL 1001-45 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,12:30,13:45,100,0
+ENGL 1001-46 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,12:30,13:45,100,0
+ENGL 1001-50 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-52 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoWe,17:00,18:15,100,0
+ENGL 1001-B53 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-B54 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-B55 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1001-B56 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,,,,100,0
+ENGL 1010-02 - Intro Lit & Cultural Studies,ENGL 1010,,in-person,,TuTh,17:00,18:15,100,0
+ENGL 1010-03 - Intro Lit & Cultural Studies,ENGL 1010,,in-person,,,,,100,0
+ENGL 1020-03 - Intro to Contemp World Lit,ENGL 1020,,in-person,,TuTh,17:00,18:15,100,0
+ENGL 1030-01 - Fairy Tales,ENGL 1030,,in-person,,We,11:00,13:30,100,0
+ENGL 1040-01 - World Epics,ENGL 1040,,in-person,,We,14:00,16:30,100,0
+ENGL 1060-01 - Ancient Greek Literature,ENGL 1060,,in-person,,TuFr,15:30,16:45,100,0
+ENGL 1070-01 - Ancient Roman Literature,ENGL 1070,,in-person,,MoTh,11:00,12:15,100,0
+ENGL 1110-01 - International Short Fiction,ENGL 1110,,in-person,,MoTh,12:30,13:45,100,0
+ENGL 1110-02 - International Short Fiction,ENGL 1110,,in-person,,MoTh,15:30,16:45,100,0
+ENGL 1110-03 - International Short Fiction,ENGL 1110,,in-person,,TuFr,12:30,13:45,100,0
+ENGL 1220-01 - The Frontier in American Lit,ENGL 1220,,in-person,,,,,100,0
+ENGL 1220-02 - The Frontier in American Lit,ENGL 1220,,in-person,,MoTh,11:00,12:15,100,0
+ENGL 1230-02 - Ethnic American Literature,ENGL 1230,,in-person,,,,,100,0
+ENGL 1240-01 - American Lit: Myths & Legends,ENGL 1240,,in-person,,,,,100,0
+ENGL 1240-04 - American Lit: Myths & Legends,ENGL 1240,,in-person,,Tu,17:00,19:30,100,0
+ENGL 1245-01 - American Romanticism,ENGL 1245,,in-person,,,,,100,0
+ENGL 1245-02 - American Romanticism,ENGL 1245,,in-person,,MoTh,11:00,12:15,100,0
+ENGL 1260-01 - American Social Protest Lit,ENGL 1260,,in-person,,MoTh,08:00,09:15,100,0
+ENGL 1260-02 - American Social Protest Lit,ENGL 1260,,in-person,,,,,100,0
+ENGL 1290-03 - American Short Story,ENGL 1290,,in-person,,TuTh,17:00,18:15,100,0
+ENGL 1290-04 - American Short Story,ENGL 1290,,in-person,,,,,100,0
+ENGL 1300-01 - Lit by Women: Vision/Revision,ENGL 1300,,in-person,,TuFr,14:00,15:15,100,0
+ENGL 1340-01 - Democracy: Black & Indigenous,ENGL 1340,,in-person,,TuFr,08:00,09:15,100,0
+ENGL 1340-02 - Democracy: Black & Indigenous,ENGL 1340,,in-person,,TuFr,09:30,10:45,100,0
+ENGL 1350-01 - Graphic Novels: Thrills/Chills,ENGL 1350,,in-person,,MoWe,17:00,18:15,100,0
+ENGL 1410-01 - Imagining Shakespeare,ENGL 1410,,in-person,,MoTh,09:30,10:45,100,0
+ENGL 1410-04 - Imagining Shakespeare,ENGL 1410,,in-person,,We,11:00,13:30,100,0
+ENGL 1410-05 - Imagining Shakespeare,ENGL 1410,,in-person,,TuFr,12:30,13:45,100,0
+ENGL 1610-02 - Irish Literature,ENGL 1610,,in-person,,TuFr,11:00,12:15,100,0
+ENGL 1610-03 - Irish Literature,ENGL 1610,,in-person,,TuFr,14:00,15:15,100,0
+ENGL 1610-04 - Irish Literature,ENGL 1610,,in-person,,MoTh,15:30,16:45,100,0
+ENGL 1700-01 - Writing Self: Autobiography,ENGL 1700,,in-person,,TuFr,11:00,12:15,100,0
+ENGL 1700-02 - Writing Self: Autobiography,ENGL 1700,,in-person,,Tu,17:00,19:30,100,0
+ENGL 1700-03 - Writing Self: Autobiography,ENGL 1700,,in-person,,Mo,17:00,19:30,100,0
+ENGL 1700-04 - Writing Self: Autobiography,ENGL 1700,,in-person,,TuFr,12:30,13:45,100,0
+ENGL 1720-01 - Literacy and Language,ENGL 1720,,in-person,,MoTh,09:30,10:45,100,0
+ENGL 1730-01 - Reading and Writing Place,ENGL 1730,,in-person,,,,,100,0
+ENGL 1802-01 - Creative Writing: Poetry I,ENGL 1802,,in-person,,MoTh,12:30,13:45,100,0
+ENGL 1805-01 - Creative Writing: Fiction I,ENGL 1805,,in-person,,TuFr,11:00,12:15,100,0
+ENGL 1805-04 - Creative Writing: Fiction I,ENGL 1805,,in-person,,TuFr,12:30,13:45,100,0
+ENGL 1806-01 - Creative Writing: Nonfiction I,ENGL 1806,,in-person,,We,11:00,13:30,100,0
+ENGL 1832-01 - Business Writing,ENGL 1832,,in-person,,We,14:00,16:30,100,0
+ENGL 1832-03 - Business Writing,ENGL 1832,,in-person,,,,,100,0
+ENGL 2001-B01 - Rhetorics that Matter,ENGL 2001,,in-person,,,,,100,0
+ENGL 2004-01 - Literary Fairy Tale Tradition,ENGL 2004,,in-person,,TuTh,17:00,18:15,100,0
+ENGL 2013-01 - Shakespeare I,ENGL 2013,,in-person,,MoTh,11:00,12:15,100,0
+ENGL 2033-01 - Amer Womn Writers of 19th Cent,ENGL 2033,,in-person,,MoTh,09:30,10:45,100,0
+ENGL 2290-01 - Writing and Responding,ENGL 2290,,in-person,,,,,100,0
+ENGL 3073-01 - Literature for Young Adults,ENGL 3073,,in-person,,Tu,17:00,19:30,100,0
+ENGL 3075-01 - Caribbean Women Writers,ENGL 3075,,in-person,,TuFr,11:00,12:15,100,0
+ENGL 3140-01 - World of Publishing,ENGL 3140,,in-person,,MoTh,15:30,16:45,100,0
+ENGL 3310-01 - Queer Rhetorics and Theories,ENGL 3310,,in-person,,We,11:00,13:30,100,0
+ENGL 3315-01 - Feminist Rhetorics,ENGL 3315,,in-person,,TuFr,11:00,12:15,100,0
+ENGL 4980-01 - Internship,ENGL 4980,,in-person,,Th,17:00,19:30,100,0
+ENGL 5441-01 - Fiction,ENGL 5441,,in-person,,,,,100,0
+ENGL 5442-01 - Non-Fiction,ENGL 5442,,in-person,,,,,100,0
+ENGL 5443-01 - Poetry,ENGL 5443,,in-person,,,,,100,0
+ENGL 5444-01 - Stage and Screen,ENGL 5444,,in-person,,,,,100,0
+ENGL 5445-01 - MFA Residency Full Term,ENGL 5445,,in-person,,,,,100,0
+ENGL 5446-01 - MFA Residency Half Term,ENGL 5446,,in-person,,,,,100,0
+ENGL 5446-02 - MFA Residency Half Term,ENGL 5446,,in-person,,,,,100,0
+ENGL 5991-01 - Independent Study: Fiction,ENGL 5991,,in-person,,,,,100,0
+ENGL 5991-02 - Independent Study: Fiction,ENGL 5991,,in-person,,,,,100,0
+ENGL 5992-01 - Independent Study: Non-Fiction,ENGL 5992,,in-person,,,,,100,0
+ENGL 5992-02 - Independent Study: Non-Fiction,ENGL 5992,,in-person,,,,,100,0
+ENGL 5993-01 - Independent Study: Poetry,ENGL 5993,,in-person,,,,,100,0
+ENGL 5993-02 - Independent Study: Poetry,ENGL 5993,,in-person,,,,,100,0
+ENGL 5994-01 - Ind Study: Stage and Screen,ENGL 5994,,in-person,,,,,100,0
+ENGL 5994-02 - Ind Study: Stage and Screen,ENGL 5994,,in-person,,,,,100,0
+ENGR 1031-01 - Fundamentals of Engineering,ENGR 1031,,in-person,,TuFr,09:30,10:45,100,0
+ENGR 1031-02 - Fundamentals of Engineering,ENGR 1031,,in-person,,MoTh,15:30,16:45,100,0
+ENGR 1031-03 - Fundamentals of Engineering,ENGR 1031,,in-person,,,,,100,0
+ENGR 1031-04 - Fundamentals of Engineering,ENGR 1031,,in-person,,MoTh,12:30,13:45,100,0
+ENGR 1031-05 - Fundamentals of Engineering,ENGR 1031,,in-person,,MoTh,08:00,09:15,100,0
+ENGR 4305-01 - Design of Mechatronics Systems,ENGR 4305,,in-person,,,,,100,0
+ENGR 4415-01 - Eng Applications of Num Methds,ENGR 4415,,in-person,,We,18:30,21:00,100,0
+ENGR 4961-01 - Senior Design Project I (SENIOR DESIGN PROJECT I),ENGR 4961,,in-person,,We,14:00,16:30,100,0
+ENGR 4980-01 - Internship,ENGR 4980,,in-person,,,,,100,0
+ENGR 4980-02 - Internship,ENGR 4980,,in-person,,,,,100,0
+ENGR 4990-01 - Independent Study,ENGR 4990,,in-person,,,,,100,0
+ENGR 4990-02 - Independent Study,ENGR 4990,,in-person,,,,,100,0
+ENGR 4990-IM - Independent Study,ENGR 4990,,in-person,,,,,100,0
+ENGR 5980-01 - Internship,ENGR 5980,,in-person,,,,,100,0
+ENGR 5980-02 - Internship,ENGR 5980,,in-person,,,,,100,0
+EVST 3980-01 - Internship,EVST 3980,,in-person,,,,,100,0
+FNCE 2101-01 - Introduction to Finance,FNCE 2101,,in-person,,TuFr,08:00,09:15,100,0
+FNCE 2101-02 - Introduction to Finance,FNCE 2101,,in-person,,TuFr,09:30,10:45,100,0
+FNCE 2101-03 - Introduction to Finance,FNCE 2101,,in-person,,MoTh,12:30,13:45,100,0
+FNCE 2101-04 - Introduction to Finance,FNCE 2101,,in-person,,,,,100,0
+FNCE 2101-05 - Introduction to Finance,FNCE 2101,,in-person,,Mo,18:30,21:00,100,0
+FNCE 2101-06 - Introduction to Finance,FNCE 2101,,in-person,,TuFr,09:30,10:45,100,0
+FNCE 2101-07 - Introduction to Finance,FNCE 2101,,in-person,,MoTh,08:00,09:15,100,0
+FNCE 2101-08 - Introduction to Finance,FNCE 2101,,in-person,,MoTh,09:30,10:45,100,0
+FNCE 2101-09 - Introduction to Finance,FNCE 2101,,in-person,,MoTh,11:00,12:15,100,0
+FNCE 2101-10 - Introduction to Finance,FNCE 2101,,in-person,,TuFr,11:00,12:15,100,0
+FNCE 2101-11 - Introduction to Finance,FNCE 2101,,in-person,,TuFr,12:30,13:45,100,0
+FNCE 2101-12 - Introduction to Finance,FNCE 2101,,in-person,,MoTh,08:00,09:15,100,0
+FNCE 2101-13 - Introduction to Finance,FNCE 2101,,in-person,,Tu,17:00,19:30,100,0
+FNCE 2101-14 - Introduction to Finance,FNCE 2101,,in-person,,We,08:00,10:30,100,0
+FNCE 2101-15 - Introduction to Finance,FNCE 2101,,in-person,,We,11:00,13:30,100,0
+FNCE 2190-02 - Personal Finance,FNCE 2190,,in-person,,We,17:00,19:30,100,0
+FNCE 2980-01 - Internship,FNCE 2980,,in-person,,,,,100,0
+FNCE 3200-01 - Global Capital Markets,FNCE 3200,,in-person,,Mo,17:00,19:30,100,0
+FNCE 3200-02 - Global Capital Markets,FNCE 3200,,in-person,,We,08:00,10:30,100,0
+FNCE 3200-03 - Global Capital Markets,FNCE 3200,,in-person,,We,14:00,16:30,100,0
+FNCE 3200-04 - Global Capital Markets,FNCE 3200,,in-person,,Tu,18:30,21:30,100,0
+FNCE 3200-05 - Global Capital Markets,FNCE 3200,,in-person,,Tu,17:00,19:30,100,0
+FNCE 3210-01 - Principles of Investment,FNCE 3210,,in-person,,TuFr,15:30,16:45,100,0
+FNCE 3210-02 - Principles of Investment,FNCE 3210,,in-person,,TuFr,14:00,15:15,100,0
+FNCE 3210-03 - Principles of Investment,FNCE 3210,,in-person,,Tu,17:00,19:30,100,0
+FNCE 3210-04 - Principles of Investment,FNCE 3210,,in-person,,TuFr,09:30,10:45,100,0
+FNCE 3210-05 - Principles of Investment,FNCE 3210,,in-person,,TuFr,11:00,12:15,100,0
+FNCE 3215-01 - Financial Management,FNCE 3215,,in-person,,MoTh,11:00,12:15,100,0
+FNCE 3215-02 - Financial Management,FNCE 3215,,in-person,,MoTh,12:30,13:45,100,0
+FNCE 3215-03 - Financial Management,FNCE 3215,,in-person,,MoTh,09:30,10:45,100,0
+FNCE 3215-04 - Financial Management,FNCE 3215,,in-person,,TuFr,11:00,12:15,100,0
+FNCE 3215-05 - Financial Management,FNCE 3215,,in-person,,TuFr,08:00,09:15,100,0
+FNCE 3235-01 - Financial Technology,FNCE 3235,,in-person,,MoTh,12:30,13:45,100,0
+FNCE 3235-02 - Financial Technology,FNCE 3235,,in-person,,,,,100,0
+FNCE 3340-01 - Sustainable Investing,FNCE 3340,,in-person,,TuFr,12:30,13:45,100,0
+FNCE 3340-02 - Sustainable Investing,FNCE 3340,,in-person,,TuFr,14:00,15:15,100,0
+FNCE 3980-01 - Internship,FNCE 3980,,in-person,,,,,100,0
+FNCE 4240-03 - International Financial Mgmt,FNCE 4240,,in-person,,TuFr,12:30,13:45,100,0
+FNCE 4240-04 - International Financial Mgmt,FNCE 4240,,in-person,,TuFr,14:00,15:15,100,0
+FNCE 4300-01 - Seminar in Fixed Income,FNCE 4300,,in-person,,MoTh,11:00,12:15,100,0
+FNCE 4305-01 - Fin Trading & Strategic Sims,FNCE 4305,,in-person,,TuFr,15:30,16:45,100,0
+FNCE 4305-02 - Fin Trading & Strategic Sims,FNCE 4305,,in-person,,We,14:00,16:30,100,0
+FNCE 4315-01 - Futures and Options Markets,FNCE 4315,,in-person,,MoTh,15:30,16:45,100,0
+FNCE 4320-01 - Financial Modeling,FNCE 4320,,in-person,,We,08:00,10:30,100,0
+FNCE 4320-02 - Financial Modeling,FNCE 4320,,in-person,,We,11:00,13:30,100,0
+FNCE 4325-01 - Seminar in Real Estate,FNCE 4325,,in-person,,We,18:30,21:00,100,0
+FNCE 4390-02 - Seminar in Finance (SEMINAR IN FINANCE),FNCE 4390,,in-person,,We,14:00,16:30,100,0
+FNCE 5400-01 - Principles of Finance,FNCE 5400,,in-person,,Tu,18:30,21:30,100,0
+FNCE 5400-02 - Principles of Finance,FNCE 5400,,in-person,,,,,100,0
+FNCE 6500-03 - Stakeholder Value,FNCE 6500,,in-person,,,,,100,0
+FNCE 6530-01 - Corporate Finance,FNCE 6530,,in-person,,Th,18:30,21:30,100,0
+FNCE 6530-03 - Corporate Finance,FNCE 6530,,in-person,,,,,100,0
+FNCE 6540-01 - Investment Analysis,FNCE 6540,,in-person,,Tu,18:30,21:30,100,0
+FNCE 6540-02 - Investment Analysis,FNCE 6540,,in-person,,Tu,18:30,21:30,100,0
+FNCE 6560-01 - Global Financial Markts & Inst,FNCE 6560,,in-person,,We,18:30,21:30,100,0
+FNCE 6565-01 - Derivative Securities,FNCE 6565,,in-person,,Mo,18:30,21:30,100,0
+FNCE 6900-01 - Contemporary Topics Seminar,FNCE 6900,,in-person,,,,,100,0
+FNCE 6991-01 - Blockchain and Digital Assets,FNCE 6991,,in-person,,Th,18:30,21:30,100,0
+FREN 1110-01 - Elementary French I,FREN 1110,,in-person,,,,,100,0
+FREN 1110-02 - Elementary French I,FREN 1110,,in-person,,,,,100,0
+FREN 1110-03 - Elementary French I,FREN 1110,,in-person,,MoWeTh,16:00,16:50,100,0
+FREN 1110-04 - Elementary French I,FREN 1110,,in-person,,MoWeTh,17:00,17:50,100,0
+FREN 1110-05 - Elementary French I,FREN 1110,,in-person,,MoWeTh,16:00,16:50,100,0
+FREN 1111-01 - Elementary French II,FREN 1111,,in-person,,,,,100,0
+FREN 1111-02 - Elementary French II,FREN 1111,,in-person,,TuWeFr,11:00,11:50,100,0
+FREN 1111-03 - Elementary French II,FREN 1111,,in-person,,MoWeTh,17:00,17:50,100,0
+FREN 2210-01 - Intermediate French I,FREN 2210,,in-person,,,,,100,0
+FREN 2211-01 - Intermediate French II,FREN 2211,,in-person,,MoWeTh,14:00,14:50,100,0
+FREN 2219-01 - French Syntax and Expression,FREN 2219,,in-person,,TuFr,12:30,13:45,100,0
+FREN 4302-01 - Survey of French Lit II,FREN 4302,,in-person,,MoTh,11:00,12:15,100,0
+FTMA 1010-03 - Introduction to Film Studies,FTMA 1010,,in-person,,We,14:00,16:30,100,0
+FTMA 1011-01 - Intro Film & Video Production,FTMA 1011,,in-person,,,,,100,0
+FTMA 1011-02 - Intro Film & Video Production,FTMA 1011,,in-person,,,,,100,0
+FTMA 1103-01 - Global Cinema,FTMA 1103,,in-person,,We,17:00,19:30,100,0
+FTMA 1120-01 - Beg Screenwriting for Film &TV,FTMA 1120,,in-person,,We,11:00,13:30,100,0
+FTMA 1120-02 - Beg Screenwriting for Film &TV,FTMA 1120,,in-person,,We,11:00,13:30,100,0
+FTMA 1122-01 - Writing Scripted Television,FTMA 1122,,in-person,,,,,100,0
+FTMA 1137-01 - Acting for the Camera,FTMA 1137,,in-person,,We,14:00,16:30,100,0
+FTMA 1150-01 - Entertainment Technology,FTMA 1150,,in-person,,MoTh,09:30,10:45,100,0
+FTMA 1950-01 - Production Practicum (PRODUCTION PRACTICUM),FTMA 1950,,in-person,,,,,100,0
+FTMA 2201-01 - Film Studies: Preston Sturges,FTMA 2201,,in-person,,,,,100,0
+FTMA 2201-02 - Film Studies:Sci-Fi/Fantasy,FTMA 2201,,in-person,,,,,100,0
+FTMA 2231-01 - Documentary Film Production,FTMA 2231,,in-person,,We,14:00,16:30,100,0
+FTMA 2240-01 - Directing Animated Film/TV,FTMA 2240,,in-person,,,,,100,0
+FTMA 2245-01 - Film Music: Hearing the Movies,FTMA 2245,,in-person,,We,11:00,13:30,100,0
+FTMA 3980-01 - Internship,FTMA 3980,,in-person,,,,,100,0
+FTMA 3980-02 - Internship,FTMA 3980,,in-person,,,,,100,0
+FTMA 3990-01 - Independent Study,FTMA 3990,,in-person,,,,,100,0
+FTMA 3990-02 - Independent Study,FTMA 3990,,in-person,,,,,100,0
+FTMA 4999-01 - Capstone Seminar II (CAPSTONE SEMINAR II),FTMA 4999,,in-person,,,,,100,0
+FYEX 1001-01 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-02 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-03 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-04 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-05 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-06 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-07 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-08 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-09 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-10 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-11 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-12 - Exploration,FYEX 1001,,in-person,,We,09:00,09:50,100,0
+FYEX 1001-13 - Exploration,FYEX 1001,,in-person,,We,09:00,09:50,100,0
+FYEX 1001-14 - Exploration,FYEX 1001,,in-person,,We,10:00,10:50,100,0
+FYEX 1001-15 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-16 - Exploration,FYEX 1001,,in-person,,We,12:00,12:50,100,0
+FYEX 1001-17 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-18 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-19 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-20 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-21 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-22 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-23 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-24 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-25 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-26 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-27 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-28 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-29 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-30 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-31 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-32 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-33 - Exploration,FYEX 1001,,in-person,,We,12:00,12:50,100,0
+FYEX 1001-34 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-B35 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-B66 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-B67 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-B68 - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1001-X - Exploration,FYEX 1001,,in-person,,,,,100,0
+FYEX 1002-01 - Academic Immersion,FYEX 1002,,in-person,,,,,100,0
+FYEX 1002-02 - Company Scholars,FYEX 1002,,in-person,,,,,100,0
+FYEX 1003-01 - Arts and Sciences Undeclared,FYEX 1003,,in-person,,,,,100,0
+FYEX 1003-02 - Arts and Sciences Undeclared,FYEX 1003,,in-person,,,,,100,0
+FYEX 1004-01 - Commuters,FYEX 1004,,in-person,,,,,100,0
+FYEX 1005-01 - Come From Away,FYEX 1005,,in-person,,,,,100,0
+FYEX 1005-02 - Come From Away,FYEX 1005,,in-person,,,,,100,0
+FYEX 1006-01 - Dolan School Bus. Undeclared,FYEX 1006,,in-person,,,,,100,0
+FYEX 1006-02 - Dolan School Bus. Undeclared,FYEX 1006,,in-person,,We,13:00,13:50,100,0
+FYEX 1007-01 - Health and Wellness LLC,FYEX 1007,,in-person,,,,,100,0
+FYEX 1007-02 - Health and Wellness LLC,FYEX 1007,,in-person,,,,,100,0
+FYEX 1007-03 - Health and Wellness LLC,FYEX 1007,,in-person,,We,15:00,15:50,100,0
+FYEX 1008-01 - Honors LLC,FYEX 1008,,in-person,,,,,100,0
+FYEX 1008-02 - Honors LLC,FYEX 1008,,in-person,,,,,100,0
+FYEX 1008-04 - Honors LLC,FYEX 1008,,in-person,,We,10:00,10:50,100,0
+FYEX 1009-01 - Leadership Through Serv. LLC,FYEX 1009,,in-person,,,,,100,0
+FYEX 1009-02 - Leadership Through Serv. LLC,FYEX 1009,,in-person,,,,,100,0
+FYEX 1009-03 - Leadership Through Serv. LLC,FYEX 1009,,in-person,,,,,100,0
+FYEX 1010-01 - Nursing,FYEX 1010,,in-person,,,,,100,0
+FYEX 1010-02 - Nursing,FYEX 1010,,in-person,,,,,100,0
+FYEX 1011-01 - STEM LLC: OPEN,FYEX 1011,,in-person,,,,,100,0
+FYEX 1011-02 - STEM LLC: Open,FYEX 1011,,in-person,,,,,100,0
+FYEX 1011-03 - STEM LLC: Biology,FYEX 1011,,in-person,,We,13:00,13:50,100,0
+FYEX 1011-04 - STEM LLC: Engr,FYEX 1011,,in-person,,,,,100,0
+FYEX 1011-05 - STEM LLC: NURSING,FYEX 1011,,in-person,,,,,100,0
+FYEX 1012-01 - Transfer Student Experience,FYEX 1012,,in-person,,,,,100,0
+GDSN 3201-01 - Graphic Design I,GDSN 3201,,in-person,,Mo,17:00,19:30,100,0
+GRMN 1110-01 - Elementary German I,GRMN 1110,,in-person,,,,,100,0
+GRMN 1110-02 - Elementary German I,GRMN 1110,,in-person,,,,,100,0
+GRMN 2210-01 - Intermediate German I,GRMN 2210,,in-person,,TuWeFr,11:00,11:50,100,0
+GRMN 2220-01 - Topics in Language and Culture,GRMN 2220,,in-person,,TuFr,08:00,09:15,100,0
+HCAD 6100-01 - Intro to US Healthcare System,HCAD 6100,,in-person,,,,,100,0
+HCAD 6999-01 - Healthcare Admin Capstone (HEALTHCARE ADMIN CAPSTONE),HCAD 6999,,in-person,,,,,100,0
+HIST 1100-01 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-02 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,MoTh,11:00,12:15,100,0
+HIST 1100-03 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,TuFr,08:00,09:15,100,0
+HIST 1100-04 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,We,11:00,13:30,100,0
+HIST 1100-05 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,We,14:00,16:30,100,0
+HIST 1100-06 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,TuFr,11:00,12:15,100,0
+HIST 1100-07 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,TuFr,09:30,10:45,100,0
+HIST 1100-08 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,TuFr,08:00,09:15,100,0
+HIST 1100-09 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,TuFr,15:30,16:45,100,0
+HIST 1100-10 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,MoTh,08:00,09:15,100,0
+HIST 1100-11 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-12 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-13 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-14 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,TuWeFr,11:00,11:50,100,0
+HIST 1100-15 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-16 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,MoTh,08:00,09:15,100,0
+HIST 1100-17 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,MoTh,09:30,10:45,100,0
+HIST 1100-18 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,TuFr,08:00,09:15,100,0
+HIST 1100-19 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,TuFr,09:30,10:45,100,0
+HIST 1100-20 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-21 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,MoWeTh,16:00,16:50,100,0
+HIST 1100-22 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,MoTh,12:30,13:45,100,0
+HIST 1100-23 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-24 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-25 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-27 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,Tu,17:00,19:30,100,0
+HIST 1100-28 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,Th,17:00,19:30,100,0
+HIST 1100-B29 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+HIST 1100-B30 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,,,,100,0
+"HIST 1102-01 - China, Japan, and Europe",HIST 1102,,in-person,,TuFr,12:30,13:45,100,0
+HIST 1104-01 - War & Conflict in Western Hist,HIST 1104,,in-person,,,,,100,0
+HIST 1104-02 - War & Conflict in Western Hist,HIST 1104,,in-person,,TuWeFr,11:00,11:50,100,0
+HIST 1105-01 - Utopian Ideas and Practice,HIST 1105,,in-person,,We,08:00,10:30,100,0
+HIST 1105-02 - Utopian Ideas and Practice,HIST 1105,,in-person,,We,11:00,13:30,100,0
+HIST 1106-01 - Imperialism and Colonialism,HIST 1106,,in-person,,Mo,17:00,19:30,100,0
+HIST 1106-02 - Imperialism and Colonialism,HIST 1106,,in-person,,Th,17:00,19:30,100,0
+HIST 1107-01 - Silk Road: Crossrds of Civiliz,HIST 1107,,in-person,,TuFr,12:30,13:45,100,0
+HIST 1107-02 - Silk Road: Crossrds of Civiliz,HIST 1107,,in-person,,TuFr,11:00,12:15,100,0
+HIST 1107-03 - Silk Road: Crossrds of Civiliz,HIST 1107,,in-person,,TuFr,15:30,16:45,100,0
+HIST 1146-01 - Women's History as U.S. Hist,HIST 1146,,in-person,,TuFr,12:30,13:45,100,0
+HIST 1146-02 - Women's History as U.S. Hist,HIST 1146,,in-person,,TuFr,14:00,15:15,100,0
+HIST 1146-03 - Women's History as U.S. Hist,HIST 1146,,in-person,,We,14:00,16:30,100,0
+HIST 1146-04 - Women's History as U.S. Hist,HIST 1146,,in-person,,MoTh,12:30,13:45,100,0
+HIST 1146-05 - Women's History as U.S. Hist,HIST 1146,,in-person,,,,,100,0
+HIST 1188-01 - Colonial Latin Amer 1492-1800,HIST 1188,,in-person,,MoTh,11:00,12:15,100,0
+HIST 1188-02 - Colonial Latin Amer 1492-1800,HIST 1188,,in-person,,MoTh,12:30,13:45,100,0
+HIST 2215-01 - Ireland: Middle Ages to Pres,HIST 2215,,in-person,,,,,100,0
+HIST 2223-01 - Roman World in Late Antiquity,HIST 2223,,in-person,,MoTh,11:00,12:15,100,0
+HIST 2253-01 - Early America to 1800,HIST 2253,,in-person,,TuFr,11:00,12:15,100,0
+HIST 2264-01 - African-Amer History 1865-Pres,HIST 2264,,in-person,,TuWeFr,16:00,16:50,100,0
+HIST 2274-01 - Hist Persp on Contemp Crises,HIST 2274,,in-person,,TuFr,09:30,10:45,100,0
+HIST 2278-01 - Cultural Hist of China-US Rels,HIST 2278,,in-person,,TuFr,14:00,15:15,100,0
+HIST 3313-01 - Atheism & Skeptical Thought,HIST 3313,,in-person,,We,14:00,16:30,100,0
+HIST 3385-01 - Comparative Russian Revolutns,HIST 3385,,in-person,,We,11:00,13:30,100,0
+HIST 3990-01 - Independent Study,HIST 3990,,in-person,,,,,100,0
+HLST 1101-01 - Introduction to Health Studies,HLST 1101,,in-person,,We,11:00,13:30,100,0
+HLST 1101-02 - Introduction to Health Studies,HLST 1101,,in-person,,We,14:00,16:30,100,0
+HLST 1101-03 - Introduction to Health Studies,HLST 1101,,in-person,,MoTh,15:30,16:45,100,0
+HLST 3310-01 - Global Hlth: Soc. Just. Persp.,HLST 3310,,in-person,,MoTh,11:00,12:15,100,0
+HLST 4999-01 - Health Studies Capstone (HEALTH STUDIES CAPSTONE),HLST 4999,,in-person,,Th,17:00,19:30,100,0
+HLST 4999-02 - Health Studies Capstone (HEALTH STUDIES CAPSTONE),HLST 4999,,in-person,,We,17:00,19:30,100,0
+HONR 1101-05 - Enduring Questions,HONR 1101,,in-person,,Th,17:00,19:30,100,0
+HONR 1101-06 - Enduring Questions,HONR 1101,,in-person,,TuFr,12:30,13:45,100,0
+HONR 1101-07 - Enduring Questions,HONR 1101,,in-person,,We,11:00,13:30,100,0
+HONR 2202-08 - Honors Seminar,HONR 2202,,in-person,,MoTh,09:30,10:45,100,0
+HONR 2202-09 - Honors Seminar,HONR 2202,,in-person,,MoTh,15:30,16:45,100,0
+HONR 2202-10 - Honors Seminar,HONR 2202,,in-person,,We,08:00,10:30,100,0
+HONR 2202-11 - Honors Seminar,HONR 2202,,in-person,,TuFr,14:00,15:15,100,0
+HONR 2202-12 - Honors Seminar,HONR 2202,,in-person,,We,14:00,16:30,100,0
+HONR 2202-13 - Honors Seminar,HONR 2202,,in-person,,,,,100,0
+HONR 2202-14 - Honors Seminar,HONR 2202,,in-person,,TuFr,11:00,12:15,100,0
+HONR 4998-01 - Student-Designed Mini Seminar,HONR 4998,,in-person,,,,,100,0
+HONR 4998-02 - Student-Designed Mini Seminar,HONR 4998,,in-person,,,,,100,0
+HONR 4998-03 - Student-Designed Mini Seminar,HONR 4998,,in-person,,,,,100,0
+HONR 4998-04 - Student-Designed Mini Seminar,HONR 4998,,in-person,,,,,100,0
+HONR 4998-05 - Student-Designed Mini Seminar,HONR 4998,,in-person,,,,,100,0
+HONR 4998-06 - Student-Designed Mini Seminar,HONR 4998,,in-person,,,,,100,0
+HONR 4998-07 - Student-Designed Mini Seminar,HONR 4998,,in-person,,,,,100,0
+HONR 4998-08 - Student-Designed Mini Seminar,HONR 4998,,in-person,,,,,100,0
+HONR 4998-09 - Student-Designed Mini Seminar,HONR 4998,,in-person,,,,,100,0
+HONR 4999-01 - Faculty-Designed Mini Seminar,HONR 4999,,in-person,,,,,100,0
+HONR 4999-02 - Faculty-Designed Mini Seminar,HONR 4999,,in-person,,,,,100,0
+HUMN 3210-01 - Digi Publishing in Humanities,HUMN 3210,,in-person,,TuFr,09:30,10:45,100,0
+IDSN 5405-01 - Drawing and Presentation,IDSN 5405,,in-person,,,,,100,0
+IDSN 5405-02 - Drawing and Presentation,IDSN 5405,,in-person,,,,,100,0
+IDSN 5405-03 - Drawing and Presentation,IDSN 5405,,in-person,,,,,100,0
+IDSN 5409-01 - Basic CAD,IDSN 5409,,in-person,,,,,100,0
+IDSN 5410-01 - Interior Design I,IDSN 5410,,in-person,,,,,100,0
+IDSN 5410-02 - Interior Design I,IDSN 5410,,in-person,,,,,100,0
+IDSN 5411-01 - Textiles for Interiors,IDSN 5411,,in-person,,,,,100,0
+IDSN 5413-01 - History of Furniture I,IDSN 5413,,in-person,,,,,100,0
+IDSN 5413-02 - History of Furniture I,IDSN 5413,,in-person,,,,,100,0
+IDSN 5413-03 - History of Furniture I,IDSN 5413,,in-person,,,,,100,0
+IDSN 5413-04 - History of Furniture I,IDSN 5413,,in-person,,,,,100,0
+IDSN 6509-01 - 3-D Architectural CAD,IDSN 6509,,in-person,,,,,100,0
+IDSN 6512-01 - Interior Design III,IDSN 6512,,in-person,,,,,100,0
+IDSN 6512-02 - Interior Design III,IDSN 6512,,in-person,,,,,100,0
+IDSN 6512-03 - Interior Design III,IDSN 6512,,in-person,,,,,100,0
+IDSN 6512-04 - Interior Design III,IDSN 6512,,in-person,,,,,100,0
+IDSN 6513-01 - Interior Design IV,IDSN 6513,,in-person,,,,,100,0
+IDSN 6513-02 - Interior Design IV,IDSN 6513,,in-person,,,,,100,0
+IDSN 6514-01 - Commercial Design,IDSN 6514,,in-person,,,,,100,0
+IDSN 6514-02 - Commercial Design,IDSN 6514,,in-person,,,,,100,0
+IDSN 6515-01 - Lighting for Interiors,IDSN 6515,,in-person,,,,,100,0
+IDSN 6520-01 - Perspective Techniques,IDSN 6520,,in-person,,,,,100,0
+IDSN 6521-01 - Business of Interior Design,IDSN 6521,,in-person,,,,,100,0
+"INTL 1050-01 - People, Places Global Issues",INTL 1050,,in-person,,MoTh,09:30,10:45,100,0
+"INTL 1050-02 - People, Places Global Issues",INTL 1050,,in-person,,MoTh,11:00,12:15,100,0
+"INTL 1050-03 - People, Places Global Issues",INTL 1050,,in-person,,,,,100,0
+"INTL 1050-04 - People, Places Global Issues",INTL 1050,,in-person,,TuFr,09:30,10:45,100,0
+INTL 1051-01 - Intro to Int'l Relations,INTL 1051,,in-person,,MoTh,12:30,13:45,100,0
+INTL 1051-02 - Intro to Int'l Relations,INTL 1051,,in-person,,MoTh,15:30,16:45,100,0
+INTL 1052-01 - Culture and Political Economy,INTL 1052,,in-person,,TuFr,12:30,13:45,100,0
+INTL 1052-02 - Culture and Political Economy,INTL 1052,,in-person,,TuFr,14:00,15:15,100,0
+INTL 1053-01 - Introduction to Economics,INTL 1053,,in-person,,TuFr,11:00,12:15,100,0
+INTL 2101-01 - Intro to International Bus.,INTL 2101,,in-person,,We,11:00,13:30,100,0
+INTL 2101-02 - Intro to International Bus.,INTL 2101,,in-person,,MoTh,09:30,10:45,100,0
+INTL 2101-03 - Intro to International Bus.,INTL 2101,,in-person,,MoTh,11:00,12:15,100,0
+INTL 2101-04 - Intro to International Bus.,INTL 2101,,in-person,,MoTh,12:30,13:45,100,0
+INTL 2101-05 - Intro to International Bus.,INTL 2101,,in-person,,,,,100,0
+INTL 2101-06 - Intro to International Bus.,INTL 2101,,in-person,,MoTh,15:30,16:45,100,0
+INTL 2101-07 - Intro to International Bus.,INTL 2101,,in-person,,TuFr,08:00,09:15,100,0
+INTL 2101-08 - Intro to International Bus.,INTL 2101,,in-person,,TuFr,09:30,10:45,100,0
+INTL 2101-09 - Intro to International Bus.,INTL 2101,,in-person,,TuFr,12:30,13:45,100,0
+INTL 2101-10 - Intro to International Bus.,INTL 2101,,in-person,,We,08:00,10:30,100,0
+INTL 2101-11 - Intro to International Bus.,INTL 2101,,in-person,,TuTh,17:00,18:15,100,0
+INTL 2101-12 - Intro to International Bus.,INTL 2101,,in-person,,MoWe,17:00,18:15,100,0
+INTL 2101-13 - Intro to International Bus.,INTL 2101,,in-person,,,,,100,0
+INTL 2201-01 - Global Engagement,INTL 2201,,in-person,,TuFr,09:30,10:45,100,0
+INTL 4999-01 - Senior Capstone Seminar (SENIOR CAPSTONE SEMINAR),INTL 4999,,in-person,,Fr,14:00,16:30,100,0
+ITLN 1110-01 - Elementary Italian I,ITLN 1110,,in-person,,MoWeTh,08:00,08:50,100,0
+ITLN 1110-02 - Elementary Italian I,ITLN 1110,,in-person,,,,,100,0
+ITLN 1110-03 - Elementary Italian I,ITLN 1110,,in-person,,,,,100,0
+ITLN 1110-04 - Elementary Italian I,ITLN 1110,,in-person,,TuWeFr,11:00,11:50,100,0
+ITLN 1110-05 - Elementary Italian I,ITLN 1110,,in-person,,,,,100,0
+ITLN 1110-06 - Elementary Italian I,ITLN 1110,,in-person,,TuThFr,17:00,17:50,100,0
+ITLN 1110-07 - Elementary Italian I,ITLN 1110,,in-person,,TuThFr,18:30,19:20,100,0
+ITLN 1110-08 - Elementary Italian I,ITLN 1110,,in-person,,MoWeTh,17:00,17:50,100,0
+ITLN 1111-01 - Elementary Italian II,ITLN 1111,,in-person,,MoWeTh,16:00,16:50,100,0
+ITLN 1111-02 - Elementary Italian II,ITLN 1111,,in-person,,,,,100,0
+ITLN 1111-03 - Elementary Italian II,ITLN 1111,,in-person,,MoWeTh,14:00,14:50,100,0
+ITLN 2210-01 - Intermediate Italian I,ITLN 2210,,in-person,,,,,100,0
+ITLN 2210-02 - Intermediate Italian I,ITLN 2210,,in-person,,MoWeTh,16:00,16:50,100,0
+ITLN 2211-01 - Intermediate Italian II,ITLN 2211,,in-person,,,,,100,0
+ITLN 2291-01 - BoccaccioÕs Decameron in Tran.,ITLN 2291,,in-person,,TuFr,11:00,12:15,100,0
+ITLN 3219-01 - Italian for Professional Appl,ITLN 3219,,in-person,,TuFr,12:30,13:45,100,0
+ITLN 3233-01 - Creative Writing in Italian,ITLN 3233,,in-person,,TuFr,09:30,10:45,100,0
+LATN 1111-01 - Introductory Latin,LATN 1111,,in-person,,,,,100,0
+LATN 2001-01 - Intermediate Latin,LATN 2001,,in-person,,MoTh,09:30,10:45,100,0
+LBPS 4999-01 - Senior Project,LBPS 4999,,in-person,,,,,100,0
+MATH 1011-01 - Precalculus,MATH 1011,,in-person,,MoTh,12:30,13:45,100,0
+MATH 1011-02 - Precalculus,MATH 1011,,in-person,,TuTh,17:00,18:15,100,0
+MATH 1011-03 - Precalculus,MATH 1011,,in-person,,TuFr,15:30,16:45,100,0
+MATH 1011-04 - Precalculus,MATH 1011,,in-person,,TuFr,14:00,15:15,100,0
+MATH 1011-05 - Precalculus,MATH 1011,,in-person,,MoWe,17:00,18:15,100,0
+MATH 1011-B06 - Precalculus,MATH 1011,,in-person,,,,,100,0
+MATH 1011-B07 - Precalculus,MATH 1011,,in-person,,,,,100,0
+MATH 1011-B08 - Precalculus,MATH 1011,,in-person,,,,,100,0
+MATH 1011-B09 - Precalculus,MATH 1011,,in-person,,,,,100,0
+MATH 1015-01 - Mathematics: An Exploration,MATH 1015,,in-person,,MoTh,15:30,16:45,100,0
+MATH 1015-02 - Mathematics: An Exploration,MATH 1015,,in-person,,TuFr,15:30,16:45,100,0
+MATH 1015-03 - Mathematics: An Exploration,MATH 1015,,in-person,,TuTh,17:00,18:15,100,0
+MATH 1015-04 - Mathematics: An Exploration,MATH 1015,,in-person,,,,,100,0
+MATH 1016-01 - Concepts of Calculus,MATH 1016,,in-person,,,,,100,0
+MATH 1016-02 - Concepts of Calculus,MATH 1016,,in-person,,MoWe,17:00,18:15,100,0
+MATH 1017-01 - Elem Probability & Statistics,MATH 1017,,in-person,,MoTh,08:00,09:15,100,0
+MATH 1017-02 - Elem Probability & Statistics,MATH 1017,,in-person,,TuFr,08:00,09:15,100,0
+MATH 1017-03 - Elem Probability & Statistics,MATH 1017,,in-person,,TuFr,15:30,16:45,100,0
+MATH 1017-04 - Elem Probability & Statistics,MATH 1017,,in-person,,MoTh,12:30,13:45,100,0
+MATH 1017-05 - Elem Probability & Statistics,MATH 1017,,in-person,,MoTh,15:30,16:45,100,0
+MATH 1017-06 - Elem Probability & Statistics,MATH 1017,,in-person,,,,,100,0
+MATH 1017-B07 - Elem Probability & Statistics,MATH 1017,,in-person,,,,,100,0
+MATH 1121-01 - Applied Calculus I,MATH 1121,,in-person,,TuFr,15:30,16:45,100,0
+MATH 1121-02 - Applied Calculus I,MATH 1121,,in-person,,TuFr,14:00,15:15,100,0
+MATH 1121-03 - Applied Calculus I,MATH 1121,,in-person,,TuFr,14:00,15:15,100,0
+MATH 1121-04 - Applied Calculus I,MATH 1121,,in-person,,MoTh,08:00,09:15,100,0
+MATH 1121-05 - Applied Calculus I,MATH 1121,,in-person,,MoTh,09:30,10:45,100,0
+MATH 1121-06 - Applied Calculus I,MATH 1121,,in-person,,TuFr,11:00,12:15,100,0
+MATH 1121-07 - Applied Calculus I,MATH 1121,,in-person,,TuFr,11:00,12:15,100,0
+MATH 1121-09 - Applied Calculus I,MATH 1121,,in-person,,TuFr,12:30,13:45,100,0
+MATH 1121-10 - Applied Calculus I,MATH 1121,,in-person,,TuFr,15:30,16:45,100,0
+MATH 1121-11 - Applied Calculus I,MATH 1121,,in-person,,TuTh,17:00,18:15,100,0
+MATH 1121-12 - Applied Calculus I,MATH 1121,,in-person,,,,,100,0
+MATH 1121-13 - Applied Calculus I,MATH 1121,,in-person,,TuFr,11:00,12:15,100,0
+MATH 1121-14 - Applied Calculus I,MATH 1121,,in-person,,TuFr,12:30,13:45,100,0
+MATH 1121-15 - Applied Calculus I,MATH 1121,,in-person,,MoTh,08:00,09:15,100,0
+MATH 1121-16 - Applied Calculus I,MATH 1121,,in-person,,MoWe,17:00,18:15,100,0
+MATH 1121-17 - Applied Calculus I,MATH 1121,,in-person,,MoTh,15:30,16:45,100,0
+MATH 1121-18 - Applied Calculus I,MATH 1121,,in-person,,MoWe,17:00,18:15,100,0
+MATH 1121-19 - Applied Calculus I,MATH 1121,,in-person,,MoTh,15:30,16:45,100,0
+MATH 1121-20 - Applied Calculus I,MATH 1121,,in-person,,TuFr,12:30,13:45,100,0
+MATH 1121-22 - Applied Calculus I,MATH 1121,,in-person,,TuFr,09:30,10:45,100,0
+MATH 1121-23 - Applied Calculus I,MATH 1121,,in-person,,TuFr,15:30,16:45,100,0
+MATH 1121-24 - Applied Calculus I,MATH 1121,,in-person,,TuFr,14:00,15:15,100,0
+MATH 1122-02 - Applied Calculus II,MATH 1122,,in-person,,TuFr,08:00,09:15,100,0
+MATH 1122-03 - Applied Calculus II,MATH 1122,,in-person,,TuFr,09:30,10:45,100,0
+MATH 1122-04 - Applied Calculus II,MATH 1122,,in-person,,MoTh,09:30,10:45,100,0
+MATH 1122-05 - Applied Calculus II,MATH 1122,,in-person,,MoTh,11:00,12:15,100,0
+MATH 1122-06 - Applied Calculus II,MATH 1122,,in-person,,MoTh,09:30,10:45,100,0
+MATH 1122-B07 - Applied Calculus II,MATH 1122,,in-person,,,,,100,0
+MATH 1141-01 - Calculus I for Chem/Engr/Phys,MATH 1141,,in-person,,,,,100,0
+MATH 1141-02 - Calculus I for Chem/Engr/Phys,MATH 1141,,in-person,,,,,100,0
+MATH 1141-03 - Calculus I for Chem/Engr/Phys,MATH 1141,,in-person,,,,,100,0
+MATH 1171-01 - Calculus I,MATH 1171,,in-person,,,,,100,0
+MATH 1171-02 - Calculus I,MATH 1171,,in-person,,,,,100,0
+MATH 1171-03 - Calculus I,MATH 1171,,in-person,,,,,100,0
+MATH 1171-04 - Calculus I,MATH 1171,,in-person,,,,,100,0
+MATH 1171-05 - Calculus I,MATH 1171,,in-person,,,,,100,0
+MATH 1171-06 - Calculus I,MATH 1171,,in-person,,,,,100,0
+MATH 1171-07 - Calculus I,MATH 1171,,in-person,,,,,100,0
+MATH 1171-08 - Calculus I,MATH 1171,,in-person,,,,,100,0
+MATH 1171-09 - Calculus I,MATH 1171,,in-person,,,,,100,0
+MATH 1172-01 - Calculus II,MATH 1172,,in-person,,,,,100,0
+MATH 1172-02 - Calculus II,MATH 1172,,in-person,,,,,100,0
+MATH 1172-03 - Calculus II,MATH 1172,,in-person,,,,,100,0
+MATH 2217-01 - Statistics I,MATH 2217,,in-person,,MoTh,09:30,10:45,100,0
+MATH 2217-02 - Statistics I,MATH 2217,,in-person,,MoTh,11:00,12:15,100,0
+MATH 2217-03 - Statistics I,MATH 2217,,in-person,,TuTh,17:00,18:15,100,0
+MATH 2217-04 - Statistics I,MATH 2217,,in-person,,,,,100,0
+MATH 2217-05 - Statistics I,MATH 2217,,in-person,,MoTh,15:30,16:45,100,0
+MATH 2217-06 - Statistics I,MATH 2217,,in-person,,,,,100,0
+MATH 2217-07 - Statistics I,MATH 2217,,in-person,,MoTh,12:30,13:45,100,0
+MATH 2217-08 - Statistics I,MATH 2217,,in-person,,,,,100,0
+MATH 2217-B9 - Statistics I,MATH 2217,,in-person,,,,,100,0
+MATH 2231-01 - Discrete Mathematics,MATH 2231,,in-person,,MoTh,12:30,13:45,100,0
+MATH 2231-02 - Discrete Mathematics,MATH 2231,,in-person,,MoWeTh,14:00,14:50,100,0
+MATH 2243-01 - Calculus III for Chem/Eng/Phys,MATH 2243,,in-person,,,,,100,0
+MATH 2243-02 - Calculus III for Chem/Eng/Phys,MATH 2243,,in-person,,,,,100,0
+MATH 2273-01 - Multivariable Calculus,MATH 2273,,in-person,,,,,100,0
+MATH 2273-02 - Multivariable Calculus,MATH 2273,,in-person,,,,,100,0
+MATH 3317-01 - Applied Statistics I,MATH 3317,,in-person,,,,,100,0
+MATH 3331-01 - Applied Mathematics,MATH 3331,,in-person,,MoTh,09:30,10:45,100,0
+MATH 3332-01 - Partial Differential Equations,MATH 3332,,in-person,,MoTh,11:00,12:15,100,0
+MATH 3336-01 - Abstract Algebra,MATH 3336,,in-person,,TuFr,09:30,10:45,100,0
+MATH 3351-01 - Probability Theory,MATH 3351,,in-person,,MoTh,09:30,10:45,100,0
+MATH 3351-02 - Probability Theory,MATH 3351,,in-person,,,,,100,0
+MATH 3371-01 - Real Analysis,MATH 3371,,in-person,,,,,100,0
+MATH 3383-01 - Modern Geometry,MATH 3383,,in-person,,MoWe,17:00,18:15,100,0
+MATH 4391-01 - Honors Seminar I,MATH 4391,,in-person,,,,,100,0
+MATH 4980-01 - Internship,MATH 4980,,in-person,,,,,100,0
+MATH 4990-01 - Independent Study,MATH 4990,,in-person,,,,,100,0
+MATH 4990-02 - Independent Study,MATH 4990,,in-person,,,,,100,0
+MATH 5401-01 - Intro to Applied Mathematics,MATH 5401,,in-person,,,,,100,0
+MATH 5417-02 - Applied Statistics I,MATH 5417,,in-person,,Mo,18:30,21:00,100,0
+MATH 5471-01 - Real Analysis,MATH 5471,,in-person,,We,18:30,21:00,100,0
+MATH 6583-01 - Geometry,MATH 6583,,in-person,,MoWe,17:00,18:15,100,0
+MATH 6990-01 - Independent Study,MATH 6990,,in-person,,,,,100,0
+MATH 6990-02 - Independent Study,MATH 6990,,in-person,,,,,100,0
+MATH 6999-01 - Capstone Project (CAPSTONE PROJECT),MATH 6999,,in-person,,,,,100,0
+MATH 6999-02 - Capstone Project (CAPSTONE PROJECT),MATH 6999,,in-person,,,,,100,0
+MEEG 2201-01 - Engineering Statics,MEEG 2201,,in-person,,TuTh,17:00,18:15,100,0
+MEEG 2201-02 - Engineering Statics,MEEG 2201,,in-person,,TuFr,12:30,13:45,100,0
+MEEG 2206L-01 - Mechanics Lab,MEEG 2206L,,in-person,,,,,100,0
+MEEG 2206L-02 - Mechanics Lab,MEEG 2206L,,in-person,,,,,100,0
+MEEG 2207-01 - Materials Science,MEEG 2207,,in-person,,TuFr,08:00,09:15,100,0
+MEEG 2207-02 - Materials Science,MEEG 2207,,in-person,,MoTh,08:00,09:15,100,0
+MEEG 3241-02 - Principles of Thermodynamics,MEEG 3241,,in-person,,MoTh,15:30,16:45,100,0
+MEEG 3311-01 - Machine Design,MEEG 3311,,in-person,,TuFr,09:30,10:45,100,0
+MEEG 3311-02 - Machine Design,MEEG 3311,,in-person,,Th,17:00,19:30,100,0
+MEEG 4310L-01 - Product Manufacturing Lab,MEEG 4310L,,in-person,,,,,100,0
+MEEG 4312-01 - Adv Product Design & Manufact,MEEG 4312,,in-person,,TuFr,14:00,15:15,100,0
+MEEG 4325-01 - Engineering Systems Dynamics,MEEG 4325,,in-person,,MoTh,09:30,10:45,100,0
+MEEG 4327-01 - Fracture Mechanics,MEEG 4327,,in-person,,We,11:00,13:30,100,0
+MEEG 4330-01 - Mech of Composite Materials,MEEG 4330,,in-person,,,,,100,0
+MEEG 4349-01 - Heat Transfer,MEEG 4349,,in-person,,MoTh,12:30,13:45,100,0
+MEEG 4349-02 - Heat Transfer,MEEG 4349,,in-person,,,,,100,0
+MEEG 4350L-01 - Energy Transfer Lab,MEEG 4350L,,in-person,,,,,100,0
+MEEG 4353-01 - Computational Fluid Dynamics,MEEG 4353,,in-person,,,,,100,0
+MEEG 4372-01 - Appl of Theory of Elasticity,MEEG 4372,,in-person,,MoTh,11:00,12:15,100,0
+MEEG 4376-01 - Stability of Structures,MEEG 4376,,in-person,,TuTh,17:00,18:15,100,0
+MEEG 4990-01 - Independent Study,MEEG 4990,,in-person,,,,,100,0
+MEEG 5305-01 - Design of Mechatronics Systems,MEEG 5305,,in-person,,,,,100,0
+MEEG 5310L-01 - Product Manufacturing Lab,MEEG 5310L,,in-person,,,,,100,0
+MEEG 5312-01 - Adv Product Design & Manufact,MEEG 5312,,in-person,,TuFr,14:00,15:15,100,0
+MEEG 5327-01 - Fracture Mechanics,MEEG 5327,,in-person,,We,11:00,13:30,100,0
+MEEG 5330-01 - Mechanics/Composite Materials,MEEG 5330,,in-person,,,,,100,0
+MEEG 5353-01 - Computational Fluid Dynamics,MEEG 5353,,in-person,,,,,100,0
+MEEG 5372-01 - Appl of Theory of Elasticity,MEEG 5372,,in-person,,MoTh,11:00,12:15,100,0
+MEEG 5376-01 - Stability of Structures,MEEG 5376,,in-person,,TuTh,17:00,18:15,100,0
+MEEG 5415-01 - Eng Applications of Num Methds,MEEG 5415,,in-person,,We,18:30,21:00,100,0
+MEEG 6971-01 - Thesis I,MEEG 6971,,in-person,,,,,100,0
+MEEG 6971-02 - Thesis I,MEEG 6971,,in-person,,,,,100,0
+MEEG 6971-03 - Thesis I,MEEG 6971,,in-person,,,,,100,0
+MEEG 6972-01 - Thesis II,MEEG 6972,,in-person,,,,,100,0
+MFTH 5433-01 - Social Justice and Diversity,MFTH 5433,,in-person,,,,,100,0
+MFTH 5550-01 - Intro Marriage and Fam Therapy,MFTH 5550,,in-person,,,,,100,0
+MFTH 5598-01 - Tevera Site Placement Process,MFTH 5598,,in-person,,,,,100,0
+MFTH 5999G-01 - Queer and Trans Mental Health (QUEER AND TRANS MENTAL HEALTH),MFTH 5999G,,in-person,,,,,100,0
+MFTH 6450-01 - Narr & Solution-Focused Therpy,MFTH 6450,,in-person,,,,,100,0
+MFTH 6552-01 - Intrv in Struct & Strategic FT,MFTH 6552,,in-person,,,,,100,0
+MFTH 6553-01 - Family Therapy Pre-Practicum,MFTH 6553,,in-person,,,,,100,0
+MFTH 6556-01 - Research in MFT,MFTH 6556,,in-person,,,,,100,0
+MFTH 6561-01 - Adv Interv in Family Therapy,MFTH 6561,,in-person,,,,,100,0
+MFTH 6567-01 - Couples Therapy,MFTH 6567,,in-person,,,,,100,0
+MFTH 6951-01 - Practicum in Fam Therapy I (PRACTICUM IN FAM THERAPY I),MFTH 6951,,in-person,,,,,100,0
+MFTH 6951-02 - Practicum in Fam Therapy I (PRACTICUM IN FAM THERAPY I),MFTH 6951,,in-person,,,,,100,0
+MFTH 6952-01 - Practicum in Fam Therapy II (PRACTICUM IN FAM THERAPY II),MFTH 6952,,in-person,,,,,100,0
+MFTH 6952-02 - Practicum in Fam Therapy II (PRACTICUM IN FAM THERAPY II),MFTH 6952,,in-person,,,,,100,0
+MFTH 6981-01 - Internship in Family Therapy I,MFTH 6981,,in-person,,,,,100,0
+MFTH 6981-03 - Internship in Family Therapy I,MFTH 6981,,in-person,,,,,100,0
+MFTH 6982-01 - Internship in Fam Therapy II,MFTH 6982,,in-person,,,,,100,0
+MFTH 6982-02 - Internship in Fam Therapy II,MFTH 6982,,in-person,,,,,100,0
+MFTH 6983-01 - Cont Internship in Fam Therapy,MFTH 6983,,in-person,,,,,100,0
+MGMT 2101-02 - Introduction to Management,MGMT 2101,,in-person,,MoTh,08:00,09:15,100,0
+MGMT 2101-03 - Introduction to Management,MGMT 2101,,in-person,,MoTh,09:30,10:45,100,0
+MGMT 2101-05 - Introduction to Management,MGMT 2101,,in-person,,,,,100,0
+MGMT 2101-06 - Introduction to Management,MGMT 2101,,in-person,,MoTh,15:30,16:45,100,0
+MGMT 2101-07 - Introduction to Management,MGMT 2101,,in-person,,TuFr,14:00,15:15,100,0
+MGMT 2101-08 - Introduction to Management,MGMT 2101,,in-person,,TuFr,15:30,16:45,100,0
+MGMT 2101-09 - Introduction to Management,MGMT 2101,,in-person,,TuTh,17:00,18:15,100,0
+MGMT 2101-10 - Introduction to Management,MGMT 2101,,in-person,,,,,100,0
+MGMT 2101-11 - Introduction to Management,MGMT 2101,,in-person,,MoWe,17:00,18:15,100,0
+MGMT 2101-12 - Introduction to Management,MGMT 2101,,in-person,,We,14:00,16:30,100,0
+MGMT 2101-14 - Introduction to Management,MGMT 2101,,in-person,,We,08:00,10:30,100,0
+MGMT 2101-15 - Introduction to Management,MGMT 2101,,in-person,,Mo,18:30,21:00,100,0
+MGMT 2101-B16 - Introduction to Management,MGMT 2101,,in-person,,,,,100,0
+MGMT 2980-01 - Internship,MGMT 2980,,in-person,,,,,100,0
+MGMT 3235-02 - Managing Human Resources,MGMT 3235,,in-person,,TuFr,11:00,12:15,100,0
+MGMT 3235-03 - Managing Human Resources,MGMT 3235,,in-person,,,,,100,0
+MGMT 3235-04 - Managing Human Resources,MGMT 3235,,in-person,,MoTh,15:30,16:45,100,0
+MGMT 3240-01 - Leading and Managing People,MGMT 3240,,in-person,,TuFr,09:30,10:45,100,0
+MGMT 3240-02 - Leading and Managing People,MGMT 3240,,in-person,,TuFr,11:00,12:15,100,0
+MGMT 3240-03 - Leading and Managing People,MGMT 3240,,in-person,,MoTh,11:00,12:15,100,0
+MGMT 3240-04 - Leading and Managing People,MGMT 3240,,in-person,,MoTh,12:30,13:45,100,0
+MGMT 3980-01 - Internship,MGMT 3980,,in-person,,,,,100,0
+MGMT 4300-01 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,MoTh,11:00,12:15,100,0
+MGMT 4300-02 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,MoTh,09:30,10:45,100,0
+MGMT 4300-03 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,MoTh,09:30,10:45,100,0
+MGMT 4300-04 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,We,14:00,16:30,100,0
+MGMT 4300-05 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,TuFr,09:30,10:45,100,0
+MGMT 4300-06 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,TuFr,15:30,16:45,100,0
+MGMT 4300-09 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,TuFr,12:30,13:45,100,0
+MGMT 4300-13 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,TuFr,08:00,09:15,100,0
+MGMT 4300-14 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,MoTh,12:30,13:45,100,0
+MGMT 4300-15 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,We,18:30,21:00,100,0
+MGMT 4300-16 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,We,08:00,10:30,100,0
+MGMT 4300-17 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,TuFr,14:00,15:15,100,0
+MGMT 4300-18 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,MoWe,17:00,18:15,100,0
+MGMT 4300-19 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,,,,100,0
+MGMT 4300-20 - Bus Strategy Glbl Environment,MGMT 4300,,in-person,,We,11:00,13:30,100,0
+MGMT 4320-01 - Diversity in the Workplace,MGMT 4320,,in-person,,TuFr,14:00,15:15,100,0
+MGMT 4330-01 - Career Planning,MGMT 4330,,in-person,,We,11:00,13:30,100,0
+MGMT 4333-01 - Adv Topics in HR Management,MGMT 4333,,in-person,,TuFr,12:30,13:45,100,0
+MGMT 4335-01 - Entrepreneurship: Idea&Validat,MGMT 4335,,in-person,,TuFr,11:00,12:15,100,0
+MGMT 4337-01 - Entrepreneurship: Prod Dev/Com,MGMT 4337,,in-person,,,,,100,0
+MGMT 4350-01 - International Law,MGMT 4350,,in-person,,MoTh,15:30,16:45,100,0
+MGMT 4370-01 - Managing Non-Profit Orgs,MGMT 4370,,in-person,,We,14:00,16:30,100,0
+MGMT 4385-01 - Managing People for Glbl Busn,MGMT 4385,,in-person,,We,11:00,13:30,100,0
+MGMT 4390-01 - Cross-Cultural Management,MGMT 4390,,in-person,,TuFr,09:30,10:45,100,0
+MGMT 6500-02 - Leadership,MGMT 6500,,in-person,,Mo,18:30,21:30,100,0
+MGMT 6500-03 - Leadership,MGMT 6500,,in-person,,,,,100,0
+MGMT 6503-04 - Legal Ethical Environ of Busn,MGMT 6503,,in-person,,,,,100,0
+MGMT 6504-01 - Managing People / Compet Adv,MGMT 6504,,in-person,,Mo,18:30,21:30,100,0
+MGMT 6507-01 - Negotiations & Dispute Resol,MGMT 6507,,in-person,,Th,18:30,21:30,100,0
+MGMT 6508-01 - Strategic Mgmt of Tech & Innov,MGMT 6508,,in-person,,We,18:30,21:30,100,0
+MGMT 6530-01 - Entrepreneurship,MGMT 6530,,in-person,,Tu,18:30,21:30,100,0
+MGTN 5415-01 - Information Systems,MGTN 5415,,in-person,,,,,100,0
+MGTN 5470-01 - Leadership in Tech Enterprise,MGTN 5470,,in-person,,,,,100,0
+MGTN 6961-01 - Capstone I: Proj Def/Planning,MGTN 6961,,in-person,,Mo,18:30,21:00,100,0
+MGTN 6990-01 - Independent Study,MGTN 6990,,in-person,,,,,100,0
+MKTG 1101-01 - Principles of Marketing,MKTG 1101,,in-person,,TuFr,11:00,12:15,100,0
+MKTG 1101-02 - Principles of Marketing,MKTG 1101,,in-person,,We,08:00,10:30,100,0
+MKTG 1101-03 - Principles of Marketing,MKTG 1101,,in-person,,MoTh,11:00,12:15,100,0
+MKTG 1101-04 - Principles of Marketing,MKTG 1101,,in-person,,MoTh,12:30,13:45,100,0
+MKTG 1101-05 - Principles of Marketing,MKTG 1101,,in-person,,MoTh,08:00,09:15,100,0
+MKTG 1101-06 - Principles of Marketing,MKTG 1101,,in-person,,MoTh,15:30,16:45,100,0
+MKTG 1101-07 - Principles of Marketing,MKTG 1101,,in-person,,We,11:00,13:30,100,0
+MKTG 1101-08 - Principles of Marketing,MKTG 1101,,in-person,,TuFr,08:00,09:15,100,0
+MKTG 1101-09 - Principles of Marketing,MKTG 1101,,in-person,,TuFr,09:30,10:45,100,0
+MKTG 1101-11 - Principles of Marketing,MKTG 1101,,in-person,,We,14:00,16:30,100,0
+MKTG 1101-12 - Principles of Marketing,MKTG 1101,,in-person,,We,11:00,13:30,100,0
+MKTG 1101-13 - Principles of Marketing,MKTG 1101,,in-person,,,,,100,0
+MKTG 2212-01 - Consumer Behavior,MKTG 2212,,in-person,,TuFr,11:00,12:15,100,0
+MKTG 2212-02 - Consumer Behavior,MKTG 2212,,in-person,,TuFr,12:30,13:45,100,0
+MKTG 2212-03 - Consumer Behavior,MKTG 2212,,in-person,,MoTh,09:30,10:45,100,0
+MKTG 2212-04 - Consumer Behavior,MKTG 2212,,in-person,,MoTh,12:30,13:45,100,0
+MKTG 2231-01 - Advertising,MKTG 2231,,in-person,,MoTh,12:30,13:45,100,0
+MKTG 2231-02 - Advertising,MKTG 2231,,in-person,,MoWe,17:00,18:15,100,0
+MKTG 2241-01 - Digital Marketing,MKTG 2241,,in-person,,MoTh,08:00,09:15,100,0
+MKTG 2241-02 - Digital Marketing,MKTG 2241,,in-person,,MoTh,09:30,10:45,100,0
+MKTG 2251-01 - Social Media Marketing,MKTG 2251,,in-person,,TuFr,14:00,15:15,100,0
+MKTG 2251-02 - Social Media Marketing,MKTG 2251,,in-person,,TuFr,15:30,16:45,100,0
+MKTG 2261-01 - Sports Marketing,MKTG 2261,,in-person,,Mo,17:00,19:30,100,0
+MKTG 2311-01 - Marketing Research,MKTG 2311,,in-person,,TuFr,09:30,10:45,100,0
+MKTG 2311-02 - Marketing Research,MKTG 2311,,in-person,,TuFr,12:30,13:45,100,0
+MKTG 2311-03 - Marketing Research,MKTG 2311,,in-person,,MoTh,08:00,09:15,100,0
+MKTG 2311-04 - Marketing Research,MKTG 2311,,in-person,,MoTh,09:30,10:45,100,0
+MKTG 2980-01 - Internship,MKTG 2980,,in-person,,,,,100,0
+MKTG 3322-01 - Business-to-Business Marketing,MKTG 3322,,in-person,,MoWe,17:00,18:15,100,0
+MKTG 3331-01 - Media Strategy,MKTG 3331,,in-person,,,,,100,0
+MKTG 3341-01 - Brand Management,MKTG 3341,,in-person,,Th,17:00,19:30,100,0
+MKTG 3342-01 - Contemporary Issues in Mktg (CONTEMPORARY ISSUES IN MKTG),MKTG 3342,,in-person,,We,14:00,16:30,100,0
+MKTG 3980-01 - Internship,MKTG 3980,,in-person,,,,,100,0
+MKTG 4312-01 - Global Marketing Strategy,MKTG 4312,,in-person,,MoTh,11:00,12:15,100,0
+MKTG 4312-02 - Global Marketing Strategy,MKTG 4312,,in-person,,,,,100,0
+MKTG 4312-03 - Global Marketing Strategy,MKTG 4312,,in-person,,MoTh,15:30,16:45,100,0
+MKTG 5400-01 - Marketing Management,MKTG 5400,,in-person,,,,,100,0
+MKTG 6500-01 - Customer Value,MKTG 6500,,in-person,,,,,100,0
+MKTG 6500-02 - Customer Value,MKTG 6500,,in-person,,,,,100,0
+MKTG 6510-01 - Adv Consumer Behavior for Mgrs,MKTG 6510,,in-person,,,,,100,0
+MKTG 6520-01 - Rsch Mktg Insights & Decisions,MKTG 6520,,in-person,,We,18:30,21:30,100,0
+MKTG 6535-01 - Strategic Brand Management,MKTG 6535,,in-person,,,,,100,0
+MKTG 6550-01 - Advanced Marketing Strategy,MKTG 6550,,in-person,,,,,100,0
+MKTG 6570-01 - Digital Marketing & Analytics,MKTG 6570,,in-person,,Mo,18:30,21:30,100,0
+MKTG 6575-01 - Soc. Med. Analytics and Strat.,MKTG 6575,,in-person,,Tu,18:30,21:30,100,0
+MKTG 6583-01 - Pricing Strategies & Analytics,MKTG 6583,,in-person,,Th,18:30,21:30,100,0
+MKTG 6583-02 - Pricing Strategies & Analytics,MKTG 6583,,in-person,,,,,100,0
+MKTG 6999A-01 - Capstone: Mktg Anlys &Strategy (CAPSTONE: MKTG ANLYS &STRATEGY),MKTG 6999A,,in-person,,,,,100,0
+MUSC 1101-01 - The History of Jazz,MUSC 1101,,in-person,,We,11:00,13:30,100,0
+MUSC 1102-01 - History & Development of Rock,MUSC 1102,,in-person,,MoTh,09:30,10:45,100,0
+MUSC 1102-02 - History & Development of Rock,MUSC 1102,,in-person,,MoTh,11:00,12:15,100,0
+MUSC 1104-01 - History of Music: 1700-1964,MUSC 1104,,in-person,,TuFr,11:00,12:15,100,0
+MUSC 1122-01 - World Music Hist and Ensemble,MUSC 1122,,in-person,,MoTh,12:30,13:45,100,0
+MUSC 1126-01 - History of Choral Music,MUSC 1126,,in-person,,We,11:00,13:30,100,0
+MUSC 1150-01 - Music Theory and Composition I,MUSC 1150,,in-person,,TuFr,12:30,13:45,100,0
+MUSC 1243-01 - 19th Cent Romanticism in Music,MUSC 1243,,in-person,,TuFr,09:30,10:45,100,0
+MUSC 2245-01 - Film Music: Hearing the Movies,MUSC 2245,,in-person,,We,11:00,13:30,100,0
+MUSC 3916-01 - Private Lessons: Guitar,MUSC 3916,,in-person,,,,,100,0
+MUSC 3919-01 - Private Lessons: Percussion,MUSC 3919,,in-person,,,,,100,0
+MUSC 3920-01 - Private Lessons: Piano,MUSC 3920,,in-person,,,,,100,0
+MUSC 3923-01 - Private Lessons: Saxophone,MUSC 3923,,in-person,,,,,100,0
+MUSC 3925-01 - Private Lessons: Trumpet,MUSC 3925,,in-person,,,,,100,0
+MUSC 3926-01 - Private Lessons: Violin,MUSC 3926,,in-person,,,,,100,0
+MUSC 3927-01 - Private Lessons: Viola,MUSC 3927,,in-person,,,,,100,0
+MUSC 3928-01 - Private Lessons: Voice,MUSC 3928,,in-person,,,,,100,0
+MUSC 3928-02 - Private Lessons: Voice,MUSC 3928,,in-person,,,,,100,0
+MUSC 3951-01 - Instrumental Ensembles,MUSC 3951,,in-person,,,,,100,0
+MUSC 3951-02 - Instrumental Ensembles,MUSC 3951,,in-person,,,,,100,0
+MUSC 3953-01 - Jazz Ensemble,MUSC 3953,,in-person,,,,,100,0
+MUSC 3955-01 - University Glee Club,MUSC 3955,,in-person,,,,,100,0
+MUSC 3980-01 - Internship,MUSC 3980,,in-person,,,,,100,0
+MUSC 4998-01 - Senior Capstone Project I,MUSC 4998,,in-person,,,,,100,0
+NSAN 7669-01 - Adv Pathophys for Anesth Pract,NSAN 7669,,in-person,,,,,100,0
+NSAN 7669-02T - Adv Pathophys for Anesth Pract,NSAN 7669,,in-person,,,,,100,0
+NSAN 7672-01 - Pharm Strat /Anesthesia Pract,NSAN 7672,,in-person,,,,,100,0
+NSAN 7672-02T - Pharm Strat /Anesthesia Pract,NSAN 7672,,in-person,,,,,100,0
+NSAN 7674L-01 - Prin Nurs Anesth. Pract II Lab,NSAN 7674L,,in-person,,,,,100,0
+NSAN 7674L-02T - Prin Nurs Anesth. Pract II Lab,NSAN 7674L,,in-person,,,,,100,0
+NSAN 7674-01 - Prin Nurs Anesthesia Pract II,NSAN 7674,,in-person,,,,,100,0
+NSAN 7674-02T - Prin Nurs Anesthesia Pract II,NSAN 7674,,in-person,,,,,100,0
+NSAN 7941-01 - Nurs Anesth Residency Corr I,NSAN 7941,,in-person,,,,,100,0
+NSAN 7941-02T - Nurs Anesth Residency Corr I,NSAN 7941,,in-person,,,,,100,0
+NSAN 7953-01 - Clinical Practicum III (CLINICAL PRACTICUM III),NSAN 7953,,in-person,,,,,100,0
+NSAN 7956-01 - Nurse Anesthesia Residency I,NSAN 7956,,in-person,,,,,100,0
+NSAN 7956-02T - Nurse Anesthesia Residency I,NSAN 7956,,in-person,,,,,100,0
+NSMW 7620-01 - Antepartum Care,NSMW 7620,,in-person,,,,,100,0
+NSMW 7625-01 - Intrapartum Care,NSMW 7625,,in-person,,,,,100,0
+NSMW 7951-01 - Antepartum Clinical,NSMW 7951,,in-person,,,,,100,0
+NSMW 7953-01 - Intrapartum Clinical,NSMW 7953,,in-person,,,,,100,0
+NURS 1110-01 - Intro to Professional Nursing,NURS 1110,,in-person,,MoTh,08:00,09:15,100,0
+NURS 1110-02 - Intro to Professional Nursing,NURS 1110,,in-person,,We,14:00,16:30,100,0
+NURS 1110-03 - Intro to Professional Nursing,NURS 1110,,in-person,,MoTh,08:00,09:15,100,0
+NURS 1112-01 - Healthcare Delivery Systems,NURS 1112,,in-person,,MoTh,08:00,09:15,100,0
+NURS 1112-02 - Healthcare Delivery Systems,NURS 1112,,in-person,,MoTh,15:30,16:45,100,0
+NURS 1112-03 - Healthcare Delivery Systems,NURS 1112,,in-person,,We,14:00,16:30,100,0
+NURS 1112-04 - Healthcare Delivery Systems,NURS 1112,,in-person,,,,,100,0
+NURS 1112-B04 - Healthcare Delivery Systems,NURS 1112,,in-person,,,,,100,0
+NURS 2272C-01 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-02 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-03 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-04 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-05 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-06 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-07 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-08 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-09 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-10 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272C-11 - Geriatric Nursing Clinical,NURS 2272C,,in-person,,,,,100,0
+NURS 2272-01 - Geriatric Nursing,NURS 2272,,in-person,,MoTh,11:00,12:15,100,0
+NURS 2272-02 - Geriatric Nursing,NURS 2272,,in-person,,MoTh,12:30,13:45,100,0
+NURS 2272-03 - Geriatric Nursing,NURS 2272,,in-person,,MoTh,11:00,12:15,100,0
+NURS 2303-01 - Basic Pathophys&Pharmacology,NURS 2303,,in-person,,MoTh,08:00,09:15,100,0
+NURS 2303-02 - Basic Pathophys&Pharmacology,NURS 2303,,in-person,,MoTh,08:00,09:15,100,0
+NURS 2303-03 - Basic Pathophys&Pharmacology,NURS 2303,,in-person,,MoTh,09:30,10:45,100,0
+NURS 2303-04 - Basic Pathophys&Pharmacology,NURS 2303,,in-person,,MoTh,09:30,10:45,100,0
+NURS 2303-05 - Basic Pathophys&Pharmacology,NURS 2303,,in-person,,TuFr,08:00,09:15,100,0
+NURS 2303-06T - Basic Pathophys&Pharmacology,NURS 2303,,in-person,,,,,100,0
+NURS 2303-06 - Basic Pathophys&Pharmacology,NURS 2303,,in-person,,TuFr,09:30,10:45,100,0
+NURS 3301-01 - Health and Wellness,NURS 3301,,in-person,,,,,100,0
+NURS 3301-02 - Health and Wellness,NURS 3301,,in-person,,MoTh,15:30,16:45,100,0
+NURS 3301-03 - Health and Wellness,NURS 3301,,in-person,,,,,100,0
+NURS 3301-04 - Health and Wellness,NURS 3301,,in-person,,MoTh,15:30,16:45,100,0
+NURS 3301-05 - Health and Wellness,NURS 3301,,in-person,,TuFr,08:00,09:15,100,0
+NURS 3301-06T - Health and Wellness,NURS 3301,,in-person,,,,,100,0
+NURS 3301-06 - Health and Wellness,NURS 3301,,in-person,,TuFr,09:30,10:45,100,0
+NURS 3305C-01 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-02 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-03 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-04 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-05 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-06 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-07 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-08 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-09 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-10 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-11 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-12 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-13 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-14 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-15 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-16 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-17 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-18 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-19 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-20 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-21 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-23 - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-24T - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-25T - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305C-26T - Mental Health Nursing Clinical,NURS 3305C,,in-person,,,,,100,0
+NURS 3305-01 - Mental Health Nursing,NURS 3305,,in-person,,MoTh,11:00,12:15,100,0
+NURS 3305-02 - Mental Health Nursing,NURS 3305,,in-person,,MoTh,12:30,13:45,100,0
+NURS 3305-03 - Mental Health Nursing,NURS 3305,,in-person,,TuFr,12:30,13:45,100,0
+NURS 3305-04T - Mental Health Nursing,NURS 3305,,in-person,,,,,100,0
+NURS 3305-04 - Mental Health Nursing,NURS 3305,,in-person,,TuFr,12:30,13:45,100,0
+NURS 3307L-01 - Fundmtls of Nursing Care Lab,NURS 3307L,,in-person,,,,,100,0
+NURS 3307L-02 - Fundmtls of Nursing Care Lab,NURS 3307L,,in-person,,,,,100,0
+NURS 3307L-03 - Fundmtls of Nursing Care Lab,NURS 3307L,,in-person,,,,,100,0
+NURS 3307L-04 - Fundmtls of Nursing Care Lab,NURS 3307L,,in-person,,,,,100,0
+NURS 3307L-05 - Fundmtls of Nursing Care Lab,NURS 3307L,,in-person,,,,,100,0
+NURS 3307L-06 - Fundmtls of Nursing Care Lab,NURS 3307L,,in-person,,,,,100,0
+NURS 3307L-07 - Fundmtls of Nursing Care Lab,NURS 3307L,,in-person,,,,,100,0
+NURS 3307L-08 - Fundmtls of Nursing Care Lab,NURS 3307L,,in-person,,,,,100,0
+NURS 3307-01 - Fundamentals of Nursing Care,NURS 3307,,in-person,,,,,100,0
+NURS 3307-02 - Fundamentals of Nursing Care,NURS 3307,,in-person,,,,,100,0
+NURS 3307-03 - Fundamentals of Nursing Care,NURS 3307,,in-person,,,,,100,0
+NURS 3307-04 - Fundamentals of Nursing Care,NURS 3307,,in-person,,,,,100,0
+NURS 3310-01T - Found/Resrch Evid Based Pract,NURS 3310,,in-person,,We,08:00,10:30,100,0
+NURS 3312C-01 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-02 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-03 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-04 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-05 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-06 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-07 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-08 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-09 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-10 - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-11T - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-12T - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312C-13T - Med Surgical Nursing I Clinic,NURS 3312C,,in-person,,,,,100,0
+NURS 3312-01 - Medical Surgical Nursing I,NURS 3312,,in-person,,TuFr,14:00,15:15,100,0
+NURS 3312-04T - Medical Surgical Nursing I,NURS 3312,,in-person,,,,,100,0
+NURS 3314C-01 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-02 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-03 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-04 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-05 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-06 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-07 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-08 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-09 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-10 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314C-11 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 3314-01 - Maternal and Newborn Nursing,NURS 3314,,in-person,,MoTh,08:00,09:15,100,0
+NURS 3314-02 - Maternal and Newborn Nursing,NURS 3314,,in-person,,MoTh,09:30,10:45,100,0
+NURS 4321-01T - Professional Nursing Leadershp,NURS 4321,,in-person,,,,,100,0
+NURS 4323C-01 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-02 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-03 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-04 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-05 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-06 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-07 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-08 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-09 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-10 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-11 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-12 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-13 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-14 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-15 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-16 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-17 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-18 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-19 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-20T - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-21T - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323-01 - Pediatric Nursing,NURS 4323,,in-person,,,,,100,0
+NURS 4323-02 - Pediatric Nursing,NURS 4323,,in-person,,,,,100,0
+NURS 4323-03 - Pediatric Nursing,NURS 4323,,in-person,,,,,100,0
+NURS 4323-04T - Pediatric Nursing,NURS 4323,,in-person,,We,11:00,13:30,100,0
+NURS 4325C-01 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-02 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-03 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-04 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-05 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-06 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-07 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-08 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-09 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-10 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-11 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-12 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-13 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-14 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-15 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-16 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-17 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-18 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-20T - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-21T - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325C-22T - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4325-01 - Medical Surgical Nursing II,NURS 4325,,in-person,,MoTh,12:30,13:45,100,0
+NURS 4325-02 - Medical Surgical Nursing II,NURS 4325,,in-person,,MoTh,11:00,12:15,100,0
+NURS 4325-03 - Medical Surgical Nursing II,NURS 4325,,in-person,,MoTh,12:30,13:45,100,0
+NURS 4325-04 - Medical Surgical Nursing II,NURS 4325,,in-person,,MoTh,12:30,13:45,100,0
+NURS 4325-05T - Medical Surgical Nursing II,NURS 4325,,in-person,,,,,100,0
+NURS 4330C-01 - Population Health Clinical,NURS 4330C,,in-person,,,,,100,0
+NURS 4330C-02 - Population Health Clinical,NURS 4330C,,in-person,,,,,100,0
+NURS 4330C-03 - Population Health Clinical,NURS 4330C,,in-person,,,,,100,0
+NURS 4330C-04 - Population Health Clinical,NURS 4330C,,in-person,,,,,100,0
+NURS 4330-01 - Population Health,NURS 4330,,in-person,,,,,100,0
+NURS 4365-01 - Forensic Science in Healthcare,NURS 4365,,in-person,,MoTh,11:00,12:15,100,0
+NURS 5305C-01 - Mental Health Nursing Clinical,NURS 5305C,,in-person,,,,,100,0
+NURS 5305C-02 - Mental Health Nursing Clinical,NURS 5305C,,in-person,,,,,100,0
+NURS 5305C-03 - Mental Health Nursing Clinical,NURS 5305C,,in-person,,,,,100,0
+NURS 5305-01 - Mental Health Nursing,NURS 5305,,in-person,,TuFr,12:30,13:45,100,0
+NURS 5312C-01 - Medical Surgical Nurs Clinical,NURS 5312C,,in-person,,,,,100,0
+NURS 5312C-02 - Medical Surgical Nurs Clinical,NURS 5312C,,in-person,,,,,100,0
+NURS 5312C-04 - Medical Surgical Nurs Clinical,NURS 5312C,,in-person,,,,,100,0
+NURS 5312-01 - Medical Surgical Nursing I,NURS 5312,,in-person,,TuFr,14:00,15:15,100,0
+NURS 6521-01 - Hlthcare Lead Roles/Sys Improv,NURS 6521,,in-person,,Mo,17:00,19:30,100,0
+NURS 7601-01 - Epidemiology and Biostatistics,NURS 7601,,in-person,,We,17:00,19:30,100,0
+NURS 7601-02 - Epidemiology and Biostatistics,NURS 7601,,in-person,,,,,100,0
+NURS 7601-03 - Epidemiology and Biostatistics,NURS 7601,,in-person,,,,,100,0
+NURS 7604-01 - Advanced Health Assessment,NURS 7604,,in-person,,,,,100,0
+NURS 7605-01 - Advanced Health Policy,NURS 7605,,in-person,,,,,100,0
+NURS 7608-01 - Research Methods for EBP,NURS 7608,,in-person,,,,,100,0
+NURS 7608-02 - Research Methods for EBP,NURS 7608,,in-person,,,,,100,0
+NURS 7608-03 - Research Methods for EBP,NURS 7608,,in-person,,,,,100,0
+NURS 7609-01 - Role Reflect Prac for MSN-DNPs,NURS 7609,,in-person,,,,,100,0
+NURS 7610-01 - Adv Nurs Roles & Reflect Pract,NURS 7610,,in-person,,,,,100,0
+NURS 7611-01 - Social and Behavioral Determ.,NURS 7611,,in-person,,,,,100,0
+NURS 7613-01 - Fin & Qual Mgmt in Health Orgs,NURS 7613,,in-person,,We,17:00,19:30,100,0
+NURS 7613-02 - Fin & Qual Mgmt in Health Orgs,NURS 7613,,in-person,,,,,100,0
+NURS 7614-01 - IT for Healthcare Improvement,NURS 7614,,in-person,,Tu,17:00,19:30,100,0
+NURS 7614-02 - IT for Healthcare Improvement,NURS 7614,,in-person,,,,,100,0
+NURS 7620-01 - Adv Concepts / Pathophysiology,NURS 7620,,in-person,,Th,17:00,19:30,100,0
+NURS 7640-01 - Adv Physiology & Pathophys,NURS 7640,,in-person,,,,,100,0
+NURS 7641-01 - Advanced Pharmacology,NURS 7641,,in-person,,Tu,17:00,19:30,100,0
+NURS 7642-01 - Adult Health I,NURS 7642,,in-person,,Tu,17:00,19:30,100,0
+NURS 7645-01 - Care of Children and Families,NURS 7645,,in-person,,Th,17:00,19:30,100,0
+NURS 7650-01 - Psychopathology,NURS 7650,,in-person,,,,,100,0
+NURS 7651-01 - Mental Hlth Nsg /Child&Adlscnt,NURS 7651,,in-person,,,,,100,0
+NURS 7661-01 - Mental Health Nsg /Grps & Fams,NURS 7661,,in-person,,,,,100,0
+NURS 7668-01 - Palliatv Care Across Lifespan,NURS 7668,,in-person,,We,17:00,19:30,100,0
+NURS 7687-01 - DNP Immersion,NURS 7687,,in-person,,,,,100,0
+NURS 7687-02 - DNP Immersion,NURS 7687,,in-person,,,,,100,0
+NURS 7697-01 - DNP Seminar I,NURS 7697,,in-person,,,,,100,0
+NURS 7697-02 - DNP Seminar I,NURS 7697,,in-person,,,,,100,0
+NURS 7699-01 - DNP Seminar II,NURS 7699,,in-person,,,,,100,0
+NURS 7699-02 - DNP Seminar II,NURS 7699,,in-person,,,,,100,0
+NURS 7952-01 - Clinical Conference FNP I,NURS 7952,,in-person,,,,,100,0
+NURS 7955-01 - Practicum II: PMHNP (PRACTICUM II: PMHNP),NURS 7955,,in-person,,,,,100,0
+NUTR 7015-01 - Nutrition Assess and Diagnosis,NUTR 7015,,in-person,,Tu,17:00,19:30,100,0
+NUTR 7020-01 - Community Nutrition,NUTR 7020,,in-person,,Tu,17:00,19:30,100,0
+NUTR 7045-01 - Food Systems Management,NUTR 7045,,in-person,,We,17:00,19:30,100,0
+NUTR 7051-01 - Sports Nutrition,NUTR 7051,,in-person,,Mo,17:00,19:30,100,0
+NUTR 7060-01 - Advanced Clinical Nutrition,NUTR 7060,,in-person,,We,17:00,19:30,100,0
+NUTR 7953-01 - Nutrition Practicum I (NUTRITION PRACTICUM I),NUTR 7953,,in-person,,,,,100,0
+NUTR 7961-01 - DCN Project Seminar I (DCN PROJECT SEMINAR I),NUTR 7961,,in-person,,,,,100,0
+PHIL 1101-01 - Introduction to Philosophy,PHIL 1101,,in-person,,MoTh,11:00,12:15,100,0
+PHIL 1101-02 - Introduction to Philosophy,PHIL 1101,,in-person,,MoTh,11:00,12:15,100,0
+PHIL 1101-03 - Introduction to Philosophy,PHIL 1101,,in-person,,MoTh,12:30,13:45,100,0
+PHIL 1101-04 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-05 - Introduction to Philosophy,PHIL 1101,,in-person,,MoTh,08:00,09:15,100,0
+PHIL 1101-06 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-07 - Introduction to Philosophy,PHIL 1101,,in-person,,MoTh,15:30,16:45,100,0
+PHIL 1101-08 - Introduction to Philosophy,PHIL 1101,,in-person,,MoTh,08:00,09:15,100,0
+PHIL 1101-09 - Introduction to Philosophy,PHIL 1101,,in-person,,MoTh,09:30,10:45,100,0
+PHIL 1101-10 - Introduction to Philosophy,PHIL 1101,,in-person,,MoWe,17:00,18:15,100,0
+PHIL 1101-11 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-12 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-13 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-14 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-15 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-16 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-17 - Introduction to Philosophy,PHIL 1101,,in-person,,Tu,17:00,19:30,100,0
+PHIL 1101-18 - Introduction to Philosophy,PHIL 1101,,in-person,,TuFr,11:00,12:15,100,0
+PHIL 1101-19 - Introduction to Philosophy,PHIL 1101,,in-person,,TuFr,11:00,12:15,100,0
+PHIL 1101-20 - Introduction to Philosophy,PHIL 1101,,in-person,,TuFr,12:30,13:45,100,0
+PHIL 1101-21 - Introduction to Philosophy,PHIL 1101,,in-person,,TuFr,12:30,13:45,100,0
+PHIL 1101-22 - Introduction to Philosophy,PHIL 1101,,in-person,,TuFr,08:00,09:15,100,0
+PHIL 1101-23 - Introduction to Philosophy,PHIL 1101,,in-person,,TuFr,08:00,09:15,100,0
+PHIL 1101-24 - Introduction to Philosophy,PHIL 1101,,in-person,,TuFr,09:30,10:45,100,0
+PHIL 1101-25 - Introduction to Philosophy,PHIL 1101,,in-person,,TuTh,17:00,18:15,100,0
+PHIL 1101-26 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-27 - Introduction to Philosophy,PHIL 1101,,in-person,,MoTh,15:30,16:45,100,0
+PHIL 1101-B28 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 1101-B29 - Introduction to Philosophy,PHIL 1101,,in-person,,,,,100,0
+PHIL 2202-01 - Modern Philosophy,PHIL 2202,,in-person,,TuFr,11:00,12:15,100,0
+PHIL 2215-01 - Philosophy of Science,PHIL 2215,,in-person,,We,14:00,16:30,100,0
+PHIL 2217-01 - Logic,PHIL 2217,,in-person,,MoWe,17:00,18:15,100,0
+PHIL 2221-01 - The Question of Theology,PHIL 2221,,in-person,,MoTh,09:30,10:45,100,0
+PHIL 2224-01 - Critical Thinking,PHIL 2224,,in-person,,We,14:00,16:30,100,0
+PHIL 2230-B01 - Phil of Self and Subjectivity,PHIL 2230,,in-person,,,,,100,0
+PHIL 2242-01 - Yoga: Philosophy and Practice,PHIL 2242,,in-person,,TuFr,09:30,10:45,100,0
+PHIL 2250-03 - Ethical Theory,PHIL 2250,,in-person,,TuFr,14:00,15:15,100,0
+PHIL 2252-01 - Philosophy as a Way of Life,PHIL 2252,,in-person,,MoTh,09:30,10:45,100,0
+PHIL 2252-02 - Philosophy as a Way of Life,PHIL 2252,,in-person,,MoTh,11:00,12:15,100,0
+PHIL 2263-01 - The Concept of Human Rights,PHIL 2263,,in-person,,TuFr,14:00,15:15,100,0
+PHIL 2264-01 - Philosophy of Law,PHIL 2264,,in-person,,,,,100,0
+PHIL 2264-02 - Philosophy of Law,PHIL 2264,,in-person,,MoTh,15:30,16:45,100,0
+PHIL 2268-01 - Critical Race Theory,PHIL 2268,,in-person,,,,,100,0
+PHIL 2268-02 - Critical Race Theory,PHIL 2268,,in-person,,,,,100,0
+PHIL 2269-01 - Contemporary Black Feminism,PHIL 2269,,in-person,,MoTh,12:30,13:45,100,0
+PHIL 2284-01 - The Sexual Life,PHIL 2284,,in-person,,MoTh,08:00,09:15,100,0
+PHIL 3300-01 - Plato,PHIL 3300,,in-person,,MoTh,12:30,13:45,100,0
+PHIL 3310-01 - Hume,PHIL 3310,,in-person,,TuFr,09:30,10:45,100,0
+"PHYS 1071-01 - Physics of Light,Color,Vision",PHYS 1071,,in-person,,TuFr,14:00,15:15,100,0
+PHYS 1076-01 - Physics of Sound and Music,PHYS 1076,,in-person,,TuTh,17:00,18:15,100,0
+PHYS 1089-01 - Physics of Sport,PHYS 1089,,in-person,,MoWe,17:00,18:15,100,0
+PHYS 1145L-01 - Gen Phys for Life Sci I Lab,PHYS 1145L,,in-person,,,,,100,0
+PHYS 1145L-02 - Gen Phys for Life Sci I Lab,PHYS 1145L,,in-person,,,,,100,0
+PHYS 1145L-03 - Gen Phys for Life Sci I Lab,PHYS 1145L,,in-person,,,,,100,0
+PHYS 1145-02 - Gen Physics for Life Sci I,PHYS 1145,,in-person,,,,,100,0
+PHYS 1145-03 - Gen Physics for Life Sci I,PHYS 1145,,in-person,,,,,100,0
+PHYS 1171L-01 - General Physics I Lab,PHYS 1171L,,in-person,,,,,100,0
+PHYS 1171L-02 - General Physics I Lab,PHYS 1171L,,in-person,,,,,100,0
+PHYS 1171L-03 - General Physics I Lab,PHYS 1171L,,in-person,,We,14:00,16:30,100,0
+PHYS 1171L-04 - General Physics I Lab,PHYS 1171L,,in-person,,,,,100,0
+PHYS 1171L-05 - General Physics I Lab,PHYS 1171L,,in-person,,Tu,17:00,19:30,100,0
+PHYS 1171-01 - General Physics I,PHYS 1171,,in-person,,,,,100,0
+PHYS 1171-02 - General Physics I,PHYS 1171,,in-person,,,,,100,0
+PHYS 1171-04 - General Physics I,PHYS 1171,,in-person,,,,,100,0
+PHYS 1171-05 - General Physics I,PHYS 1171,,in-person,,,,,100,0
+PHYS 1171-06 - General Physics I,PHYS 1171,,in-person,,,,,100,0
+PHYS 2212L-01 - Circuit Analy & Analog Sys Lab,PHYS 2212L,,in-person,,,,,100,0
+PHYS 2212L-02 - Circuit Analy & Analog Sys Lab,PHYS 2212L,,in-person,,,,,100,0
+PHYS 2212L-03 - Circuit Analy & Analog Sys Lab,PHYS 2212L,,in-person,,,,,100,0
+PHYS 2212-01 - Circuit Analys & Analog Sys,PHYS 2212,,in-person,,MoWe,17:00,18:15,100,0
+PHYS 2212-02 - Circuit Analys & Analog Sys,PHYS 2212,,in-person,,Tu,17:00,19:30,100,0
+PHYS 2265-01 - Intro Geophysical Fluid Dynmcs,PHYS 2265,,in-person,,MoTh,15:30,16:45,100,0
+PHYS 2285-01 - Modern Physics,PHYS 2285,,in-person,,,,,100,0
+PHYS 3271-01 - Electricity and Magnetism,PHYS 3271,,in-person,,TuFr,14:00,15:15,100,0
+PHYS 3386-01 - Quantum Physics,PHYS 3386,,in-person,,MoTh,11:00,12:15,100,0
+PHYS 4971-01 - Physics Research I (PHYSICS RESEARCH I),PHYS 4971,,in-person,,,,,100,0
+PHYS 4973-01 - Physics Research III (PHYSICS RESEARCH III),PHYS 4973,,in-person,,,,,100,0
+PHYS 4998-01 - Theoretical/Experimental Capst,PHYS 4998,,in-person,,TuFr,15:30,16:45,100,0
+POLI 1101-01 - Intro to American Politics,POLI 1101,,in-person,,MoTh,15:30,16:45,100,0
+POLI 1101-02 - Intro to American Politics,POLI 1101,,in-person,,MoTh,11:00,12:15,100,0
+POLI 1101-03 - Intro to American Politics,POLI 1101,,in-person,,TuFr,15:30,16:45,100,0
+POLI 1101-B04 - Intro to American Politics,POLI 1101,,in-person,,,,,100,0
+POLI 1102-01 - Intro to Comparative Politics,POLI 1102,,in-person,,TuFr,14:00,15:15,100,0
+POLI 1103-01 - Intro to Political Ideas,POLI 1103,,in-person,,,,,100,0
+POLI 1104-01 - Intro to Internat'l Relations,POLI 1104,,in-person,,TuFr,09:30,10:45,100,0
+POLI 1104-02 - Intro to Internat'l Relations,POLI 1104,,in-person,,TuFr,11:00,12:15,100,0
+POLI 1104-04 - Intro to Internat'l Relations,POLI 1104,,in-person,,TuFr,14:00,15:15,100,0
+POLI 2106-01 - Supreme Court I,POLI 2106,,in-person,,MoTh,11:00,12:15,100,0
+POLI 2113-01 - State and Local Government,POLI 2113,,in-person,,MoTh,12:30,13:45,100,0
+POLI 2121-01 - Women in Politics,POLI 2121,,in-person,,MoTh,09:30,10:45,100,0
+POLI 2252-01 - Politics in Africa,POLI 2252,,in-person,,TuFr,09:30,10:45,100,0
+POLI 2335-01 - Modern Political Ideologies,POLI 2335,,in-person,,TuFr,11:00,12:15,100,0
+POLI 2481-01 - International Human Rights,POLI 2481,,in-person,,TuFr,12:30,13:45,100,0
+POLI 3980-01 - Internship,POLI 3980,,in-person,,,,,100,0
+POLI 3997-01 - Independent Research (INDEPENDENT RESEARCH),POLI 3997,,in-person,,,,,100,0
+POLI 4311-01 - Relig Dimen of Political Thght,POLI 4311,,in-person,,We,14:00,16:30,100,0
+PORT 1110-01 - Elem Brazilian Portuguese I,PORT 1110,,in-person,,,,,100,0
+PSYC 1010-01 - General Psychology,PSYC 1010,,in-person,,,,,100,0
+PSYC 1010-02 - General Psychology,PSYC 1010,,in-person,,MoTh,09:30,10:45,100,0
+PSYC 1010-03 - General Psychology,PSYC 1010,,in-person,,TuFr,09:30,10:45,100,0
+PSYC 1010-04 - General Psychology,PSYC 1010,,in-person,,TuFr,12:30,13:45,100,0
+PSYC 1010-05 - General Psychology,PSYC 1010,,in-person,,TuFr,14:00,15:15,100,0
+PSYC 1010-06 - General Psychology,PSYC 1010,,in-person,,MoTh,11:00,12:15,100,0
+PSYC 1010-07 - General Psychology,PSYC 1010,,in-person,,TuFr,09:30,10:45,100,0
+PSYC 1110-01 - Lifespan Development,PSYC 1110,,in-person,,TuTh,17:00,18:15,100,0
+PSYC 1110-02 - Lifespan Development,PSYC 1110,,in-person,,,,,100,0
+PSYC 1110-03 - Lifespan Development,PSYC 1110,,in-person,,TuTh,17:00,18:15,100,0
+PSYC 1220-01 - Psychology and the Law,PSYC 1220,,in-person,,,,,100,0
+PSYC 1220-02 - Psychology and the Law,PSYC 1220,,in-person,,We,14:00,16:30,100,0
+PSYC 1710-01 - General Neuroscience,PSYC 1710,,in-person,,MoTh,08:00,09:15,100,0
+PSYC 1710-02 - General Neuroscience,PSYC 1710,,in-person,,TuFr,14:00,15:15,100,0
+PSYC 2110-01 - Child Development,PSYC 2110,,in-person,,TuFr,12:30,13:45,100,0
+PSYC 2150-01 - Child Development w/Lab,PSYC 2150,,in-person,,,,,100,0
+PSYC 2160-01 - Adolescent Development,PSYC 2160,,in-person,,MoTh,11:00,12:15,100,0
+PSYC 2210-01 - Social Psychology,PSYC 2210,,in-person,,We,08:00,10:30,100,0
+PSYC 2210-02 - Social Psychology,PSYC 2210,,in-person,,,,,100,0
+PSYC 2230-01 - Personality Psychology,PSYC 2230,,in-person,,TuFr,12:30,13:45,100,0
+PSYC 2310-01 - Psychopathology & Clin Science,PSYC 2310,,in-person,,MoTh,11:00,12:15,100,0
+PSYC 2310-02 - Psychopathology & Clin Science,PSYC 2310,,in-person,,TuFr,08:00,09:15,100,0
+PSYC 2360-02 - Human Neuropsychology,PSYC 2360,,in-person,,MoTh,08:00,09:15,100,0
+PSYC 2370-01 - Community Mental Health,PSYC 2370,,in-person,,MoTh,09:30,10:45,100,0
+PSYC 2370-02 - Community Mental Health,PSYC 2370,,in-person,,TuFr,08:00,09:15,100,0
+PSYC 2390-01 - Psychology of Diversity,PSYC 2390,,in-person,,TuFr,11:00,12:15,100,0
+PSYC 2510-01 - Cognitive Psychology,PSYC 2510,,in-person,,Mo,17:00,19:30,100,0
+PSYC 2510-02 - Cognitive Psychology,PSYC 2510,,in-person,,TuFr,14:00,15:15,100,0
+PSYC 2510-03 - Cognitive Psychology,PSYC 2510,,in-person,,TuFr,15:30,16:45,100,0
+PSYC 2520-01 - Lrng & Applied Behavior Anlys,PSYC 2520,,in-person,,TuFr,15:30,16:45,100,0
+"PSYC 2740-01 - Drugs, Brain, and Behavior",PSYC 2740,,in-person,,MoTh,12:30,13:45,100,0
+PSYC 2810L-01A - Statistics Lab,PSYC 2810L,,in-person,,,,,100,0
+PSYC 2810L-01B - Statistics Lab,PSYC 2810L,,in-person,,,,,100,0
+PSYC 2810L-02 - Statistics Lab,PSYC 2810L,,in-person,,,,,100,0
+PSYC 2810L-03 - Statistics Lab,PSYC 2810L,,in-person,,,,,100,0
+PSYC 2810-01 - Statistics for Behavioral Sci,PSYC 2810,,in-person,,,,,100,0
+PSYC 2810-02 - Statistics for Behavioral Sci,PSYC 2810,,in-person,,MoTh,15:30,16:45,100,0
+PSYC 2810-03 - Statistics for Behavioral Sci,PSYC 2810,,in-person,,TuFr,09:30,10:45,100,0
+PSYC 2820-01 - Research Methods in Psychology,PSYC 2820,,in-person,,,,,100,0
+PSYC 2820-02 - Research Methods in Psychology,PSYC 2820,,in-person,,,,,100,0
+PSYC 2820-03 - Research Methods in Psychology,PSYC 2820,,in-person,,,,,100,0
+PSYC 2820-04 - Research Methods in Psychology,PSYC 2820,,in-person,,,,,100,0
+PSYC 2950-01 - Supervised Research:Psychology,PSYC 2950,,in-person,,,,,100,0
+PSYC 2950-02 - Supervised Research:Psychology,PSYC 2950,,in-person,,,,,100,0
+PSYC 2950-03 - Supervised Research:Psychology,PSYC 2950,,in-person,,,,,100,0
+PSYC 2955-01 - Supervised Research,PSYC 2955,,in-person,,,,,100,0
+PSYC 3380-01 - Psychological Testing,PSYC 3380,,in-person,,MoTh,12:30,13:45,100,0
+PSYC 3720-01 - Hormones and Behavior,PSYC 3720,,in-person,,We,08:00,10:30,100,0
+PSYC 3950-01 - Supervised Research-Psychology,PSYC 3950,,in-person,,,,,100,0
+PSYC 3950-02 - Supervised Research-Psychology,PSYC 3950,,in-person,,,,,100,0
+PSYC 3950-03 - Supervised Research-Psychology,PSYC 3950,,in-person,,,,,100,0
+PSYC 3950-04 - Supervised Research-Psychology,PSYC 3950,,in-person,,,,,100,0
+PSYC 3950-05 - Supervised Research-Psychology,PSYC 3950,,in-person,,,,,100,0
+PSYC 3950-06 - Supervised Research-Psychology,PSYC 3950,,in-person,,,,,100,0
+PSYC 3950-07 - Supervised Research-Psychology,PSYC 3950,,in-person,,,,,100,0
+PSYC 3955-01 - Sup.Res.: Behav. Neuroscience,PSYC 3955,,in-person,,,,,100,0
+PSYC 3955-02 - Sup.Res.: Behav. Neuroscience,PSYC 3955,,in-person,,,,,100,0
+PSYC 3955-03 - Sup.Res.: Behav. Neuroscience,PSYC 3955,,in-person,,,,,100,0
+PSYC 3980-01 - Psychology Teaching Practicum,PSYC 3980,,in-person,,,,,100,0
+PSYC 3980-EH - Psychology Teaching Practicum,PSYC 3980,,in-person,,,,,100,0
+PSYC 3980-SR - Psychology Teaching Practicum,PSYC 3980,,in-person,,,,,100,0
+PSYC 4210-01 - Sr Sem: Cur. Issues in SocPsyc,PSYC 4210,,in-person,,We,11:00,13:30,100,0
+PSYC 4310-01 - Sr Sem: Clin. Child & Adol Psy,PSYC 4310,,in-person,,MoTh,12:30,13:45,100,0
+PSYC 4320-01 - Senior Sem: Current Issues/Psy,PSYC 4320,,in-person,,We,08:00,10:30,100,0
+PSYC 4620-01 - Sen Sem: Integ Neuro,PSYC 4620,,in-person,,MoTh,15:30,16:45,100,0
+PSYC 4950-01 - Research Thesis in Psychology,PSYC 4950,,in-person,,,,,100,0
+PSYC 4950-02 - Research Thesis in Psychology,PSYC 4950,,in-person,,,,,100,0
+PSYC 4950-03 - Research Thesis in Psychology,PSYC 4950,,in-person,,,,,100,0
+PSYC 4950-04 - Research Thesis in Psychology,PSYC 4950,,in-person,,,,,100,0
+PSYC 4950-05 - Research Thesis in Psychology,PSYC 4950,,in-person,,,,,100,0
+PSYC 4955-01 - Resarch Thesis:Behav. Neurosci,PSYC 4955,,in-person,,,,,100,0
+PSYC 4955-02 - Resarch Thesis:Behav. Neurosci,PSYC 4955,,in-person,,,,,100,0
+PSYC 4955-03 - Resarch Thesis:Behav. Neurosci,PSYC 4955,,in-person,,,,,100,0
+PSYC 4981-01 - Internship in Applied Psych,PSYC 4981,,in-person,,,,,100,0
+PSYC 5110-01 - The Psychology of Work: I/O,PSYC 5110,,in-person,,,,,100,0
+PSYC 5210-01 - Team Processes,PSYC 5210,,in-person,,,,,100,0
+PSYC 5810-01 - Behavioral Statistics,PSYC 5810,,in-person,,,,,100,0
+PSYC 6260-01 - Employee Dev and Training Prog,PSYC 6260,,in-person,,,,,100,0
+PSYC 6310-01 - Interviewing and Survey Design,PSYC 6310,,in-person,,,,,100,0
+PSYC 6410-01 - Consulting and Org Dev,PSYC 6410,,in-person,,,,,100,0
+"PSYG 5430-01 - Found/Ethical,Legal,Prof Pract",PSYG 5430,,in-person,,,,,100,0
+PSYG 5434-01 - Multicultural Issues Sch. Psyc,PSYG 5434,,in-person,,,,,100,0
+PSYG 5446-01 - Adv Found of Dev & Learning,PSYG 5446,,in-person,,,,,100,0
+PSYG 5448-01 - Foundations /Equity-Based MTSS,PSYG 5448,,in-person,,,,,100,0
+PSYG 6538-01 - Psychoedu Assess II:Stndrdized,PSYG 6538,,in-person,,,,,100,0
+PSYG 6540-01 - Psychoedu Assess III: Clinical,PSYG 6540,,in-person,,,,,100,0
+PSYG 6548-01 - Psychotherapeutic Techniques,PSYG 6548,,in-person,,,,,100,0
+PSYG 6981P-01 - Internship in School Psych I,PSYG 6981P,,in-person,,,,,100,0
+PSYG 6981-01 - Internship in School Psych I,PSYG 6981,,in-person,,,,,100,0
+PUAD 5405-01 - Intro to Public Administration,PUAD 5405,,in-person,,,,,100,0
+PUAD 5415-01 - Human Resource Management,PUAD 5415,,in-person,,,,,100,0
+PUAD 5420-01 - Research Methods,PUAD 5420,,in-person,,,,,100,0
+PUAD 5435-01 - Grant Writing,PUAD 5435,,in-person,,,,,100,0
+PUBH 1101-01 - Public Health & Social Justice,PUBH 1101,,in-person,,TuFr,12:30,13:45,100,0
+PUBH 1101-02 - Public Health & Social Justice,PUBH 1101,,in-person,,TuFr,14:00,15:15,100,0
+"PUBH 2201-01 - Public Health, Disease, Injury",PUBH 2201,,in-person,,We,11:00,13:30,100,0
+PUBH 2216-01 - Intro Princ of Epidemiology,PUBH 2216,,in-person,,TuFr,11:00,12:15,100,0
+PUBH 2216-02 - Intro Princ of Epidemiology,PUBH 2216,,in-person,,TuFr,12:30,13:45,100,0
+PUBH 3303-01 - Public Health Prog Plan & Eval,PUBH 3303,,in-person,,TuFr,12:30,13:45,100,0
+PUBH 3303-02 - Public Health Prog Plan & Eval,PUBH 3303,,in-person,,TuFr,14:00,15:15,100,0
+PUBH 4305-01 - Public Health Seminar,PUBH 4305,,in-person,,We,14:00,16:30,100,0
+PUBH 5101-01 - Foundations of Public Health,PUBH 5101,,in-person,,,,,100,0
+PUBH 5201-01 - Environmental Health,PUBH 5201,,in-person,,,,,100,0
+PUBH 6961-01 - Public Health Capstone I,PUBH 6961,,in-person,,,,,100,0
+PUBH 6962-01 - Public Health Capstone II,PUBH 6962,,in-person,,,,,100,0
+RLDV 5486-01 - Developmental Literacy I,RLDV 5486,,in-person,,,,,100,0
+RLDV 5583-01 - Tests and Measurement in RLA,RLDV 5583,,in-person,,,,,100,0
+RLST 1001-01 - Religion and the Critical Mind,RLST 1001,,in-person,,MoTh,11:00,12:15,100,0
+RLST 1001-02 - Religion and the Critical Mind,RLST 1001,,in-person,,,,,100,0
+RLST 1001-B03 - Religion and the Critical Mind,RLST 1001,,in-person,,,,,100,0
+RLST 1001-B04 - Religion and the Critical Mind,RLST 1001,,in-person,,,,,100,0
+"RLST 1004-01 - People of the Book, SacredTxts",RLST 1004,,in-person,,MoTh,12:30,13:45,100,0
+RLST 1201-01 - Hebrew Bible/Old Testament,RLST 1201,,in-person,,MoTh,09:30,10:45,100,0
+RLST 1203-01 - Life of Jesus,RLST 1203,,in-person,,TuFr,09:30,10:45,100,0
+RLST 1203-02 - Life of Jesus,RLST 1203,,in-person,,TuFr,11:00,12:15,100,0
+RLST 1203-03 - Life of Jesus,RLST 1203,,in-person,,,,,100,0
+RLST 1203-04 - Life of Jesus,RLST 1203,,in-person,,,,,100,0
+RLST 1211-01 - Intro to the New Testament,RLST 1211,,in-person,,TuFr,11:00,12:15,100,0
+RLST 1270-01 - Qur'an as Scripture and Exper,RLST 1270,,in-person,,TuFr,08:00,09:15,100,0
+RLST 1270-02 - Qur'an as Scripture and Exper,RLST 1270,,in-person,,TuFr,09:30,10:45,100,0
+RLST 1402-01 - Introduction to Catholicism,RLST 1402,,in-person,,MoWe,17:00,18:15,100,0
+RLST 1402-02 - Introduction to Catholicism,RLST 1402,,in-person,,MoTh,15:30,16:45,100,0
+RLST 1402-03 - Introduction to Catholicism,RLST 1402,,in-person,,TuFr,08:00,09:15,100,0
+RLST 1402-04 - Introduction to Catholicism,RLST 1402,,in-person,,TuFr,09:30,10:45,100,0
+RLST 1402-05 - Introduction to Catholicism,RLST 1402,,in-person,,MoWe,17:00,18:15,100,0
+RLST 1601-01 - Religion in the United States,RLST 1601,,in-person,,TuFr,14:00,15:15,100,0
+RLST 1667-01 - Mormonism: An American Church,RLST 1667,,in-person,,TuFr,12:30,13:45,100,0
+RLST 1667-02 - Mormonism: An American Church,RLST 1667,,in-person,,TuFr,11:00,12:15,100,0
+RLST 1701-01 - Introduction to Islam,RLST 1701,,in-person,,MoTh,09:30,10:45,100,0
+RLST 1701-02 - Introduction to Islam,RLST 1701,,in-person,,MoTh,11:00,12:15,100,0
+RLST 1802-01 - Buddhism,RLST 1802,,in-person,,MoTh,09:30,10:45,100,0
+RLST 1802-02 - Buddhism,RLST 1802,,in-person,,MoTh,11:00,12:15,100,0
+RLST 2115-01 - Women in Judaism,RLST 2115,,in-person,,TuFr,14:00,15:15,100,0
+RLST 2209-01 - Jewish Interpret of Scripture,RLST 2209,,in-person,,MoTh,12:30,13:45,100,0
+RLST 2221-01 - Good News of the Gospels,RLST 2221,,in-person,,TuFr,12:30,13:45,100,0
+RLST 2441-01 - God in Medieval Christian Tht,RLST 2441,,in-person,,MoTh,08:00,09:15,100,0
+RLST 2441-02 - God in Medieval Christian Tht,RLST 2441,,in-person,,MoTh,09:30,10:45,100,0
+RLST 2544-01 - Finding God in All Things,RLST 2544,,in-person,,TuFr,15:30,16:45,100,0
+RLST 2551-01 - Christian Ecological Ethics,RLST 2551,,in-person,,We,11:00,13:30,100,0
+RLST 2557-01 - Christian Spirituality,RLST 2557,,in-person,,MoTh,12:30,13:45,100,0
+RLST 2557-02 - Christian Spirituality,RLST 2557,,in-person,,We,14:00,16:30,100,0
+RLST 2665-01 - Religion and Medicine in U.S.,RLST 2665,,in-person,,TuFr,12:30,13:45,100,0
+RLST 2665-02 - Religion and Medicine in U.S.,RLST 2665,,in-person,,TuFr,14:00,15:15,100,0
+RLST 2669-01 - Religion & Civil Rights Movmnt,RLST 2669,,in-person,,MoTh,08:00,09:15,100,0
+RLST 2669-02 - Religion & Civil Rights Movmnt,RLST 2669,,in-person,,MoTh,11:00,12:15,100,0
+RLST 2669-03 - Religion & Civil Rights Movmnt,RLST 2669,,in-person,,,,,100,0
+"RLST 2795-01 - Islam, Race, Power",RLST 2795,,in-person,,,,,100,0
+RLST 2880-01 - Hinduism,RLST 2880,,in-person,,,,,100,0
+RUSN 1110-01 - Elementary Russian I,RUSN 1110,,in-person,,,,,100,0
+RUSN 2210-01 - Intermediate Russian I,RUSN 2210,,in-person,,MoWeTh,08:00,08:50,100,0
+SART 1011-01 - Introduction to Sculpture,SART 1011,,in-person,,,,,100,0
+SART 1012-01 - Introduction to Drawing,SART 1012,,in-person,,,,,100,0
+SART 1013-01 - Introduction to Figure Drawing,SART 1013,,in-person,,,,,100,0
+SART 1101-01 - Digital Tools in Art Making,SART 1101,,in-person,,,,,100,0
+SART 1101-02 - Digital Tools in Art Making,SART 1101,,in-person,,,,,100,0
+SART 1105-01 - Color Workshop,SART 1105,,in-person,,,,,100,0
+SART 1134-01 - Digital Photography,SART 1134,,in-person,,,,,100,0
+SART 1134-02 - Digital Photography,SART 1134,,in-person,,Fr,14:00,16:30,100,0
+SART 1136-01 - Artist Book Construction,SART 1136,,in-person,,We,11:00,13:30,100,0
+SART 1136-02 - Artist Book Construction,SART 1136,,in-person,,We,14:00,16:30,100,0
+SART 1138-01 - From Drawing to Painting,SART 1138,,in-person,,,,,100,0
+SART 1138-02 - From Drawing to Painting,SART 1138,,in-person,,,,,100,0
+SART 1140-01 - Darkroom Photography,SART 1140,,in-person,,,,,100,0
+SART 3980-01 - Studio Internship,SART 3980,,in-person,,,,,100,0
+SART 3990-01 - Independent Study,SART 3990,,in-person,,,,,100,0
+SART 3990-02 - Independent Study,SART 3990,,in-person,,,,,100,0
+SOCI 1100-01 - Introduction to Sociology,SOCI 1100,,in-person,,We,11:00,13:30,100,0
+SOCI 1100-02 - Introduction to Sociology,SOCI 1100,,in-person,,MoTh,11:00,12:15,100,0
+SOCI 1100-03 - Introduction to Sociology,SOCI 1100,,in-person,,TuFr,11:00,12:15,100,0
+SOCI 1100-04 - Introduction to Sociology,SOCI 1100,,in-person,,TuFr,08:00,09:15,100,0
+SOCI 1100-05 - Introduction to Sociology,SOCI 1100,,in-person,,,,,100,0
+SOCI 1100-B06 - Introduction to Sociology,SOCI 1100,,in-person,,,,,100,0
+SOCI 1115-01 - Sociology of the Family,SOCI 1115,,in-person,,TuFr,09:30,10:45,100,0
+"SOCI 1135-01 - Race, Gender, Ethnic Relations",SOCI 1135,,in-person,,TuFr,14:00,15:15,100,0
+"SOCI 1135-02 - Race, Gender, Ethnic Relations",SOCI 1135,,in-person,,TuFr,15:30,16:45,100,0
+"SOCI 1135-03 - Race, Gender, Ethnic Relations",SOCI 1135,,in-person,,,,,100,0
+SOCI 1140-01 - Urban/Suburban Sociology: NYC,SOCI 1140,,in-person,,TuFr,12:30,13:45,100,0
+SOCI 2100-01 - American Class Structure,SOCI 2100,,in-person,,MoTh,11:00,12:15,100,0
+SOCI 2100-02 - American Class Structure,SOCI 2100,,in-person,,MoTh,15:30,16:45,100,0
+"SOCI 2110-01 - Race, Cities, and Poverty",SOCI 2110,,in-person,,MoTh,12:30,13:45,100,0
+SOCI 2200-01 - Criminology,SOCI 2200,,in-person,,MoTh,09:30,10:45,100,0
+SOCI 2210-01 - Sociology of Law,SOCI 2210,,in-person,,MoTh,12:30,13:45,100,0
+SOCI 3610-01 - Social & Political Data Analys,SOCI 3610,,in-person,,MoTh,09:30,10:45,100,0
+SOCI 3700-01 - Classical Social Theory,SOCI 3700,,in-person,,,,,100,0
+SOCI 4980-01 - Field Work Placement,SOCI 4980,,in-person,,,,,100,0
+SPAN 1110-01 - Elementary Spanish I,SPAN 1110,,in-person,,,,,100,0
+SPAN 1110-02 - Elementary Spanish I,SPAN 1110,,in-person,,MoWeTh,16:00,16:50,100,0
+SPAN 1110-03 - Elementary Spanish I,SPAN 1110,,in-person,,MoWeTh,16:00,16:50,100,0
+SPAN 1110-04 - Elementary Spanish I,SPAN 1110,,in-person,,MoWeTh,17:00,17:50,100,0
+SPAN 1110-05 - Elementary Spanish I,SPAN 1110,,in-person,,MoWeTh,17:00,17:50,100,0
+SPAN 1111-01 - Elementary Spanish II,SPAN 1111,,in-person,,,,,100,0
+SPAN 1111-02 - Elementary Spanish II,SPAN 1111,,in-person,,,,,100,0
+SPAN 1111-03 - Elementary Spanish II,SPAN 1111,,in-person,,,,,100,0
+SPAN 1111-04 - Elementary Spanish II,SPAN 1111,,in-person,,,,,100,0
+SPAN 1111-05 - Elementary Spanish II,SPAN 1111,,in-person,,MoWeTh,14:00,14:50,100,0
+SPAN 1111-06 - Elementary Spanish II,SPAN 1111,,in-person,,MoWeTh,14:00,14:50,100,0
+SPAN 1111-07 - Elementary Spanish II,SPAN 1111,,in-person,,,,,100,0
+SPAN 1111-08 - Elementary Spanish II,SPAN 1111,,in-person,,TuWeFr,11:00,11:50,100,0
+SPAN 1111-09 - Elementary Spanish II,SPAN 1111,,in-person,,TuWeFr,11:00,11:50,100,0
+SPAN 1111-10 - Elementary Spanish II,SPAN 1111,,in-person,,,,,100,0
+SPAN 1111-12 - Elementary Spanish II,SPAN 1111,,in-person,,TuWeFr,16:00,16:50,100,0
+SPAN 2210-01 - Intermediate Spanish I,SPAN 2210,,in-person,,,,,100,0
+SPAN 2210-02 - Intermediate Spanish I,SPAN 2210,,in-person,,,,,100,0
+SPAN 2210-03 - Intermediate Spanish I,SPAN 2210,,in-person,,,,,100,0
+SPAN 2210-04 - Intermediate Spanish I,SPAN 2210,,in-person,,,,,100,0
+SPAN 2210-05 - Intermediate Spanish I,SPAN 2210,,in-person,,MoWeTh,14:00,14:50,100,0
+SPAN 2210-06 - Intermediate Spanish I,SPAN 2210,,in-person,,,,,100,0
+SPAN 2210-07 - Intermediate Spanish I,SPAN 2210,,in-person,,TuWeFr,11:00,11:50,100,0
+SPAN 2210-08 - Intermediate Spanish I,SPAN 2210,,in-person,,,,,100,0
+SPAN 2210-09 - Intermediate Spanish I,SPAN 2210,,in-person,,TuThFr,17:00,17:50,100,0
+SPAN 2211-01 - Intermediate Spanish II,SPAN 2211,,in-person,,,,,100,0
+SPAN 2211-02 - Intermediate Spanish II,SPAN 2211,,in-person,,,,,100,0
+SPAN 2211-03 - Intermediate Spanish II,SPAN 2211,,in-person,,TuWeFr,16:00,16:50,100,0
+SPAN 2220-01 - Topics in Language and Culture,SPAN 2220,,in-person,,MoTh,15:30,16:45,100,0
+SPAN 2220-02 - Topics in Language and Culture,SPAN 2220,,in-person,,MoTh,11:00,12:15,100,0
+SPAN 2220-03 - Topics in Language and Culture,SPAN 2220,,in-person,,MoTh,12:30,13:45,100,0
+SPAN 2220-04 - Topics in Language and Culture,SPAN 2220,,in-person,,TuFr,11:00,12:15,100,0
+SPAN 2220-05 - Topics in Language and Culture,SPAN 2220,,in-person,,TuFr,12:30,13:45,100,0
+SPAN 3231N-01 - Career Spanish for Nrsing & HS,SPAN 3231N,,in-person,,MoTh,15:30,16:45,100,0
+SPAN 3245-02 - Analys&Interp of Hispanic Lit,SPAN 3245,,in-person,,MoTh,09:30,10:45,100,0
+SPAN 3251-01 - Spanish Civilization & Culture,SPAN 3251,,in-person,,TuFr,12:30,13:45,100,0
+SPAN 3253-01 - Spanish-American Civilization,SPAN 3253,,in-person,,TuFr,14:00,15:15,100,0
+"SPAN 4360-01 - Dictator,RevMvts/ContempLatAmr",SPAN 4360,,in-person,,TuFr,15:30,16:45,100,0
+SPAN 4999-01 - Capstone Seminar (CAPSTONE SEMINAR),SPAN 4999,,in-person,,We,11:00,13:30,100,0
+SPED 1010-01 - Fairfield/Westport Transition,SPED 1010,,in-person,,,,,100,0
+SPED 4410-01 - Autism Spectrum Disorders,SPED 4410,,in-person,,,,,100,0
+SPED 4413-01 - Theories & Intro Lrng Disabil,SPED 4413,,in-person,,,,,100,0
+SPED 4419-01 - Spec Learner in Bilingual/ESL,SPED 4419,,in-person,,,,,100,0
+SPED 4432-01 - Mgmt Techniques in Special Ed,SPED 4432,,in-person,,,,,100,0
+SPED 4486-01 - Developmental Literacy I,SPED 4486,,in-person,,,,,100,0
+SPED 4534-01 - Skill Dev for Indiv Educ Plans,SPED 4534,,in-person,,,,,100,0
+SPED 4565-01 - Evdnce Based Strat Inclu Class,SPED 4565,,in-person,,,,,100,0
+SPED 5403-01 - Found/Psychoeducational Issues,SPED 5403,,in-person,,,,,100,0
+SPED 5410-01 - Autism Spectrum Disorders,SPED 5410,,in-person,,,,,100,0
+SPED 5413-01 - Theories & Intro Lrng Disabil,SPED 5413,,in-person,,,,,100,0
+SPED 5419-01 - Spec Learner in Bilingual/ESL,SPED 5419,,in-person,,,,,100,0
+SPED 5432-01 - Mgmt Techniques in Special Ed,SPED 5432,,in-person,,,,,100,0
+SPED 5486-01 - Developmental Literacy I,SPED 5486,,in-person,,,,,100,0
+SPED 6534-01 - Skill Dev for Indiv Educ Plans,SPED 6534,,in-person,,,,,100,0
+SPED 6565-01 - Evid-Based Strat in Incl Clsrm,SPED 6565,,in-person,,,,,100,0
+SPED 6951-01 - Practica in Special Education (PRACTICA IN SPECIAL EDUCATION),SPED 6951,,in-person,,,,,100,0
+SPED 6952-01 - Practica in Special Education (PRACTICA IN SPECIAL EDUCATION),SPED 6952,,in-person,,,,,100,0
+SPED 6953-01 - Student Teaching in Special Ed,SPED 6953,,in-person,,,,,100,0
+SPED 6954-01 - Student Teaching in Special Ed,SPED 6954,,in-person,,,,,100,0
+SPED 6999-01 - Comp Exam: Special Education (COMP EXAM: SPECIAL EDUCATION),SPED 6999,,in-person,,,,,100,0
+STAT 2218-01 - Statistics II,STAT 2218,,in-person,,,,,100,0
+SWEG 3301-01 - Software Engineering Methods,SWEG 3301,,in-person,,We,18:30,21:00,100,0
+SWEG 3301-02 - Software Engineering Methods,SWEG 3301,,in-person,,,,,100,0
+SWEG 4505-01 - Advanced Database Concepts,SWEG 4505,,in-person,,,,,100,0
+SWEG 4599-01 - Ethical Hacking,SWEG 4599,,in-person,,,,,100,0
+SWEG 4990-01 - Independent Study,SWEG 4990,,in-person,,,,,100,0
+SWEG 5301-01 - Software Engineering Methods,SWEG 5301,,in-person,,We,18:30,21:00,100,0
+SWEG 5301-02 - Software Engineering Methods,SWEG 5301,,in-person,,,,,100,0
+SWEG 5350-01 - Introduction to Data Science,SWEG 5350,,in-person,,,,,100,0
+SWEG 5355-01 - Artificial Intelligence,SWEG 5355,,in-person,,MoTh,15:30,16:45,100,0
+SWEG 5357-01 - Database Management Systems,SWEG 5357,,in-person,,We,18:30,21:00,100,0
+SWEG 5360-01 - Machine Learning,SWEG 5360,,in-person,,Mo,18:30,21:00,100,0
+SWEG 5417-01 - Security Management,SWEG 5417,,in-person,,,,,100,0
+SWEG 5420-01 - Systems Security,SWEG 5420,,in-person,,,,,100,0
+SWEG 5427-01 - Operating Sys and Programming,SWEG 5427,,in-person,,TuFr,14:00,15:15,100,0
+SWEG 5530-01 - Intro to Information Security,SWEG 5530,,in-person,,,,,100,0
+SWEG 5990-01 - Independent Study,SWEG 5990,,in-person,,,,,100,0
+SWEG 6461-01 - Pattern Recognition,SWEG 6461,,in-person,,,,,100,0
+SWEG 6505-01 - Advanced Database Concepts,SWEG 6505,,in-person,,,,,100,0
+SWEG 6518-01 - Data Mining & Bus Intelligence,SWEG 6518,,in-person,,,,,100,0
+SWEG 6599-01 - Ethical Hacking,SWEG 6599,,in-person,,,,,100,0
+SWEG 6961-01 - Capstone Professional Proj I,SWEG 6961,,in-person,,,,,100,0
+SWEG 6961-02 - Capstone Professional Proj I,SWEG 6961,,in-person,,,,,100,0
+SWEG 6971-01 - Thesis I,SWEG 6971,,in-person,,,,,100,0
+SWEG 6972-01 - Thesis II,SWEG 6972,,in-person,,,,,100,0
+SWEG 6972-02 - Thesis II,SWEG 6972,,in-person,,,,,100,0
+SWRG 5433-01 - Soc Just & Div / Prof Pract,SWRG 5433,,in-person,,,,,100,0
+SWRG 5533-01 - Human Behavior in Social Envir,SWRG 5533,,in-person,,,,,100,0
+SWRG 5533-02 - Human Behavior in Social Envir,SWRG 5533,,in-person,,,,,100,0
+SWRG 5551-01 - Gen Social Work Practice I,SWRG 5551,,in-person,,,,,100,0
+SWRG 5551-02 - Gen Social Work Practice I,SWRG 5551,,in-person,,,,,100,0
+SWRG 5553-01 - Social Policy and Practice,SWRG 5553,,in-person,,,,,100,0
+SWRG 5561-01 - Social Work Fieldwork I,SWRG 5561,,in-person,,,,,100,0
+SWRG 5561-02 - Social Work Fieldwork I,SWRG 5561,,in-person,,,,,100,0
+SWRG 6450-01 - Narr/Solution-Focused Therapy,SWRG 6450,,in-person,,,,,100,0
+SWRG 6563-01 - Adv Clinical Skills & Pract I,SWRG 6563,,in-person,,,,,100,0
+SWRG 6563-02 - Adv Clinical Skills & Pract I,SWRG 6563,,in-person,,,,,100,0
+SWRG 6568-01 - Adv Research & Prog Evaluation,SWRG 6568,,in-person,,,,,100,0
+SWRG 6569-01 - Assessment Techniques,SWRG 6569,,in-person,,,,,100,0
+SWRG 6569-02 - Assessment Techniques,SWRG 6569,,in-person,,,,,100,0
+SWRG 6581-01 - Adv Clin Spec Field Work I,SWRG 6581,,in-person,,,,,100,0
+SWRK 1101-01 - Social Work Essentials I,SWRK 1101,,in-person,,We,08:00,10:30,100,0
+SWRK 2400-01 - Social Work: An Introduction,SWRK 2400,,in-person,,We,11:00,13:30,100,0
+SWRK 3301-01 - Human Beh in the Social Env I,SWRK 3301,,in-person,,TuFr,09:30,10:45,100,0
+SWRK 3303-01 - Social Policy & Social Justice,SWRK 3303,,in-person,,TuFr,11:00,12:15,100,0
+SWRK 4305-01 - Gen Social Work Practice I,SWRK 4305,,in-person,,We,11:00,13:30,100,0
+SWRK 4307-01 - Integrative Field Pract Sem I,SWRK 4307,,in-person,,We,08:00,10:30,100,0
+SWRK 4951-02 - Field Practicum I (FIELD PRACTICUM I),SWRK 4951,,in-person,,,,,100,0
+TAXN 6515-01 - Property Transactns: Reg & Tax,TAXN 6515,,in-person,,Tu,18:30,21:30,100,0
+TAXN 6515-02 - Property Transactns: Reg & Tax,TAXN 6515,,in-person,,Tu,18:30,21:30,100,0
+TAXN 6970-01 - Tax Research (TAX RESEARCH),TAXN 6970,,in-person,,,,,100,0
+THTR 1011-01 - Exploring Theatre,THTR 1011,,in-person,,TuFr,11:00,12:15,100,0
+THTR 1030-01 - Acting I,THTR 1030,,in-person,,TuFr,09:30,10:45,100,0
+THTR 1030-02 - Acting I,THTR 1030,,in-person,,We,11:00,13:30,100,0
+THTR 1111-01 - Great Theatre of the World,THTR 1111,,in-person,,MoTh,11:00,12:15,100,0
+THTR 1137-01 - Acting for the Camera,THTR 1137,,in-person,,We,14:00,16:30,100,0
+THTR 1150-01 - Entertainment Technology,THTR 1150,,in-person,,MoTh,09:30,10:45,100,0
+THTR 1951-01N - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 1951-01 - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 1951-02N - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 1951-02 - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 1951-03N - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 1951-03 - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 1951-04N - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 1951-04 - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 1951-05N - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 1951-05 - TF Performance Practicum (TF PERFORMANCE PRACTICUM),THTR 1951,,in-person,,,,,100,0
+THTR 2250-02 - His.Fashion Dress/Global Cntxt,THTR 2250,,in-person,,TuFr,12:30,13:45,100,0
+THTR 3240-01 - Directing,THTR 3240,,in-person,,MoTh,12:30,13:45,100,0
+THTR 3980-01 - Internship,THTR 3980,,in-person,,,,,100,0
+THTR 3980-02 - Internship,THTR 3980,,in-person,,,,,100,0
+THTR 3990-01 - Independent Study,THTR 3990,,in-person,,,,,100,0
+THTR 4999-01 - Theatre Capstone (THEATRE CAPSTONE),THTR 4999,,in-person,,TuFr,14:00,15:15,100,0
+TSLA 5419-01 - SpecLearnerBilingual/ESL Clsrm,TSLA 5419,,in-person,,,,,100,0
+TSLA 5420-01 - Ling Found of Engl Acquisition,TSLA 5420,,in-person,,,,,100,0
+TSLA 6451-01 - Infusing Content Lang to Curr,TSLA 6451,,in-person,,,,,100,0
+TSLA 6582-01 - TESOL Student Tchg & DSAP Sem,TSLA 6582,,in-person,,,,,100,0
+TSLA 6588-01 - Dir Observations/TESOL DSAP I,TSLA 6588,,in-person,,,,,100,0
+TSLA 6589-01 - Dir Observations/TESOL DSAP II,TSLA 6589,,in-person,,,,,100,0
+TSLA 6999A-01 - Cap Sem Inclusv Lang Teaching,TSLA 6999A,,in-person,,,,,100,0
+WGSS 3980-02 - Internship,WGSS 3980,,in-person,,,,,100,0
+EDUC 4497-01 - Teach Sci & SS/Elem Classroom,EDUC 4497,,in-person,,,,,100,0
+ACCT 3255-01 - Accounting Information Systems,ACCT 3255,,in-person,,We,08:00,10:30,100,0
+ACCT 3255-02 - Accounting Information Systems,ACCT 3255,,in-person,,TuFr,09:30,10:45,100,0
+ACCT 3255-03 - Accounting Information Systems,ACCT 3255,,in-person,,TuFr,08:00,09:15,100,0
+ACCT 3255-04 - Accounting Information Systems,ACCT 3255,,in-person,,TuFr,12:30,13:45,100,0
+AMED 2005-01 - Greco-Roman Lit in Depth,AMED 2005,,in-person,,MoTh,12:30,13:45,100,0
+COUN 5900-02 - Special Topics (Shell) (SPECIAL TOPICS),COUN 5900,,in-person,,,,,100,0
+CPSC 1101-04 - Introduction to Computing,CPSC 1101,,in-person,,,,,100,0
+ENGL 1001-23 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,08:00,09:15,100,0
+ENGL 1001-37 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,09:30,10:45,100,0
+"ENGL 4900-01 - 18th Cent. Race and Travel Nar (Race, Culture, and British Travel Narrative, 1682-1789)",ENGL 4900,,in-person,,We,14:00,16:30,100,0
+HLST 3900C-01 - ST:Older Populations & Society (ST: Older Populations & Society),HLST 3900C,,in-person,,,,,100,0
+IDSN 5410-03 - Interior Design I,IDSN 5410,,in-person,,,,,100,0
+IDSN 5410-04 - Interior Design I,IDSN 5410,,in-person,,,,,100,0
+MGMT 4900-01 - Law & Contemp. Mgmt Issues (ST: LAW & CONTEMP MGMT ISSUES),MGMT 4900,,in-person,,TuFr,12:30,13:45,100,0
+PHIL 2900-01 - ST: Philosophy of Medicine (Philosophy of Medicine),PHIL 2900,,in-person,,Mo,17:00,19:30,100,0
+PSYC 2900-01 - Pathways Success Psych Science (PATHWAYS TO SUCCESS IN PSYCHOLOGICAL SCIENCES),PSYC 2900,,in-person,,We,11:00,13:30,100,0
+RLST 1003-02 - Religion in a Comparative Key,RLST 1003,,in-person,,MoWe,20:00,21:15,100,0
+RLST 2556-01 - Spirituality & Social Justice,RLST 2556,,in-person,,We,11:00,13:30,100,0
+SWEG 5335-01 - Digital Forensics,SWEG 5335,,in-person,,,,,100,0
+BUSN 3211-21 - Legal Environment of Business,BUSN 3211,,in-person,,Fr,14:00,16:30,100,0
+HIST 1100-26 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,Tu,17:00,19:30,100,0
+HIST 1100-27.01 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,Th,17:00,19:30,100,0
+MATH 1121-08 - Applied Calculus I,MATH 1121,,in-person,,TuFr,12:30,13:45,100,0
+MATH 1121-09.12 - Applied Calculus I,MATH 1121,,in-person,,TuFr,15:30,16:45,100,0
+MATH 1121-10.11 - Applied Calculus I,MATH 1121,,in-person,,TuTh,17:00,18:15,100,0
+MATH 1121-11.04 - Applied Calculus I,MATH 1121,,in-person,,,,,100,0
+MATH 1121-12.05 - Applied Calculus I,MATH 1121,,in-person,,TuFr,11:00,12:15,100,0
+MATH 1121-13.06 - Applied Calculus I,MATH 1121,,in-person,,TuFr,12:30,13:45,100,0
+MATH 1121-14.07 - Applied Calculus I,MATH 1121,,in-person,,MoTh,08:00,09:15,100,0
+MATH 1121-15.08 - Applied Calculus I,MATH 1121,,in-person,,MoWe,17:00,18:15,100,0
+MATH 1121-16.09 - Applied Calculus I,MATH 1121,,in-person,,MoTh,15:30,16:45,100,0
+MATH 1121-17.01 - Applied Calculus I,MATH 1121,,in-person,,MoWe,17:00,18:15,100,0
+MATH 1121-18.02 - Applied Calculus I,MATH 1121,,in-person,,MoTh,15:30,16:45,100,0
+MATH 1121-19.03 - Applied Calculus I,MATH 1121,,in-person,,TuFr,12:30,13:45,100,0
+MATH 1121-20.10 - Applied Calculus I,MATH 1121,,in-person,,TuFr,09:30,10:45,100,0
+MATH 1121-21 - Applied Calculus I,MATH 1121,,in-person,,TuFr,15:30,16:45,100,0
+MATH 1121-22.13 - Applied Calculus I,MATH 1121,,in-person,,TuFr,14:00,15:15,100,0
+MATH 1122-01 - Applied Calculus II,MATH 1122,,in-person,,TuFr,08:00,09:15,100,0
+MATH 1122-02.01 - Applied Calculus II,MATH 1122,,in-person,,TuFr,09:30,10:45,100,0
+MATH 1122-03.04 - Applied Calculus II,MATH 1122,,in-person,,MoTh,09:30,10:45,100,0
+MATH 1122-04.03 - Applied Calculus II,MATH 1122,,in-person,,MoTh,11:00,12:15,100,0
+MATH 1122-05.02 - Applied Calculus II,MATH 1122,,in-person,,MoTh,09:30,10:45,100,0
+MFTH 6981-02 - Internship in Family Therapy I,MFTH 6981,,in-person,,,,,100,0
+SPAN 1111-11 - Elementary Spanish II,SPAN 1111,,in-person,,TuWeFr,16:00,16:50,100,0
+"PSYC 1740-02 - Drugs, Brain, and Behavior",PSYC 1740,,in-person,,MoTh,12:30,13:45,100,0
+HCAD 6951-01 - Healthcare Admin Practicum (HEALTHCARE ADMIN PRACTICUM),HCAD 6951,,in-person,,,,,100,0
+NURS 2303-07 - Basic Pathophys&Pharmacology,NURS 2303,,in-person,,MoTh,09:30,10:45,100,0
+AHST 2250-01 - Hist Fashionable Dress /Global,AHST 2250,,in-person,,TuFr,12:30,13:45,100,0
+THTR 2250-01 - His.Fashion Dress/Global Cntxt,THTR 2250,,in-person,,TuFr,12:30,13:45,100,0
+AHST 1172-01 - History of Photography,AHST 1172,,in-person,,MoTh,09:30,10:45,100,0
+FNCE 6900-01.01 - Contemporary Topics Seminar,FNCE 6900,,in-person,,,,,100,0
+SART 1011-02 - Introduction to Sculpture,SART 1011,,in-person,,,,,100,0
+SART 1012-02 - Introduction to Drawing,SART 1012,,in-person,,,,,100,0
+SART 1012-03 - Introduction to Drawing,SART 1012,,in-person,,,,,100,0
+DATA 1101-03 - Business Analytics,DATA 1101,,in-person,,MoTh,09:30,10:45,100,0
+DATA 1101-04.01 - Business Analytics,DATA 1101,,in-person,,MoTh,11:00,12:15,100,0
+DATA 1101-05.02 - Business Analytics,DATA 1101,,in-person,,MoTh,12:30,13:45,100,0
+DATA 1101-06.03 - Business Analytics,DATA 1101,,in-person,,,,,100,0
+DATA 3210-01 - Business Analytics Methods,DATA 3210,,in-person,,TuFr,09:30,10:45,100,0
+DATA 3210-02.01 - Business Analytics Methods,DATA 3210,,in-person,,MoTh,11:00,12:15,100,0
+DATA 3210-03.02 - Business Analytics Methods,DATA 3210,,in-person,,MoTh,12:30,13:45,100,0
+DATA 6520-03 - Analytics Consulting and Strat,DATA 6520,,in-person,,,,,100,0
+SPAN 3286-01 - Sociolinguistic Approaches,SPAN 3286,,in-person,,TuFr,14:00,15:15,100,0
+ENGL 1001-38 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,12:30,13:45,100,0
+HONR 1101-01 - Enduring Questions,HONR 1101,,in-person,,Th,17:00,19:30,100,0
+HONR 1101-02 - Enduring Questions,HONR 1101,,in-person,,TuFr,12:30,13:45,100,0
+HONR 1101-03 - Enduring Questions,HONR 1101,,in-person,,We,11:00,13:30,100,0
+HONR 2202-01 - Honors Seminar,HONR 2202,,in-person,,MoTh,09:30,10:45,100,0
+HONR 2202-02 - Honors Seminar,HONR 2202,,in-person,,MoTh,15:30,16:45,100,0
+HONR 2202-03 - Honors Seminar,HONR 2202,,in-person,,We,08:00,10:30,100,0
+HONR 2202-04 - Honors Seminar,HONR 2202,,in-person,,TuFr,14:00,15:15,100,0
+HONR 2202-05 - Honors Seminar,HONR 2202,,in-person,,We,14:00,16:30,100,0
+HONR 2202-06 - Honors Seminar,HONR 2202,,in-person,,MoTh,12:30,13:45,100,0
+HONR 2202-07 - Honors Seminar,HONR 2202,,in-person,,TuFr,11:00,12:15,100,0
+ACCT 6575-01 - Data Analytics in Accounting,ACCT 6575,,in-person,,,,,100,0
+ACCT 6575-02 - Data Analytics in Accounting,ACCT 6575,,in-person,,,,,100,0
+ACCT 6575-03 - Data Analytics in Accounting,ACCT 6575,,in-person,,,,,100,0
+COMM 5322-01 - Leadership Communication,COMM 5322,,in-person,,,,,100,0
+MFTH 6971-01 - Thesis,MFTH 6971,,in-person,,,,,100,0
+MKTG 2271-01 - Fashion Marketing,MKTG 2271,,in-person,,We,14:00,16:30,100,0
+ECON 3215-01.01 - Innovation and Economic Growth,ECON 3215,,in-person,,,,,100,0
+BIOL 1076-02 - Environmental Science,BIOL 1076,,in-person,,MoTh,15:30,16:45,100,0
+CHEM 1076-02 - Environmental Science,CHEM 1076,,in-person,,MoTh,15:30,16:45,100,0
+DATA 4000-01 - Python Programming with AI,DATA 4000,,in-person,,We,17:00,19:30,100,0
+AETH 2285-04 - Ethics of Health Care,AETH 2285,,in-person,,,,,100,0
+HIST 1100-28.02 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,MoTh,09:30,10:45,100,0
+HIST 1100-29 - Origins of Mod Wrld Since 1500,HIST 1100,,in-person,,MoTh,15:30,16:45,100,0
+HIST 2202-02 - Health and Healing in America,HIST 2202,,in-person,,Tu,17:00,19:30,100,0
+HIST 2202-01 - Health and Healing in America,HIST 2202,,in-person,,Mo,17:00,19:30,100,0
+IDSN 5421-01 - Sustainable Design,IDSN 5421,,in-person,,,,,100,0
+DATA 6500-04 - Leading with Analytics,DATA 6500,,in-person,,,,,100,0
+DATA 6520-04 - Analytics Consulting and Strat,DATA 6520,,in-person,,,,,100,0
+FNCE 4390-03 - Seminar in Finance (SEMINAR IN FINANCE),FNCE 4390,,in-person,,We,11:00,13:30,100,0
+MKTG 6500-03 - Customer Value,MKTG 6500,,in-person,,,,,100,0
+BIEG 5331-01 - Biomedical Signal Processing,BIEG 5331,,in-person,,MoTh,12:30,13:45,100,0
+MKTG 6530-01 - Marketing Analytics,MKTG 6530,,in-person,,Th,18:30,21:30,100,0
+NSAN 7959-01 - Nurse Anesthesia Residency IV,NSAN 7959,,in-person,,,,,100,0
+MFTH 6972-01 - MFT Thesis Research I (MFT Thesis Research I),MFTH 6972,,in-person,,,,,100,0
+MFTH 6973-01 - MFT Thesis Research II (MFT Thesis Research II),MFTH 6973,,in-person,,,,,100,0
+"COMM 2242-01 - Alcohol, Addiction, Culture",COMM 2242,,in-person,,TuFr,12:30,13:45,100,0
+TSLA 5419-02 - SpecLearnerBilingual/ESL Clsrm,TSLA 5419,,in-person,,,,,100,0
+MFTH 6983-02 - Cont Internship in Fam Therapy,MFTH 6983,,in-person,,,,,100,0
+FNCE 4390-04 - Seminar in Finance (SEMINAR IN FINANCE),FNCE 4390,,in-person,,MoTh,15:30,16:45,100,0
+MFTH 6971-02 - Thesis,MFTH 6971,,in-person,,,,,100,0
+SPED 4413-02 - Theories & Intro Lrng Disabil,SPED 4413,,in-person,,,,,100,0
+BIOL 2261L-02 - Genetics Lab,BIOL 2261L,,in-person,,,,,100,0
+FNCE 3210-06 - Principles of Investment,FNCE 3210,,in-person,,We,18:30,21:30,100,0
+FNCE 3215-06 - Financial Management,FNCE 3215,,in-person,,,,,100,0
+FNCE 4390-05 - Seminar in Finance (SEMINAR IN FINANCE),FNCE 4390,,in-person,,,,,100,0
+SPED 4410-02 - Autism Spectrum Disorders,SPED 4410,,in-person,,,,,100,0
+SWRG 5561-03 - Social Work Fieldwork I,SWRG 5561,,in-person,,,,,100,0
+SWRG 6568-02 - Adv Research & Prog Evaluation,SWRG 6568,,in-person,,,,,100,0
+TSLA 6951-01 - SYC Adv Research Practicum (SYC ADV RESEARCH PRACTICUM),TSLA 6951,,in-person,,,,,100,0
+HLST 4999-03 - Health Studies Capstone (HEALTH STUDIES CAPSTONE),HLST 4999,,in-person,,We,17:00,19:30,100,0
+ENGL 1001-53 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuTh,17:00,18:15,100,0
+ITLN 1110-08.01 - Elementary Italian I,ITLN 1110,,in-person,,MoWeTh,17:00,17:50,100,0
+EVST 4001-01 - Environment Workshop,EVST 4001,,in-person,,Mo,17:00,19:30,100,0
+FNCE 2101-16 - Introduction to Finance,FNCE 2101,,in-person,,MoTh,09:30,10:45,100,0
+HIST 3990-02 - Independent Study,HIST 3990,,in-person,,,,,100,0
+EDUC 3350-02 - Special Learners in Mainstream,EDUC 3350,,in-person,,We,14:00,16:30,100,0
+SWRG 6581-02 - Adv Clin Spec Field Work I,SWRG 6581,,in-person,,,,,100,0
+COUN 6560-01 - Eating Disorders: Treatment,COUN 6560,,in-person,,,,,100,0
+PHIL 2230-01 - Phil of Self and Subjectivity,PHIL 2230,,in-person,,,,,100,0
+PHIL 2230-02 - Phil of Self and Subjectivity,PHIL 2230,,in-person,,MoTh,12:30,13:45,100,0
+"EDLV 0000-01 - Educational Leave (AIFS Abroad in London, Global Education Center: Semester or Academic Year, London, United Kingdom)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-03 - Educational Leave (Fairfield Center with Comillas Pontifical University, Madrid - Fairfield Students, Madrid, Spain)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-05 - Educational Leave (Fairfield Center with Florence University of the Arts - Fairfield Less than 90 day program, Florence, Italy)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-07 - Educational Leave (Fairfield Center with Florence University of the Arts - Fairfield Students, Florence, Italy)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-09 - Educational Leave (Fairfield Center with James Cook University, Townsville, Australia - Fairfield Students, Townsville, Australia)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-02 - Educational Leave (AIFS Business Program with University of Sydney, Australia - Fairfield Students, Sydney, Australia)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-04 - Educational Leave (Fairfield Center with Florence University of the Arts - Fairfield Florence Fall Finance, Florence, Italy)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-12 - Educational Leave (London School of Economics, London, United Kingdom)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-13 - Educational Leave (Maastricht University School of Business and Economics, Maastricht, Netherlands)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-06 - Educational Leave (Fairfield Center with Florence University of the Arts - Fairfield less than 90 day traveling program, Rome, Italy; Florence, Italy)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-08 - Educational Leave (Fairfield Center with IAU France - Fairfield Students, Aix-en-Provence, France)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-10 - Educational Leave (Fairfield Center with University of Galway - Fairfield Students, Galway, Ireland)",EDLV 0000,,in-person,,,,,100,0
+"EDLV 0000-11 - Educational Leave (Fairfield Engineering Program in Barcelona with IQS, Fall Fairfield Students, Barcelona, Spain)",EDLV 0000,,in-person,,,,,100,0
+ENGL 1260-01.01 - American Social Protest Lit,ENGL 1260,,in-person,,MoTh,12:30,13:45,100,0
+BIOL 3324-02 - Biochemistry I,BIOL 3324,,in-person,,MoTh,12:30,13:45,100,0
+CHEM 3324-02 - Biochemistry I,CHEM 3324,,in-person,,MoTh,12:30,13:45,100,0
+ENGL 1260-02.02 - American Social Protest Lit,ENGL 1260,,in-person,,,,,100,0
+COUN 6950-02 - Counseling Practicum (COUNSELING PRACTICUM),COUN 6950,,in-person,,We,17:00,19:30,100,0
+HIST 3990-03 - Independent Study,HIST 3990,,in-person,,,,,100,0
+FYEX 1001-36 - Exploration,FYEX 1001,,in-person,,,,,100,0
+PHIL 1101-29 - Introduction to Philosophy,PHIL 1101,,in-person,,We,14:00,16:30,100,0
+BUSN 7740-01.01 - Research Seminar V: Testing,BUSN 7740,,in-person,,,,,100,0
+HONR 2202-09.01 - Honors Seminar,HONR 2202,,in-person,,TuFr,11:00,12:15,100,0
+RLST 1402-07 - Introduction to Catholicism,RLST 1402,,in-person,,TuFr,14:00,15:15,100,0
+ECON 1012-02 - Introduction to Macroeconomics,ECON 1012,,in-person,,TuFr,08:00,09:15,100,0
+PSYC 4950-06 - Research Thesis in Psychology,PSYC 4950,,in-person,,,,,100,0
+FYEX 1001-35 - Exploration,FYEX 1001,,in-person,,,,,100,0
+PHIL 1101-28 - Introduction to Philosophy,PHIL 1101,,in-person,,We,11:00,13:30,100,0
+RLST 1002-03 - Common Questions Trad Response,RLST 1002,,in-person,,,,,100,0
+RLST 1002-04 - Common Questions Trad Response,RLST 1002,,in-person,,MoTh,15:30,16:45,100,0
+RLST 1402-06 - Introduction to Catholicism,RLST 1402,,in-person,,TuFr,11:00,12:15,100,0
+ENGL 4990-01 - Independent Study,ENGL 4990,,in-person,,,,,100,0
+HONR 2202-08.02 - Honors Seminar,HONR 2202,,in-person,,TuFr,12:30,13:45,100,0
+"INTL 1050-05 - People, Places Global Issues",INTL 1050,,in-person,,TuFr,08:00,09:15,100,0
+SWRG 6569-03 - Assessment Techniques,SWRG 6569,,in-person,,,,,100,0
+RLST 1003-01.02 - Religion in a Comparative Key,RLST 1003,,in-person,,,,,100,0
+RLST 1003-02.03 - Religion in a Comparative Key,RLST 1003,,in-person,,MoWe,20:00,21:15,100,0
+ENGL 4960-01 - Independent Writing Project (INDEPENDENT WRITING PROJECT),ENGL 4960,,in-person,,,,,100,0
+FYEX 1999-01 - Athletic Practice: Men's Basketball,FYEX 1999,,in-person,,MoTuWeThFr,09:00,13:00,100,0
+FYEX 1999-02 - Athletic Practice: Women's Basketball,FYEX 1999,,in-person,,MoTuWeThFr,14:00,18:00,100,0
+FYEX 1999-16 - Athletic Practice: Cross Country,FYEX 1999,,in-person,,,,,100,0
+FYEX 1999-03 - Athletic Practice: Swim,FYEX 1999,,in-person,,,,,100,0
+FYEX 1999-04 - Athletic Practice: Dive,FYEX 1999,,in-person,,,,,100,0
+FYEX 1999-15 - Athletic Practice: Field Hockey,FYEX 1999,,in-person,,,,,100,0
+FYEX 1999-05 - Athletic Practice: Baseball,FYEX 1999,,in-person,,,,,100,0
+FYEX 1999-14 - Athletic Practice: Women's Soccer,FYEX 1999,,in-person,,,,,100,0
+FYEX 1999-06 - Athletic Practice: Softball,FYEX 1999,,in-person,,MoTuWeThFr,08:00,12:00,100,0
+FYEX 1999-13 - Athletic Practice: Men's Soccer,FYEX 1999,,in-person,,,,,100,0
+FYEX 1999-07 - Athletic Practice: Men's Lacrosse,FYEX 1999,,in-person,,,,,100,0
+FYEX 1999-08 - Athletic Practice: Women's Lacrosse,FYEX 1999,,in-person,,MoTuWeThFr,09:00,11:00,100,0
+FYEX 1999-12 - Athletic Practice: Volleyball,FYEX 1999,,in-person,,,,,100,0
+FYEX 1999-09 - Athletic Practice: Rowing,FYEX 1999,,in-person,,MoTuWeThFr,06:00,09:00,100,0
+FYEX 1999-11 - Athletic Practice: Golf (Men & Women),FYEX 1999,,in-person,,MoTuWeThFr,13:30,17:30,100,0
+FYEX 1999-10 - Athletic Practice: Men's Tennis,FYEX 1999,,in-person,,MoTuWeThFr,12:30,14:30,100,0
+FYEX 1999-17 - Athletic Practice: Women's Tennis,FYEX 1999,,in-person,,MoTuWeThFr,14:30,16:30,100,0
+ENGL 1001-46H - Intro Rhetoric and Composition,ENGL 1001,,in-person,,MoTh,12:30,13:45,100,0
+ACCT 1011-27 - Intro to Financial Accounting,ACCT 1011,,in-person,,MoTh,08:00,09:15,100,0
+FNCE 2101-17 - Introduction to Finance,FNCE 2101,,in-person,,We,17:00,19:30,100,0
+FNCE 3210-07 - Principles of Investment,FNCE 3210,,in-person,,TuTh,17:00,18:15,100,0
+FNCE 3215-07 - Financial Management,FNCE 3215,,in-person,,MoTh,08:00,09:15,100,0
+BIOL 1171L-10 - General Biology I Lab,BIOL 1171L,,in-person,,,,,100,0
+MATH 1017-07 - Elem Probability & Statistics,MATH 1017,,in-person,,MoTh,12:30,13:45,100,0
+ENGL 1260-03 - American Social Protest Lit,ENGL 1260,,in-person,,MoTh,08:00,09:15,100,0
+ENGL 1260-04 - American Social Protest Lit,ENGL 1260,,in-person,,,,,100,0
+CHEM 1171L-15 - General Chemistry I Lab,CHEM 1171L,,in-person,,,,,100,0
+CHEM 1171-08 - General Chemistry I,CHEM 1171,,in-person,,,,,100,0
+MATH 4980-02 - Internship,MATH 4980,,in-person,,,,,100,0
+SPAN 2220-06 - Topics in Language and Culture,SPAN 2220,,in-person,,MoTh,12:30,13:45,100,0
+PUBH 7002-01 - Leadership & Collab in PH,PUBH 7002,,in-person,,,,,100,0
+PUBH 7009-01 - Applied Ethics in PH Practice,PUBH 7009,,in-person,,,,,100,0
+PUBH 7901-01 - PH Doctoral Residency,PUBH 7901,,in-person,,,,,100,0
+COMM 1101-07 - Argument and Advocacy,COMM 1101,,in-person,,We,18:30,21:00,100,0
+CHEM 1083-01 - Survey of Chemistry,CHEM 1083,,in-person,,MoTh,09:30,10:45,100,0
+RLST 1802-03 - Buddhism,RLST 1802,,in-person,,TuFr,14:00,15:15,100,0
+RLST 1802-04 - Buddhism,RLST 1802,,in-person,,TuFr,15:30,16:45,100,0
+ITLN 1111-04 - Elementary Italian II,ITLN 1111,,in-person,,,,,100,0
+COMM 1100-07 - Human Communication Theories,COMM 1100,,in-person,,We,11:00,13:30,100,0
+"RLST 1004-02.01 - People of the Book, SacredTxts",RLST 1004,,in-person,,MoTh,15:30,16:45,100,0
+COMM 5980-01 - Communication Practicum,COMM 5980,,in-person,,,,,100,0
+COMM 1100-08 - Human Communication Theories,COMM 1100,,in-person,,,,,100,0
+RLST 1001-03 - Religion and the Critical Mind,RLST 1001,,in-person,,MoTh,15:30,16:45,100,0
+MATH 1121-23.14 - Applied Calculus I,MATH 1121,,in-person,,MoTh,08:00,09:15,100,0
+MATH 1121-24.15 - Applied Calculus I,MATH 1121,,in-person,,,,,100,0
+MATH 1122-06.05 - Applied Calculus II,MATH 1122,,in-person,,MoTh,08:00,09:15,100,0
+MUSC 1122-02 - World Music Hist and Ensemble,MUSC 1122,,in-person,,,,,100,0
+ANTH 1110-03 - Cultural Anthropology,ANTH 1110,,in-person,,,,,100,0
+SWRG 5551-03 - Gen Social Work Practice I,SWRG 5551,,in-person,,,,,100,0
+FYEX 2000-01 - Sophomore Success,FYEX 2000,,in-person,,TuFr,08:00,09:15,100,0
+ITLN 3990-01 - Independent Study,ITLN 3990,,in-person,,,,,100,0
+EDUC 5900-01 - IS: Student Teaching-Elem (IS: Student Teaching-Elem),EDUC 5900,,in-person,,,,,100,0
+PHIL 1101-30 - Introduction to Philosophy,PHIL 1101,,in-person,,We,14:00,16:30,100,0
+FNCE 2101-18 - Introduction to Finance,FNCE 2101,,in-person,,We,17:00,19:30,100,0
+SOCI 4990-01 - Independent Study,SOCI 4990,,in-person,,,,,100,0
+BIOL 4990-01 - Independent Study,BIOL 4990,,in-person,,,,,100,0
+DATA 3335-03 - Sports Analytics,DATA 3335,,in-person,,We,14:00,16:30,100,0
+IDSN 5411-02 - Textiles for Interiors,IDSN 5411,,in-person,,,,,100,0
+NURS 3314C-12 - Maternal/Newborn Nursing Clin,NURS 3314C,,in-person,,,,,100,0
+NURS 4323C-23 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-24 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-26 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+TAXN 6585-01 - Effective Comm for Acctg Pros,TAXN 6585,,in-person,,,,,100,0
+SWRG 5561-04 - Social Work Fieldwork I,SWRG 5561,,in-person,,,,,100,0
+NURS 4323C-20 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-25 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-27 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-21 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4323C-22 - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+NURS 4325C-19 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+BUSN 7740-01.03 - Research Seminar V: Testing,BUSN 7740,,in-person,,,,,100,0
+DATA 6990-01 - Independent Study,DATA 6990,,in-person,,,,,100,0
+TAXN 6575-01 - Data Analytics in Accounting,TAXN 6575,,in-person,,,,,100,0
+TAXN 6575-02 - Data Analytics in Accounting,TAXN 6575,,in-person,,,,,100,0
+TAXN 6575-03 - Data Analytics in Accounting,TAXN 6575,,in-person,,,,,100,0
+ACCT 5400-01 - Introduction to Accounting,ACCT 5400,,in-person,,,,,100,0
+MKTG 6583-01.02 - Pricing Strategies & Analytics,MKTG 6583,,in-person,,Tu,18:30,21:30,100,0
+SWRG 5433-02 - Soc Just & Div / Prof Pract,SWRG 5433,,in-person,,,,,100,0
+EDUC 6593-01 - World Language Seminar,EDUC 6593,,in-person,,,,,100,0
+HUAC 3980-01 - Humanitarian Action Internship,HUAC 3980,,in-person,,,,,100,0
+BUSN 2500-01 - Dolan Experiential Learning,BUSN 2500,,in-person,,,,,100,0
+ENGL 1001-54 - Intro Rhetoric and Composition,ENGL 1001,,in-person,,TuFr,09:30,10:45,100,0
+BUSN 6980-02 - Business Immersion Practicum,BUSN 6980,,in-person,,,,,100,0
+AHST 3980-02 - Internship,AHST 3980,,in-person,,,,,100,0
+EDUC 6990-01 - Independent Study (IS: Science Methods),EDUC 6990,,in-person,,,,,100,0
+ENGR 5990-01 - Independent Study,ENGR 5990,,in-person,,,,,100,0
+EDUC 6990-02 - Independent Study (IS: Instruct Issues in Teaching Science),EDUC 6990,,in-person,,,,,100,0
+PSYC 6999-01 - Comp Exam in I/O Psychology (Comp Exam in I/O Psychology),PSYC 6999,,in-person,,,,,100,0
+NURS 4325C-20 - Med Surgical Nursing II Clinic,NURS 4325C,,in-person,,,,,100,0
+NURS 4323C-22T - Pediatric Nursing Clinical,NURS 4323C,,in-person,,,,,100,0
+PUAD 5405-02 - Intro to Public Administration,PUAD 5405,,in-person,,,,,100,0
+MUSC 3955-02 - University Glee Club,MUSC 3955,,in-person,,MoWe,17:00,18:30,100,0
+ASST 3990-01 - Independent Study,ASST 3990,,in-person,,,,,100,0
+PHYS 4975-01 - Physics Research V (PHYSICS RESEARCH V),PHYS 4975,,in-person,,,,,100,0
+PUBH 3990-01 - Independent Study,PUBH 3990,,in-person,,,,,100,0
+INTL 3980-01 - Internship,INTL 3980,,in-person,,,,,100,0
+"EDLV 0000-15 - Educational Leave (SOR American College of the Mediterranean - Aix-en-Provence, France)",EDLV 0000,,in-person,,,,,100,0
+CHEM 4973-06 - Research and Seminar III (RESEARCH AND SEMINAR III),CHEM 4973,,in-person,,,,,100,0
+ECEG 5990-02 - Independent Study (INDEPENDENT STUDY),ECEG 5990,,in-person,,,,,100,0
+ENGR 4990-04 - Independent Study,ENGR 4990,,in-person,,,,,100,0
+EDDL 7105-02 - Dissertation Advising,EDDL 7105,,in-person,,,,,100,0
+"EDLV 0000-14 - Educational Leave (SOR AIFS Global Education Center - Rome, Italy)",EDLV 0000,,in-person,,,,,100,0
+EDDL 7105-03 - Dissertation Advising,EDDL 7105,,in-person,,,,,100,0
+PHYS 4971-02 - Physics Research I (PHYSICS RESEARCH I),PHYS 4971,,in-person,,,,,100,0
+MKTG 4990-01 - Independent Study,MKTG 4990,,in-person,,,,,100,0
+BIEG 6971-03 - Thesis I,BIEG 6971,,in-person,,,,,100,0
+ENGR 4990-03 - Independent Study,ENGR 4990,,in-person,,,,,100,0
+ECEG 6971-02 - Thesis I,ECEG 6971,,in-person,,,,,100,0

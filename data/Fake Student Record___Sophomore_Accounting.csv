@@ -1,0 +1,2 @@
+student_id,first_name,last_name,year,major,school,gpa,credits_completed,current_credits,completed_courses,courses_current,email,advisor,expected_graduation,status
+S20270018,Emma,Reynolds,Sophomore,Accounting,Dolan School of Business,3.62,45,15,"ACCT1011, BUSN1101, MATH1121, ENGL1001, MGMT2101, ECON1011, COMM1100, RLST1001, HIST1100","ACCT1012, MKTG1101, DATA1101, ECON1012, PHIL1101",emma.reynolds@student.fairfield.edu,Dr. Illya Mowerman,May-27,Full-time
