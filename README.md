@@ -15,7 +15,7 @@ The assistant interprets these requests, converts them into structured academic 
 
 This project is intended as a portfolio-grade academic and technical demonstration developed as part of an independent study. It showcases how artificial intelligence, analytics, and rule-based systems can be applied to complex, real-world decision processes such as university course registration.
 
-The system is not an official advising tool and is not affiliated with or deployed by Fairfield University. All data used in this project is mock or sample data created for demonstration and testing purposes.
+The system is not an official advising tool and is not affiliated with or deployed by Fairfield University. The course and section data used in this project is based on real Fairfield University registration data from a completed academic term. While the data reflects authentic institutional structure and constraints, it is no longer active and is used solely for educational and demonstration purposes.
 
 This repository is designed for:
 - Employers evaluating applied AI, analytics, or software engineering work
