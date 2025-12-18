@@ -11,6 +11,19 @@ The assistant interprets these requests, converts them into structured academic 
 
 ---
 
+## Who This Is For
+
+This project is intended as a **portfolio-grade academic and technical demonstration**, developed as part of an independent study. It showcases how artificial intelligence, analytics, and rule-based systems can be applied to complex, real-world decision processes such as university course registration.
+
+The system is **not an official advising tool** and is **not affiliated with or deployed by Fairfield University**. All data used in this project is mock or sample data created for demonstration and testing purposes.
+
+This repository is designed for:
+- Employers evaluating applied AI, analytics, or software engineering work
+- Academic reviewers assessing independent study outcomes
+- Students and developers interested in explainable, rule-based recommendation systems
+
+---
+
 ## Problem Motivation
 University course registration is often complex, time-consuming, and unclear for students. Many students struggle to understand how degree requirements, prerequisites, and scheduling constraints interact, leading to suboptimal course choices and advising bottlenecks.
 
