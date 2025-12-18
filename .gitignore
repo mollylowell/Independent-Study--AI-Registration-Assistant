@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Streamlit secrets (never push)
+.streamlit/secrets.toml
+
+# Local uploads / generated files
+Uploaded_Raw.csv
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
